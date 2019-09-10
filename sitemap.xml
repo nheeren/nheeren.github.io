@@ -3,11 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nheeren.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/</loc>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/</loc>
   </url>
   
   <url>
     <loc>https://nheeren.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/talk/</loc>
   </url>
   
   <url>

@@ -3,12 +3,46 @@
   <channel>
     <title>BuildENVIRONMENT</title>
     <link>https://nheeren.github.io/</link>
-    <description>Recent content on BuildENVIRONMENT</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+      <atom:link href="https://nheeren.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>BuildENVIRONMENT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>BuildENVIRONMENT</title>
+      <link>https://nheeren.github.io/</link>
+    </image>
     
-	<atom:link href="https://nheeren.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Posts</title>
+      <link>https://nheeren.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://nheeren.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://nheeren.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

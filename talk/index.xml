@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | BuildENVIRONMENT</title>
-    <link>https://nheeren.github.io/tags/</link>
-      <atom:link href="https://nheeren.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
+    <title>Recent &amp; Upcoming Talks | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/talk/</link>
+      <atom:link href="https://nheeren.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright>
     <image>
       <url>https://nheeren.github.io/img/icon-192.png</url>
-      <title>Tags</title>
-      <link>https://nheeren.github.io/tags/</link>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://nheeren.github.io/talk/</link>
     </image>
     
   </channel>
