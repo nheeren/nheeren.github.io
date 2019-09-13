@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embodied energy | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/embodied-energy/</link>
+      <atom:link href="https://nheeren.github.io/tags/embodied-energy/index.xml" rel="self" type="application/rss+xml" />
+    <description>embodied energy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>embodied energy</title>
+      <link>https://nheeren.github.io/tags/embodied-energy/</link>
+    </image>
+    
+    <item>
+      <title>Influence of construction material choice and design parameters on greenhouse gas emissions of buildings</title>
+      <link>https://nheeren.github.io/publication/heeren-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Integrated framework | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/integrated-framework/</link>
+      <atom:link href="https://nheeren.github.io/tags/integrated-framework/index.xml" rel="self" type="application/rss+xml" />
+    <description>Integrated framework</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Integrated framework</title>
+      <link>https://nheeren.github.io/tags/integrated-framework/</link>
+    </image>
+    
+    <item>
+      <title>A novel integrated framework to evaluate greenhouse energy demand and crop yield production</title>
+      <link>https://nheeren.github.io/publication/golzar-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/golzar-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

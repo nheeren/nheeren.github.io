@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia Okatz | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/julia-okatz/</link>
+      <atom:link href="https://nheeren.github.io/authors/julia-okatz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julia Okatz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Julia Okatz</title>
+      <link>https://nheeren.github.io/authors/julia-okatz/</link>
+    </image>
+    
+    <item>
+      <title>Upcoming IRP G7 report `GHG mitigation through material efficiency in residential buildings and light-duty vehicles&#39;</title>
+      <link>https://nheeren.github.io/talk/g-7-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/g-7-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

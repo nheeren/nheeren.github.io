@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NRP66 | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/nrp66/</link>
+      <atom:link href="https://nheeren.github.io/tags/nrp66/index.xml" rel="self" type="application/rss+xml" />
+    <description>NRP66</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>NRP66</title>
+      <link>https://nheeren.github.io/tags/nrp66/</link>
+    </image>
+    
+    <item>
+      <title>Ecological use of wood resources in Switzerland: an overview from the Swiss National Research Program (NRP) 66</title>
+      <link>https://nheeren.github.io/publication/steubing-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/steubing-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

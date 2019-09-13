@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin Sunjaro | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/benjamin-sunjaro/</link>
+      <atom:link href="https://nheeren.github.io/authors/benjamin-sunjaro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benjamin Sunjaro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Benjamin Sunjaro</title>
+      <link>https://nheeren.github.io/authors/benjamin-sunjaro/</link>
+    </image>
+    
+    <item>
+      <title>Konzept Energieversorgung 2050</title>
+      <link>https://nheeren.github.io/publication/jakob-2014-b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/jakob-2014-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brandon Kuczenski | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/brandon-kuczenski/</link>
+      <atom:link href="https://nheeren.github.io/authors/brandon-kuczenski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brandon Kuczenski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Brandon Kuczenski</title>
+      <link>https://nheeren.github.io/authors/brandon-kuczenski/</link>
+    </image>
+    
+    <item>
+      <title>The Industrial Ecology Open Science Project</title>
+      <link>https://nheeren.github.io/talk/stadler-di-4-r/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/stadler-di-4-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nullius in Verba1: Advancing Data Transparency in Industrial Ecology</title>
+      <link>https://nheeren.github.io/publication/hertwich-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/hertwich-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nullius in verba -- A guideline proposal for data accessibility and transparency in industrial ecology research</title>
+      <link>https://nheeren.github.io/publication/hertwich-dttf/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/hertwich-dttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data transparency in Industrial Ecology</title>
+      <link>https://nheeren.github.io/talk/hertwich-isie-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/hertwich-isie-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

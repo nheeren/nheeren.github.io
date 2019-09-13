@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramin Roshandel | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/ramin-roshandel/</link>
+      <atom:link href="https://nheeren.github.io/authors/ramin-roshandel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ramin Roshandel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Ramin Roshandel</title>
+      <link>https://nheeren.github.io/authors/ramin-roshandel/</link>
+    </image>
+    
+    <item>
+      <title>A comparative study on the environmental impact of greenhouses: a probabilistic approach</title>
+      <link>https://nheeren.github.io/publication/golzar-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/golzar-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel integrated framework to evaluate greenhouse energy demand and crop yield production</title>
+      <link>https://nheeren.github.io/publication/golzar-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/golzar-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

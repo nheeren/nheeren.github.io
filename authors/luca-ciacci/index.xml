@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luca Ciacci | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/luca-ciacci/</link>
+      <atom:link href="https://nheeren.github.io/authors/luca-ciacci/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luca Ciacci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Luca Ciacci</title>
+      <link>https://nheeren.github.io/authors/luca-ciacci/</link>
+    </image>
+    
+    <item>
+      <title>Material efficiency strategies to reducing greenhouse gas emissions associated with buildings, vehicles, and electronics – A review</title>
+      <link>https://nheeren.github.io/publication/hertwich-recc-review/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/hertwich-recc-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Berrill | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/peter-berrill/</link>
+      <atom:link href="https://nheeren.github.io/authors/peter-berrill/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Berrill</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Peter Berrill</title>
+      <link>https://nheeren.github.io/authors/peter-berrill/</link>
+    </image>
+    
+    <item>
+      <title>Building a research community for the built environment’s material stocks</title>
+      <link>https://nheeren.github.io/talk/miatto-isie-2019-chair/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/miatto-isie-2019-chair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development pathways of building stocks</title>
+      <link>https://nheeren.github.io/talk/heeren-isie-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-isie-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

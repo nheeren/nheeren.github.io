@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guillaume Majeau‐Bettez | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/guillaume-majeaubettez/</link>
+      <atom:link href="https://nheeren.github.io/authors/guillaume-majeaubettez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guillaume Majeau‐Bettez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Guillaume Majeau‐Bettez</title>
+      <link>https://nheeren.github.io/authors/guillaume-majeaubettez/</link>
+    </image>
+    
+    <item>
+      <title>The Industrial Ecology Open Science Project</title>
+      <link>https://nheeren.github.io/talk/stadler-di-4-r/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/stadler-di-4-r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

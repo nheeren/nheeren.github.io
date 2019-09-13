@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bernhard Steubing | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/bernhard-steubing/</link>
+      <atom:link href="https://nheeren.github.io/authors/bernhard-steubing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bernhard Steubing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Bernhard Steubing</title>
+      <link>https://nheeren.github.io/authors/bernhard-steubing/</link>
+    </image>
+    
+    <item>
+      <title>Welches sind die ökologischsten Holzverwendungen?</title>
+      <link>https://nheeren.github.io/publication/steubing-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/steubing-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental Impact of Buildings---What Matters?</title>
+      <link>https://nheeren.github.io/publication/heeren-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling housing energy demand and optimizing energy supply</title>
+      <link>https://nheeren.github.io/talk/saner-lca-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/saner-lca-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing the Life Cycle of Wood</title>
+      <link>https://nheeren.github.io/talk/hellweg-grc-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/hellweg-grc-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological use of wood resources in Switzerland: an overview from the Swiss National Research Program (NRP) 66</title>
+      <link>https://nheeren.github.io/publication/steubing-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/steubing-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining MFA and LCA to identify environmental strategies for a sustainable management of wood resources in Switzerland</title>
+      <link>https://nheeren.github.io/talk/hellweg-grc-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/hellweg-grc-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

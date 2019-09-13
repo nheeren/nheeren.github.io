@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feng Zhao | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/feng-zhao/</link>
+      <atom:link href="https://nheeren.github.io/authors/feng-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Feng Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Feng Zhao</title>
+      <link>https://nheeren.github.io/authors/feng-zhao/</link>
+    </image>
+    
+    <item>
+      <title>Building material use and associated environmental impacts in China 2000-2015</title>
+      <link>https://nheeren.github.io/publication/huang-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/huang-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

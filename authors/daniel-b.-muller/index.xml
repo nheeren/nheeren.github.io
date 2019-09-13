@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel B. Müller | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/daniel-b.-muller/</link>
+      <atom:link href="https://nheeren.github.io/authors/daniel-b.-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel B. Müller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Daniel B. Müller</title>
+      <link>https://nheeren.github.io/authors/daniel-b.-muller/</link>
+    </image>
+    
+    <item>
+      <title>A general data model for socioeconomic metabolism and its implementation in an industrial ecology data commons prototype</title>
+      <link>https://nheeren.github.io/publication/pauliuk-iedc-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/pauliuk-iedc-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

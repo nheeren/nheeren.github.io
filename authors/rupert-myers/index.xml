@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rupert Myers | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/rupert-myers/</link>
+      <atom:link href="https://nheeren.github.io/authors/rupert-myers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rupert Myers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Rupert Myers</title>
+      <link>https://nheeren.github.io/authors/rupert-myers/</link>
+    </image>
+    
+    <item>
+      <title>Progress on Open Science in Industrial Ecology</title>
+      <link>https://nheeren.github.io/talk/openscience-isie-2019-chair/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/openscience-isie-2019-chair/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

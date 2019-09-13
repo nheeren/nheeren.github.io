@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimitra Ioannidou | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/dimitra-ioannidou/</link>
+      <atom:link href="https://nheeren.github.io/authors/dimitra-ioannidou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dimitra Ioannidou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Dimitra Ioannidou</title>
+      <link>https://nheeren.github.io/authors/dimitra-ioannidou/</link>
+    </image>
+    
+    <item>
+      <title>The future in and of criticality assessments</title>
+      <link>https://nheeren.github.io/publication/ioannidou-jie/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/ioannidou-jie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Criticality methodology for resources: how to apply to construction in the future?</title>
+      <link>https://nheeren.github.io/talk/ioannidou-lcm-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/ioannidou-lcm-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

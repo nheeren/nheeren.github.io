@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreas Froemelt | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/andreas-froemelt/</link>
+      <atom:link href="https://nheeren.github.io/authors/andreas-froemelt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreas Froemelt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Fri, 13 Sep 2019 12:13:57 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Andreas Froemelt</title>
+      <link>https://nheeren.github.io/authors/andreas-froemelt/</link>
+    </image>
+    
+    <item>
+      <title>Impact of CH2018 Climate Change Scenarios for Switzerland on today&#39;s Swiss building stock</title>
+      <link>https://nheeren.github.io/publication/buffat-cisbat-2019/</link>
+      <pubDate>Fri, 13 Sep 2019 12:13:57 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/buffat-cisbat-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing environmental impacts of individual households: A large-scale bottom-up LCA-model for Switzerland</title>
+      <link>https://nheeren.github.io/talk/froemelt-2018-setac/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/froemelt-2018-setac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Virtual Platform to Evaluate Policy Scenarios Targeting Environmental Impacts from Household Consumption</title>
+      <link>https://nheeren.github.io/talk/froemelt-isie-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/froemelt-isie-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEEF: Building stock Energy EFficiency model for Switzerland</title>
+      <link>https://nheeren.github.io/talk/buffat-isie-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/buffat-isie-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big data GIS analysis for novel approaches in building stock modelling</title>
+      <link>https://nheeren.github.io/publication/buffat-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/buffat-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIS-based Decision Support System for Building Retrofit</title>
+      <link>https://nheeren.github.io/publication/buffat-cisbat-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/buffat-cisbat-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling housing energy demand and optimizing energy supply</title>
+      <link>https://nheeren.github.io/talk/saner-lca-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/saner-lca-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

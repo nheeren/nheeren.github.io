@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maja Wiprächtiger* | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/maja-wiprachtiger/</link>
+      <atom:link href="https://nheeren.github.io/authors/maja-wiprachtiger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maja Wiprächtiger*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Maja Wiprächtiger*</title>
+      <link>https://nheeren.github.io/authors/maja-wiprachtiger/</link>
+    </image>
+    
+    <item>
+      <title>Circular System Design -- Fallbeispiel Isolationsmaterialien Schweiz</title>
+      <link>https://nheeren.github.io/talk/wiprachtiger-2019-dgaw/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/wiprachtiger-2019-dgaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circular System Design: A case study on insulation material in Switzerland</title>
+      <link>https://nheeren.github.io/talk/wiprachtiger-isie-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/wiprachtiger-isie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circular System Design – A Case Study on Insulation Material in Switzerland</title>
+      <link>https://nheeren.github.io/talk/wipraechtiger-tu-vienna-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/wipraechtiger-tu-vienna-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circular System Design – A Case Study on Insulation Material in Switzerland</title>
+      <link>https://nheeren.github.io/talk/wipraechtiger-grc-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/wipraechtiger-grc-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

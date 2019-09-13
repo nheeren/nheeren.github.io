@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life cycle analysis | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/life-cycle-analysis/</link>
+      <atom:link href="https://nheeren.github.io/tags/life-cycle-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Life cycle analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Life cycle analysis</title>
+      <link>https://nheeren.github.io/tags/life-cycle-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Life cycle assessment of dynamic building integrated photovoltaics</title>
+      <link>https://nheeren.github.io/publication/jayathissa-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/jayathissa-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
