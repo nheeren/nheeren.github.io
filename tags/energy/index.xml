@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Energy | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/energy/</link>
+      <atom:link href="https://nheeren.github.io/tags/energy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Energy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Fri, 13 Sep 2019 12:13:57 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Energy</title>
+      <link>https://nheeren.github.io/tags/energy/</link>
+    </image>
+    
+    <item>
+      <title>Impact of CH2018 Climate Change Scenarios for Switzerland on today&#39;s Swiss building stock</title>
+      <link>https://nheeren.github.io/publication/buffat-cisbat-2019/</link>
+      <pubDate>Fri, 13 Sep 2019 12:13:57 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/buffat-cisbat-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study on the environmental impact of greenhouses: a probabilistic approach</title>
+      <link>https://nheeren.github.io/publication/golzar-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/golzar-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel integrated framework to evaluate greenhouse energy demand and crop yield production</title>
+      <link>https://nheeren.github.io/publication/golzar-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/golzar-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big data GIS analysis for novel approaches in building stock modelling</title>
+      <link>https://nheeren.github.io/publication/buffat-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/buffat-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIS-based Decision Support System for Building Retrofit</title>
+      <link>https://nheeren.github.io/publication/buffat-cisbat-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/buffat-cisbat-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of construction material choice and design parameters on greenhouse gas emissions of buildings</title>
+      <link>https://nheeren.github.io/publication/heeren-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A component based bottom-up building stock model for comprehensive environmental impact assessment and target control</title>
+      <link>https://nheeren.github.io/publication/heeren-2013-a/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a 2000 Watt society – assessing building-specific saving potentials of the Swiss residential building stock</title>
+      <link>https://nheeren.github.io/publication/heeren-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological potentials of load management in buildings</title>
+      <link>https://nheeren.github.io/publication/heeren-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2011/</guid>
+      <description>&lt;p&gt;MSc thesis&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards a 2000 Watt society – assessing building - specific saving potentials of the Swiss residential building stock</title>
+      <link>https://nheeren.github.io/publication/heeren-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4500 W zu viel</title>
+      <link>https://nheeren.github.io/publication/heeren-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gebäudeparkmodell Vorstudie zur Erreichbarkeit der 2000-Watt-Ziele für Wohn-, Büro- und Schulgebäude in der Stadt Zürich Anhang zum Schlussbericht: Graue Energie und Umweltbelastungspunkte</title>
+      <link>https://nheeren.github.io/publication/heeren-2000/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2000/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

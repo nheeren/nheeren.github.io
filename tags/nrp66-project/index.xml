@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NRP66 project | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/nrp66-project/</link>
+      <atom:link href="https://nheeren.github.io/tags/nrp66-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>NRP66 project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>NRP66 project</title>
+      <link>https://nheeren.github.io/tags/nrp66-project/</link>
+    </image>
+    
+    <item>
+      <title>Environmental Impact of Buildings---What Matters?</title>
+      <link>https://nheeren.github.io/publication/heeren-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of construction material choice and design parameters on greenhouse gas emissions of buildings</title>
+      <link>https://nheeren.github.io/publication/heeren-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

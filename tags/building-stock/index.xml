@@ -5,7 +5,7 @@
     <link>https://nheeren.github.io/tags/building-stock/</link>
       <atom:link href="https://nheeren.github.io/tags/building-stock/index.xml" rel="self" type="application/rss+xml" />
     <description>Building stock</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Mon, 01 Apr 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/img/icon-192.png</url>
       <title>Building stock</title>
@@ -13,10 +13,59 @@
     </image>
     
     <item>
+      <title>Pathways towards an Energetic Refurbishment Replication Strategy for Eastern European Countries - Findings from the EU project BEEM-UP</title>
+      <link>https://nheeren.github.io/publication/dineva-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/dineva-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A component based bottom-up building stock model for comprehensive environmental impact assessment and target control</title>
       <link>https://nheeren.github.io/publication/heeren-2013-a/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/publication/heeren-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a 2000 Watt society – assessing building-specific saving potentials of the Swiss residential building stock</title>
+      <link>https://nheeren.github.io/publication/heeren-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological potentials of load management in buildings</title>
+      <link>https://nheeren.github.io/publication/heeren-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2011/</guid>
+      <description>&lt;p&gt;MSc thesis&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards a 2000 Watt society – assessing building - specific saving potentials of the Swiss residential building stock</title>
+      <link>https://nheeren.github.io/publication/heeren-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4500 W zu viel</title>
+      <link>https://nheeren.github.io/publication/heeren-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gebäudeparkmodell Vorstudie zur Erreichbarkeit der 2000-Watt-Ziele für Wohn-, Büro- und Schulgebäude in der Stadt Zürich Anhang zum Schlussbericht: Graue Energie und Umweltbelastungspunkte</title>
+      <link>https://nheeren.github.io/publication/heeren-2000/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2000/</guid>
       <description></description>
     </item>
     

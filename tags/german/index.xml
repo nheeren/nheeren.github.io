@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>German | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/german/</link>
+      <atom:link href="https://nheeren.github.io/tags/german/index.xml" rel="self" type="application/rss+xml" />
+    <description>German</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>German</title>
+      <link>https://nheeren.github.io/tags/german/</link>
+    </image>
+    
+    <item>
+      <title>4500 W zu viel</title>
+      <link>https://nheeren.github.io/publication/heeren-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gebäudeparkmodell Vorstudie zur Erreichbarkeit der 2000-Watt-Ziele für Wohn-, Büro- und Schulgebäude in der Stadt Zürich Anhang zum Schlussbericht: Graue Energie und Umweltbelastungspunkte</title>
+      <link>https://nheeren.github.io/publication/heeren-2000/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2000/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

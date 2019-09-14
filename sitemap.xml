@@ -18,7 +18,27 @@
   </url>
   
   <url>
+    <loc>https://nheeren.github.io/tags/big-data/</loc>
+    <lastmod>2019-09-13T12:13:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/</loc>
+    <lastmod>2019-09-13T12:13:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/buildings-stock/</loc>
+    <lastmod>2019-09-13T12:13:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/energy/</loc>
+    <lastmod>2019-09-13T12:13:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/gis/</loc>
     <lastmod>2019-09-13T12:13:57+00:00</lastmod>
   </url>
   
@@ -38,6 +58,11 @@
   </url>
   
   <url>
+    <loc>https://nheeren.github.io/tags/prospective/</loc>
+    <lastmod>2019-09-13T12:13:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/publication_types/</loc>
     <lastmod>2019-09-13T12:13:57+00:00</lastmod>
   </url>
@@ -53,12 +78,27 @@
   </url>
   
   <url>
+    <loc>https://nheeren.github.io/tags/simulation/</loc>
+    <lastmod>2019-09-13T12:13:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/</loc>
+    <lastmod>2019-09-13T12:13:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/tags/collaboration/</loc>
     <lastmod>2019-09-12T23:13:18+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://nheeren.github.io/project/</loc>
+    <lastmod>2019-09-12T23:13:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/recc-project/</loc>
     <lastmod>2019-09-12T23:13:18+02:00</lastmod>
   </url>
   
@@ -73,12 +113,12 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/</loc>
-    <lastmod>2019-09-12T23:13:18+02:00</lastmod>
+    <loc>https://nheeren.github.io/publication_types/1/</loc>
+    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/publication_types/1/</loc>
+    <loc>https://nheeren.github.io/tags/materials/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,6 +168,11 @@
   </url>
   
   <url>
+    <loc>https://nheeren.github.io/tags/open-science/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/authors/tomer-fishman/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -164,6 +209,11 @@
   
   <url>
     <loc>https://nheeren.github.io/authors/qingshi-tu/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/review/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -263,6 +313,11 @@
   </url>
   
   <url>
+    <loc>https://nheeren.github.io/tags/food/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/authors/francesco-pittau/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -284,6 +339,11 @@
   
   <url>
     <loc>https://nheeren.github.io/authors/giuliana-iannaccone/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/greenhouse/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -318,7 +378,17 @@
   </url>
   
   <url>
+    <loc>https://nheeren.github.io/tags/lca/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/authors/maja-wiprachtiger/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/material/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -328,7 +398,17 @@
   </url>
   
   <url>
+    <loc>https://nheeren.github.io/tags/material-energy-nexus/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/authors/melanie-haupt/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/mfa/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -568,32 +648,12 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/crop-yield-model/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/authors/daniel-muller/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/dynamic-modeling/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/tags/embodied-emissions/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/energy-demand/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/greenhouse/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -619,11 +679,6 @@
   
   <url>
     <loc>https://nheeren.github.io/authors/inger-andresen/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/integrated-framework/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -793,27 +848,12 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/big-data/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/publication/buffat-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/bottom-up-modelling/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/building-heat-demand/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/climate-data/</loc>
+    <loc>https://nheeren.github.io/tags/building-stocks/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -828,22 +868,12 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/decision-support-system/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/authors/dominik-wiedenhofer/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nheeren.github.io/authors/georgios-zinas/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/gis/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -864,11 +894,6 @@
   
   <url>
     <loc>https://nheeren.github.io/authors/kenji-sugimoto/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/large-scale-modelling/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -904,11 +929,6 @@
   
   <url>
     <loc>https://nheeren.github.io/talk/heeren-lcm-17/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/spatio-temporal-modelling/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1038,12 +1058,27 @@
   </url>
   
   <url>
+    <loc>https://nheeren.github.io/tags/nrp66-project/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/probabilistic/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/authors/rafael-burri/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nheeren.github.io/talk/heeren-df-60/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/wood/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1063,6 +1098,11 @@
   </url>
   
   <url>
+    <loc>https://nheeren.github.io/tags/beem-up-project/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/authors/benjamin-sunjaro/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -1073,7 +1113,7 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/building-simulation/</loc>
+    <loc>https://nheeren.github.io/tags/building-stock/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1089,11 +1129,6 @@
   
   <url>
     <loc>https://nheeren.github.io/authors/dominik-saner/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/embodied-energy/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1129,11 +1164,6 @@
   
   <url>
     <loc>https://nheeren.github.io/publication/jakob-2014-b/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/life-cycle-assessment/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1183,7 +1213,7 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/sensitivity-analysis/</loc>
+    <loc>https://nheeren.github.io/tags/retrofit/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1194,16 +1224,6 @@
   
   <url>
     <loc>https://nheeren.github.io/talk/heeren-df-57/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/thermal-inertia/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/wood-construction/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1278,31 +1298,6 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/bottom-up-model/</loc>
-    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/building-stock/</loc>
-    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/energy-efficiency/</loc>
-    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/greenhouse-gas-emissions/</loc>
-    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/sustainability-targets/</loc>
-    <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/publication/steubing-2013/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -1359,11 +1354,6 @@
   
   <url>
     <loc>https://nheeren.github.io/publication/paule-2012/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/earth-and-environmental-science/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1484,6 +1474,11 @@
   
   <url>
     <loc>https://nheeren.github.io/publication/wallbaum-2010-a/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/german/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
