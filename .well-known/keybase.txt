@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nheeren
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://buildenvironment.com
+  * I am nheeren (https://keybase.io/nheeren) on keybase.
+  * I have a public key ASDavYqeqTdcJmCnfxd319Him_0UcHIwZmLHs198rsnspgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120dabd8a9ea9375c2660a77f1777d7d1e29bfd147072306662c7b35f7caec9eca60a",
+      "host": "keybase.io",
+      "kid": "0120dabd8a9ea9375c2660a77f1777d7d1e29bfd147072306662c7b35f7caec9eca60a",
+      "uid": "bde93be3464e5dbe89d9a9ab4aa00e19",
+      "username": "nheeren"
+    },
+    "merkle_root": {
+      "ctime": 1568488474,
+      "hash": "21792387620a3e7e19562d5cf25fb2ac28bf667a085b8f88da76ca30b2f6f1e9dd4d38f49608f1bbd583dec6eee864c9cbc82941103e9fffc4cc5cede7833602",
+      "hash_meta": "a0ca45577deec2340ade8388ee25d45062359f083d7412b2609815827654b24e",
+      "seqno": 7344683
+    },
+    "service": {
+      "entropy": "Uh6Hm4RMDamTbcjhVENcLl9g",
+      "hostname": "buildenvironment.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1568488487,
+  "expire_in": 504576000,
+  "prev": "3d10b6ad78ace6b7f68d4364116107a66736baaef302c77e56c3504fc41cc8d7",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2r2Knqk3XCZgp38Xd9fR4pv9FHByMGZix7NffK7J7KYKp3BheWxvYWTESpcCCcQgPRC2rXis5rf2jUNkEWEHpmc2uq7zAsd+VsNQT8QcyNfEIH06duinVYRZKYJ8UojHyBW1laeLD6ZHiwDOTqZ4G9F8AgHCo3NpZ8RArtmbY8qLeKxE8RPLdbMTIeZIsfJDOdrP+DoREpbPF0xA5NSXo/aX6m02pyOIfokEwQJ7sKgVmnoDJcvvsAZICahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBEzUn0+zMVz3bWFONxQrjNbFNWPibVBBWojMUTll31bo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nheeren
+
+==================================================================
