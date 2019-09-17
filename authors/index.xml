@@ -5,12 +5,28 @@
     <link>https://nheeren.github.io/authors/</link>
       <atom:link href="https://nheeren.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Fri, 13 Sep 2019 12:13:57 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://nheeren.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Niko Heeren</title>
+      <link>https://nheeren.github.io/authors/niko-heeren/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/authors/niko-heeren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Pauliuk</title>
+      <link>https://nheeren.github.io/authors/stefan-pauliuk/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/authors/stefan-pauliuk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Andreas Froemelt</title>
@@ -29,14 +45,6 @@
     </item>
     
     <item>
-      <title>Niko Heeren</title>
-      <link>https://nheeren.github.io/authors/niko-heeren/</link>
-      <pubDate>Fri, 13 Sep 2019 12:13:57 +0000</pubDate>
-      <guid>https://nheeren.github.io/authors/niko-heeren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>René Buffat</title>
       <link>https://nheeren.github.io/authors/rene-buffat/</link>
       <pubDate>Fri, 13 Sep 2019 12:13:57 +0000</pubDate>
@@ -45,10 +53,18 @@
     </item>
     
     <item>
-      <title>Rupert J. Myers*</title>
+      <title>Rupert J. Myers</title>
       <link>https://nheeren.github.io/authors/rupert-j.-myers/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/rupert-j.-myers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel B. Müller</title>
+      <link>https://nheeren.github.io/authors/daniel-b.-muller/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/authors/daniel-b.-muller/</guid>
       <description></description>
     </item>
     
@@ -77,17 +93,17 @@
     </item>
     
     <item>
-      <title>Tomer Fishman</title>
-      <link>https://nheeren.github.io/authors/tomer-fishman/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/authors/tomer-fishman/</guid>
+      <title>Mohammad Mahadi Hasan</title>
+      <link>https://nheeren.github.io/authors/mohammad-mahadi-hasan/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/authors/mohammad-mahadi-hasan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elsa Olivetti</title>
       <link>https://nheeren.github.io/authors/elsa-olivetti/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/elsa-olivetti/</guid>
       <description></description>
     </item>
@@ -95,7 +111,7 @@
     <item>
       <title>Eric Masanet</title>
       <link>https://nheeren.github.io/authors/eric-masanet/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/eric-masanet/</guid>
       <description></description>
     </item>
@@ -103,7 +119,7 @@
     <item>
       <title>Farnaz Nojavan Asghari</title>
       <link>https://nheeren.github.io/authors/farnaz-nojavan-asghari/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/farnaz-nojavan-asghari/</guid>
       <description></description>
     </item>
@@ -111,7 +127,7 @@
     <item>
       <title>Luca Ciacci</title>
       <link>https://nheeren.github.io/authors/luca-ciacci/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/luca-ciacci/</guid>
       <description></description>
     </item>
@@ -119,7 +135,7 @@
     <item>
       <title>Paul Wolfram</title>
       <link>https://nheeren.github.io/authors/paul-wolfram/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/paul-wolfram/</guid>
       <description></description>
     </item>
@@ -127,7 +143,7 @@
     <item>
       <title>Qingshi Tu</title>
       <link>https://nheeren.github.io/authors/qingshi-tu/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/qingshi-tu/</guid>
       <description></description>
     </item>
@@ -135,16 +151,16 @@
     <item>
       <title>Saleem Ali</title>
       <link>https://nheeren.github.io/authors/saleem-ali/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/saleem-ali/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stefan Pauliuk</title>
-      <link>https://nheeren.github.io/authors/stefan-pauliuk/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/authors/stefan-pauliuk/</guid>
+      <title>Tomer Fishman</title>
+      <link>https://nheeren.github.io/authors/tomer-fishman/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/authors/tomer-fishman/</guid>
       <description></description>
     </item>
     
@@ -177,14 +193,6 @@
       <link>https://nheeren.github.io/authors/benjamin-sprecher/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/benjamin-sprecher/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel B. Müller</title>
-      <link>https://nheeren.github.io/authors/daniel-b.-muller/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/authors/daniel-b.-muller/</guid>
       <description></description>
     </item>
     
@@ -313,14 +321,6 @@
       <link>https://nheeren.github.io/authors/melanie-haupt/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/melanie-haupt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mohammad Mahadi Hasan</title>
-      <link>https://nheeren.github.io/authors/mohammad-mahadi-hasan/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/authors/mohammad-mahadi-hasan/</guid>
       <description></description>
     </item>
     

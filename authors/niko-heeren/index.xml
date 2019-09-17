@@ -5,12 +5,20 @@
     <link>https://nheeren.github.io/authors/niko-heeren/</link>
       <atom:link href="https://nheeren.github.io/authors/niko-heeren/index.xml" rel="self" type="application/rss+xml" />
     <description>Niko Heeren</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Fri, 13 Sep 2019 12:13:57 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/img/icon-192.png</url>
       <title>Niko Heeren</title>
       <link>https://nheeren.github.io/authors/niko-heeren/</link>
     </image>
+    
+    <item>
+      <title>ODYM -- An Open Software Framework for Studying Dynamic Material Systems. Principles, Implementation, and Data Structures</title>
+      <link>https://nheeren.github.io/publication/pauliuk-2019-odym/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/pauliuk-2019-odym/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Impact of CH2018 Climate Change Scenarios for Switzerland on today&#39;s Swiss building stock</title>
@@ -29,10 +37,26 @@
     </item>
     
     <item>
+      <title>A general data model for socioeconomic metabolism and its implementation in an industrial ecology data commons prototype</title>
+      <link>https://nheeren.github.io/publication/pauliuk-iedc-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/pauliuk-iedc-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Upcoming IRP G7 report `GHG mitigation through material efficiency in residential buildings and light-duty vehicles&#39;</title>
       <link>https://nheeren.github.io/talk/g-7-2019/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/talk/g-7-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material efficiency strategies to reducing greenhouse gas emissions associated with buildings, vehicles, and electronics – A review</title>
+      <link>https://nheeren.github.io/publication/hertwich-recc-review/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/hertwich-recc-review/</guid>
       <description></description>
     </item>
     
@@ -46,26 +70,10 @@
     </item>
     
     <item>
-      <title>Material efficiency strategies to reducing greenhouse gas emissions associated with buildings, vehicles, and electronics – A review</title>
-      <link>https://nheeren.github.io/publication/hertwich-recc-review/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/hertwich-recc-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A comparative study on the environmental impact of greenhouses: a probabilistic approach</title>
       <link>https://nheeren.github.io/publication/golzar-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/publication/golzar-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A general data model for socioeconomic metabolism and its implementation in an industrial ecology data commons prototype</title>
-      <link>https://nheeren.github.io/publication/pauliuk-iedc-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/pauliuk-iedc-2019/</guid>
       <description></description>
     </item>
     
@@ -130,14 +138,6 @@
       <link>https://nheeren.github.io/talk/pauliuk-isie-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/talk/pauliuk-isie-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ODYM -- An Open Software Framework for Studying Dynamic Material Systems. Principles, Implementation, and Data Structures</title>
-      <link>https://nheeren.github.io/publication/pauliuk-2019-odym/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/pauliuk-2019-odym/</guid>
       <description></description>
     </item>
     
