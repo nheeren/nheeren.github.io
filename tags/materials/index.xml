@@ -20,14 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>A Database Seed for a Community-driven Material Intensity Research Platform</title>
-      <link>https://nheeren.github.io/publication/heeren-mi/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/heeren-mi/</guid>
-      <description>&lt;p&gt;Ever wondered how much material is in a building? This publication presents a comprehensive database  that contains 300 datasets for material intensity. Please consider &lt;a href=&#34;https://github.com/nheeren/material_intensity_db&#34; target=&#34;_blank&#34;&gt;contributing&lt;/a&gt;!&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
