@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>7 | BuildENVIRONMENT</title>
-    <link>https://nheeren.github.io/publication_types/7/</link>
-      <atom:link href="https://nheeren.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
-    <description>7</description>
+    <title>PhD | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/phd/</link>
+      <atom:link href="https://nheeren.github.io/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/img/icon-192.png</url>
-      <title>7</title>
-      <link>https://nheeren.github.io/publication_types/7/</link>
+      <title>PhD</title>
+      <link>https://nheeren.github.io/tags/phd/</link>
     </image>
     
     <item>
@@ -20,15 +20,6 @@
       <description>&lt;p&gt;My PhD thesis 😸.&lt;/p&gt;
 
 &lt;p&gt;Learn more about the National Research Programme &lt;a href=&#34;https://nheeren.github.io/project/nrp66/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ecological potentials of load management in buildings</title>
-      <link>https://nheeren.github.io/publication/heeren-2011/</link>
-      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/heeren-2011/</guid>
-      <description>&lt;p&gt;MSc thesis&lt;/p&gt;
 </description>
     </item>
     
