@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Science | BuildENVIRONMENT</title>
-    <link>https://nheeren.github.io/tags/open-science/</link>
-      <atom:link href="https://nheeren.github.io/tags/open-science/index.xml" rel="self" type="application/rss+xml" />
-    <description>Open Science</description>
+    <title>Open Access | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/open-access/</link>
+      <atom:link href="https://nheeren.github.io/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Access</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/img/icon-192.png</url>
-      <title>Open Science</title>
-      <link>https://nheeren.github.io/tags/open-science/</link>
+      <title>Open Access</title>
+      <link>https://nheeren.github.io/tags/open-access/</link>
     </image>
     
     <item>
@@ -19,6 +19,14 @@
       <guid>https://nheeren.github.io/publication/heeren-mi/</guid>
       <description>&lt;p&gt;Ever wondered how much material is in a building? This publication presents a comprehensive database  that contains 300 datasets for material intensity. Please consider &lt;a href=&#34;https://github.com/nheeren/material_intensity_db&#34; target=&#34;_blank&#34;&gt;contributing&lt;/a&gt;!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Material efficiency strategies to reducing greenhouse gas emissions associated with buildings, vehicles, and electronics – A review</title>
+      <link>https://nheeren.github.io/publication/hertwich-recc-review/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/hertwich-recc-review/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -38,10 +46,34 @@
     </item>
     
     <item>
+      <title>Tracking Construction Material over Space and Time: Prospective and Geo-referenced Modeling of Building Stocks and Construction Material Flows</title>
+      <link>https://nheeren.github.io/publication/heeren-2018-jie/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2018-jie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Inventory and Refurbishment Scenario Database Development for Switzerland</title>
+      <link>https://nheeren.github.io/publication/ostermeyer-2016/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/ostermeyer-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nullius in Verba1: Advancing Data Transparency in Industrial Ecology</title>
       <link>https://nheeren.github.io/publication/hertwich-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/publication/hertwich-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental Impact of Buildings---What Matters?</title>
+      <link>https://nheeren.github.io/publication/heeren-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2015/</guid>
       <description></description>
     </item>
     
