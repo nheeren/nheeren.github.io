@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.4.0">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -67,6 +67,8 @@
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
 
     
 
@@ -74,13 +76,14 @@
 
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono&display=swap">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.04a87a1cb9027e3c50f566322527c56f.css">
+  <link rel="stylesheet" href="/css/academic.min.b110d0f0e8c075ab4a3ac495c42ff799.css">
 
   
 
@@ -134,6 +137,56 @@
     
     <meta property="article:modified_time" content="2019-10-01T00:00:00&#43;00:00">
   
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://nheeren.github.io/publication/pauliuk-2019-odym/"
+  },
+  "headline": "ODYM -- An Open Software Framework for Studying Dynamic Material Systems. Principles, Implementation, and Data Structures",
+  
+  "datePublished": "2019-09-13T12:13:57Z",
+  "dateModified": "2019-10-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Stefan Pauliuk"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "BuildENVIRONMENT",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://nheeren.github.io/img/icon-512.png"
+    }
+  },
+  "description": "Material flow analysis (MFA) studies the stocks and flows of goods and substances in systems. The methods and algorithms of MFA have improved over the last years, but a flexible platform that integrates recent modeling advances such as simultaneous consideration of the product, component, material, and chemical element levels, lifetime models, and uncertainty treatment is not available. There is also no versatile data format for exchanging data between projects. This lack of research infrastructure is detrimental to scientific progress. To fill that gap, we propose a novel industrial ecology community model for MFA. ODYM (Open Dynamic Material Systems Model) is an open source framework for material systems modelling programmed in Python. The description of systems, processes, stocks, flows, and parameters is object-based, which facilitates the development of modular software and testing routines for individual model blocks. ODYM MFA models can handle any depth of flow and stock specification: products, components, sub-components, materials, alloys, waste, and chemical elements can be traced simultaneously. ODYM features a new data structure for material flow analysis; all input and output data are stored in a standardized file format and can thus be exchanged across projects. It also comes with an extended library for dynamic stock modelling. We present the features, design principles, software and data structure of ODYM, describe its main methods and functions, and give an outlook on current and future applications."
+}
+</script>
+
+  
+
+  
+
 
   
 
@@ -200,7 +253,7 @@
 
       
       
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav ml-auto">
         
 
         
@@ -349,9 +402,6 @@
         
 
       
-      </ul>
-      <ul class="navbar-nav ml-auto">
-      
 
         
 
@@ -376,7 +426,7 @@
 </nav>
 
 
-  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="pub">
 
   
 
@@ -397,7 +447,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">ODYM -- An Open Software Framework for Studying Dynamic Material Systems. Principles, Implementation, and Data Structures</h1>
+  <h1>ODYM -- An Open Software Framework for Studying Dynamic Material Systems. Principles, Implementation, and Data Structures</h1>
 
   
 
@@ -405,9 +455,6 @@
     
 
 
-
-<meta content="2019-10-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2019-10-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -420,7 +467,7 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/niko-heeren/">Niko Heeren</a></span>
+  <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>
 
   </div>
   
@@ -432,7 +479,7 @@
     
       
     
-    <time>October 2019</time>
+    October 2019
   </span>
   
 
@@ -449,90 +496,6 @@
 
   
     
-<div class="share-box" aria-hidden="true">
-  <ul class="share">
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://twitter.com/intent/tweet?url=https://nheeren.github.io/publication/pauliuk-2019-odym/&amp;text=ODYM%20--%20An%20Open%20Software%20Framework%20for%20Studying%20Dynamic%20Material%20Systems.%20Principles,%20Implementation,%20and%20Data%20Structures" target="_blank" rel="noopener" class="share-btn-twitter">
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://nheeren.github.io/publication/pauliuk-2019-odym/&amp;t=ODYM%20--%20An%20Open%20Software%20Framework%20for%20Studying%20Dynamic%20Material%20Systems.%20Principles,%20Implementation,%20and%20Data%20Structures" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook-f"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="mailto:?subject=ODYM%20--%20An%20Open%20Software%20Framework%20for%20Studying%20Dynamic%20Material%20Systems.%20Principles,%20Implementation,%20and%20Data%20Structures&amp;body=https://nheeren.github.io/publication/pauliuk-2019-odym/" target="_blank" rel="noopener" class="share-btn-email">
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://nheeren.github.io/publication/pauliuk-2019-odym/&amp;title=ODYM%20--%20An%20Open%20Software%20Framework%20for%20Studying%20Dynamic%20Material%20Systems.%20Principles,%20Implementation,%20and%20Data%20Structures" target="_blank" rel="noopener" class="share-btn-linkedin">
-          <i class="fab fa-linkedin-in"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://web.whatsapp.com/send?text=ODYM%20--%20An%20Open%20Software%20Framework%20for%20Studying%20Dynamic%20Material%20Systems.%20Principles,%20Implementation,%20and%20Data%20Structures%20https://nheeren.github.io/publication/pauliuk-2019-odym/" target="_blank" rel="noopener" class="share-btn-whatsapp">
-          <i class="fab fa-whatsapp"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://nheeren.github.io/publication/pauliuk-2019-odym/&amp;title=ODYM%20--%20An%20Open%20Software%20Framework%20for%20Studying%20Dynamic%20Material%20Systems.%20Principles,%20Implementation,%20and%20Data%20Structures" target="_blank" rel="noopener" class="share-btn-weibo">
-          <i class="fab fa-weibo"></i>
-        </a>
-      </li>
-    
-  </ul>
-</div>
-
 
   
 
@@ -605,7 +568,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Material flow analysis (MFA) studies the stocks and flows of goods and substances in systems. The methods and algorithms of MFA have improved over the last years, but a flexible platform that integrates recent modeling advances such as simultaneous consideration of the product, component, material, and chemical element levels, lifetime models, and uncertainty treatment is not available. There is also no versatile data format for exchanging data between projects. This lack of research infrastructure is detrimental to scientific progress. To fill that gap, we propose a novel industrial ecology community model for MFA. ODYM (Open Dynamic Material Systems Model) is an open source framework for material systems modelling programmed in Python. The description of systems, processes, stocks, flows, and parameters is object-based, which facilitates the development of modular software and testing routines for individual model blocks. ODYM MFA models can handle any depth of flow and stock specification: products, components, sub-components, materials, alloys, waste, and chemical elements can be traced simultaneously. ODYM features a new data structure for material flow analysis; all input and output data are stored in a standardized file format and can thus be exchanged across projects. It also comes with an extended library for dynamic stock modelling. We present the features, design principles, software and data structure of ODYM, describe its main methods and functions, and give an outlook on current and future applications.</p>
+    <p class="pub-abstract">Material flow analysis (MFA) studies the stocks and flows of goods and substances in systems. The methods and algorithms of MFA have improved over the last years, but a flexible platform that integrates recent modeling advances such as simultaneous consideration of the product, component, material, and chemical element levels, lifetime models, and uncertainty treatment is not available. There is also no versatile data format for exchanging data between projects. This lack of research infrastructure is detrimental to scientific progress. To fill that gap, we propose a novel industrial ecology community model for MFA. ODYM (Open Dynamic Material Systems Model) is an open source framework for material systems modelling programmed in Python. The description of systems, processes, stocks, flows, and parameters is object-based, which facilitates the development of modular software and testing routines for individual model blocks. ODYM MFA models can handle any depth of flow and stock specification: products, components, sub-components, materials, alloys, waste, and chemical elements can be traced simultaneously. ODYM features a new data structure for material flow analysis; all input and output data are stored in a standardized file format and can thus be exchanged across projects. It also comes with an extended library for dynamic stock modelling. We present the features, design principles, software and data structure of ODYM, describe its main methods and functions, and give an outlook on current and future applications.</p>
     
 
     
@@ -687,15 +650,16 @@
 
 
 
+
   
   
   
   
-  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+  <div class="media author-card">
     
 
     <div class="media-body">
-      <h5 class="card-title" itemprop="name"><a href="/authors/stefan-pauliuk/"></a></h5>
+      <h5 class="card-title"><a href="/authors/stefan-pauliuk/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
@@ -743,6 +707,8 @@
     
 
     
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
     
 
     
@@ -812,7 +778,7 @@
     
     
     
-    <script src="/js/academic.min.16bbb3750feb7244c9bc409a5a4fe678.js"></script>
+    <script src="/js/academic.min.130521ecfc6f534c52c158217bbff718.js"></script>
 
     
 
