@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZEB | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/zeb/</link>
+      <atom:link href="https://nheeren.github.io/tags/zeb/index.xml" rel="self" type="application/rss+xml" />
+    <description>ZEB</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>ZEB</title>
+      <link>https://nheeren.github.io/tags/zeb/</link>
+    </image>
+    
+    <item>
+      <title>Is a net life cycle balance for energy and materials achievable for a zero emission single-family building in Norway?</title>
+      <link>https://nheeren.github.io/publication/kristjansdottir-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/kristjansdottir-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative emission analysis of low-energy and zero-emission buildings</title>
+      <link>https://nheeren.github.io/publication/kristjansdottir-2017-a/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/kristjansdottir-2017-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

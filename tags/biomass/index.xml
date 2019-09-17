@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biomass | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/biomass/</link>
+      <atom:link href="https://nheeren.github.io/tags/biomass/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biomass</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Biomass</title>
+      <link>https://nheeren.github.io/tags/biomass/</link>
+    </image>
+    
+    <item>
+      <title>Retrofit as a carbon sink: The carbon storage potentials of the EU housing stock</title>
+      <link>https://nheeren.github.io/publication/pittau-jcl/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/pittau-jcl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

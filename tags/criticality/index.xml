@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Criticality | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/criticality/</link>
+      <atom:link href="https://nheeren.github.io/tags/criticality/index.xml" rel="self" type="application/rss+xml" />
+    <description>Criticality</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <title>Criticality</title>
+      <link>https://nheeren.github.io/tags/criticality/</link>
+    </image>
+    
+    <item>
+      <title>The future in and of criticality assessments</title>
+      <link>https://nheeren.github.io/publication/ioannidou-jie/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/ioannidou-jie/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

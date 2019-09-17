@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Code</title>
+      <link>https://nheeren.github.io/tags/code/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Material</title>
       <link>https://nheeren.github.io/tags/material/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
@@ -93,6 +101,14 @@
     </item>
     
     <item>
+      <title>Probabilistic</title>
+      <link>https://nheeren.github.io/tags/probabilistic/</link>
+      <pubDate>Fri, 13 Sep 2019 12:13:57 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prospective</title>
       <link>https://nheeren.github.io/tags/prospective/</link>
       <pubDate>Fri, 13 Sep 2019 12:13:57 +0000</pubDate>
@@ -141,10 +157,18 @@
     </item>
     
     <item>
-      <title>Materials</title>
-      <link>https://nheeren.github.io/tags/materials/</link>
+      <title>Cement</title>
+      <link>https://nheeren.github.io/tags/cement/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/materials/</guid>
+      <guid>https://nheeren.github.io/tags/cement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LCA</title>
+      <link>https://nheeren.github.io/tags/lca/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/lca/</guid>
       <description></description>
     </item>
     
@@ -173,6 +197,38 @@
     </item>
     
     <item>
+      <title>Biomass</title>
+      <link>https://nheeren.github.io/tags/biomass/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/biomass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building stock</title>
+      <link>https://nheeren.github.io/tags/building-stock/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/building-stock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Criticality</title>
+      <link>https://nheeren.github.io/tags/criticality/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/criticality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Europe</title>
+      <link>https://nheeren.github.io/tags/europe/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Food</title>
       <link>https://nheeren.github.io/tags/food/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -189,14 +245,6 @@
     </item>
     
     <item>
-      <title>LCA</title>
-      <link>https://nheeren.github.io/tags/lca/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/lca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Material-Energy Nexus</title>
       <link>https://nheeren.github.io/tags/material-energy-nexus/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -205,18 +253,10 @@
     </item>
     
     <item>
-      <title>update</title>
-      <link>https://nheeren.github.io/tags/update/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/update/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Building stock</title>
-      <link>https://nheeren.github.io/tags/building-stock/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/building-stock/</guid>
+      <title>China</title>
+      <link>https://nheeren.github.io/tags/china/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/china/</guid>
       <description></description>
     </item>
     
@@ -229,34 +269,10 @@
     </item>
     
     <item>
-      <title>Case studies</title>
-      <link>https://nheeren.github.io/tags/case-studies/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/case-studies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Embodied emissions</title>
-      <link>https://nheeren.github.io/tags/embodied-emissions/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/embodied-emissions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life cycle</title>
-      <link>https://nheeren.github.io/tags/life-cycle/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/life-cycle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pilot buildings</title>
-      <link>https://nheeren.github.io/tags/pilot-buildings/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/pilot-buildings/</guid>
+      <title>Switzerland</title>
+      <link>https://nheeren.github.io/tags/switzerland/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/switzerland/</guid>
       <description></description>
     </item>
     
@@ -269,138 +285,10 @@
     </item>
     
     <item>
-      <title>Residential</title>
-      <link>https://nheeren.github.io/tags/residential/</link>
+      <title>ZEB</title>
+      <link>https://nheeren.github.io/tags/zeb/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/residential/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single-family</title>
-      <link>https://nheeren.github.io/tags/single-family/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/single-family/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zero emission buildings</title>
-      <link>https://nheeren.github.io/tags/zero-emission-buildings/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/zero-emission-buildings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>are being</title>
-      <link>https://nheeren.github.io/tags/are-being/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/are-being/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>buildings</title>
-      <link>https://nheeren.github.io/tags/buildings/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/buildings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>co 2 e</title>
-      <link>https://nheeren.github.io/tags/co-2-e/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/co-2-e/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>compares the life cycle</title>
-      <link>https://nheeren.github.io/tags/compares-the-life-cycle/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/compares-the-life-cycle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>different designs and concepts</title>
-      <link>https://nheeren.github.io/tags/different-designs-and-concepts/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/different-designs-and-concepts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emissions of co 2</title>
-      <link>https://nheeren.github.io/tags/emissions-of-co-2/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/emissions-of-co-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>equivalents</title>
-      <link>https://nheeren.github.io/tags/equivalents/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/equivalents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>from eight different single-family</title>
-      <link>https://nheeren.github.io/tags/from-eight-different-single-family/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/from-eight-different-single-family/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>houses in the oslo</title>
-      <link>https://nheeren.github.io/tags/houses-in-the-oslo/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/houses-in-the-oslo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>introduced into the norwegian</title>
-      <link>https://nheeren.github.io/tags/introduced-into-the-norwegian/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/introduced-into-the-norwegian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>market</title>
-      <link>https://nheeren.github.io/tags/market/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/market/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>of low-energy and zero-emission</title>
-      <link>https://nheeren.github.io/tags/of-low-energy-and-zero-emission/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/of-low-energy-and-zero-emission/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>this study analyses and</title>
-      <link>https://nheeren.github.io/tags/this-study-analyses-and/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/this-study-analyses-and/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>zebs</title>
-      <link>https://nheeren.github.io/tags/zebs/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/zebs/</guid>
+      <guid>https://nheeren.github.io/tags/zeb/</guid>
       <description></description>
     </item>
     
@@ -445,10 +333,10 @@
     </item>
     
     <item>
-      <title>Probabilistic</title>
-      <link>https://nheeren.github.io/tags/probabilistic/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/probabilistic/</guid>
+      <title>Architecture</title>
+      <link>https://nheeren.github.io/tags/architecture/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/architecture/</guid>
       <description></description>
     </item>
     
@@ -469,82 +357,26 @@
     </item>
     
     <item>
-      <title>Carbon Dioxide</title>
-      <link>https://nheeren.github.io/tags/carbon-dioxide/</link>
+      <title>Household</title>
+      <link>https://nheeren.github.io/tags/household/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/carbon-dioxide/</guid>
+      <guid>https://nheeren.github.io/tags/household/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cluster Analysis</title>
-      <link>https://nheeren.github.io/tags/cluster-analysis/</link>
+      <title>Transport</title>
+      <link>https://nheeren.github.io/tags/transport/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/cluster-analysis/</guid>
+      <guid>https://nheeren.github.io/tags/transport/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Environment</title>
-      <link>https://nheeren.github.io/tags/environment/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/environment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Family Characteristics</title>
-      <link>https://nheeren.github.io/tags/family-characteristics/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/family-characteristics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Greenhouse Effect</title>
-      <link>https://nheeren.github.io/tags/greenhouse-effect/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/greenhouse-effect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Housing</title>
-      <link>https://nheeren.github.io/tags/housing/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/housing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Models</title>
-      <link>https://nheeren.github.io/tags/models/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Switzerland</title>
-      <link>https://nheeren.github.io/tags/switzerland/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/switzerland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theoretical</title>
-      <link>https://nheeren.github.io/tags/theoretical/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/theoretical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncertainty</title>
-      <link>https://nheeren.github.io/tags/uncertainty/</link>
-      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/uncertainty/</guid>
+      <title>Lighting</title>
+      <link>https://nheeren.github.io/tags/lighting/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/lighting/</guid>
       <description></description>
     </item>
     

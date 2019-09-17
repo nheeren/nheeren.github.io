@@ -5,12 +5,28 @@
     <link>https://nheeren.github.io/tags/building-stock/</link>
       <atom:link href="https://nheeren.github.io/tags/building-stock/index.xml" rel="self" type="application/rss+xml" />
     <description>Building stock</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/img/icon-192.png</url>
       <title>Building stock</title>
       <link>https://nheeren.github.io/tags/building-stock/</link>
     </image>
+    
+    <item>
+      <title>Retrofit as a carbon sink: The carbon storage potentials of the EU housing stock</title>
+      <link>https://nheeren.github.io/publication/pittau-jcl/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/pittau-jcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building material use and associated environmental impacts in China 2000-2015</title>
+      <link>https://nheeren.github.io/publication/huang-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/huang-2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tracking Construction Material over Space and Time: Prospective and Geo-referenced Modeling of Building Stocks and Construction Material Flows</title>
@@ -56,6 +72,22 @@
     </item>
     
     <item>
+      <title>Building Energy Efficiency for Massive market Uptake BEEM-UP Energetic Refurbishment Replication Strategy for Eastern European Countries</title>
+      <link>https://nheeren.github.io/publication/wunderlich-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/wunderlich-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konzept Energieversorgung 2050</title>
+      <link>https://nheeren.github.io/publication/jakob-2014-b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/jakob-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pathways towards an Energetic Refurbishment Replication Strategy for Eastern European Countries - Findings from the EU project BEEM-UP</title>
       <link>https://nheeren.github.io/publication/dineva-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
@@ -64,10 +96,26 @@
     </item>
     
     <item>
+      <title>Housing and mobility demands of individual households and their life cycle assessment.</title>
+      <link>https://nheeren.github.io/publication/saner-2013-a/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/saner-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A component based bottom-up building stock model for comprehensive environmental impact assessment and target control</title>
       <link>https://nheeren.github.io/publication/heeren-2013-a/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/publication/heeren-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energiekonzept 2050 für die Stadt Zürich - Auf dem Weg zur 2000 Watt tauglichen Wärme-Versorgung mit einem räumlich differenzierten Gebäudeparkmodell</title>
+      <link>https://nheeren.github.io/publication/jakob-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/jakob-2012/</guid>
       <description></description>
     </item>
     
@@ -86,6 +134,14 @@
       <guid>https://nheeren.github.io/publication/heeren-2011/</guid>
       <description>&lt;p&gt;MSc thesis&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>2000-Watt-Gesellschafts-taugliches Energiekonzept für die Stadt Zürich</title>
+      <link>https://nheeren.github.io/publication/jakob-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/jakob-2011/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -109,6 +165,38 @@
       <link>https://nheeren.github.io/publication/heeren-2000/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/publication/heeren-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gebäudeparkmodell Zürich – 7-Meilenschritte – Wirkungsanalyse anhand des Gebäudeparkmodells Stadt Zürich</title>
+      <link>https://nheeren.github.io/publication/wallbaum-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/wallbaum-2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gebäudeparkmodell Zürich – Büro-, Schul- und Wohngebäude – Vorstudie zur Erreichbarkeit der Ziele der 2000-Watt-Gesellschaft für den Gebäudepark der Stadt Zürich</title>
+      <link>https://nheeren.github.io/publication/wallbaum-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/wallbaum-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Überprüfung der Ziele der 2000-Watt-Gesellschaft mittels des Gebäudeparkmodells (GPM) Schweiz und Stadt Zürich</title>
+      <link>https://nheeren.github.io/publication/wallbaum-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/wallbaum-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gebäudeparkmodell Schweiz – SIA Effizienzpfad Energie, Dienstleistungs- und Wohngebäude</title>
+      <link>https://nheeren.github.io/publication/wallbaum-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/wallbaum-2009/</guid>
       <description></description>
     </item>
     
