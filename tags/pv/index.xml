@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lighting | BuildENVIRONMENT</title>
-    <link>https://nheeren.github.io/tags/lighting/</link>
-      <atom:link href="https://nheeren.github.io/tags/lighting/index.xml" rel="self" type="application/rss+xml" />
-    <description>Lighting</description>
+    <title>PV | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/pv/</link>
+      <atom:link href="https://nheeren.github.io/tags/pv/index.xml" rel="self" type="application/rss+xml" />
+    <description>PV</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/img/icon-192.png</url>
-      <title>Lighting</title>
-      <link>https://nheeren.github.io/tags/lighting/</link>
+      <title>PV</title>
+      <link>https://nheeren.github.io/tags/pv/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://nheeren.github.io/publication/jayathissa-2016/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/publication/jayathissa-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DIAL&#43;Suite: A new suite of tools to optimize the global energy performance of room design</title>
-      <link>https://nheeren.github.io/publication/paule-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/paule-2012/</guid>
       <description></description>
     </item>
     

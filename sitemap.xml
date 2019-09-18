@@ -353,6 +353,11 @@
   </url>
   
   <url>
+    <loc>https://nheeren.github.io/tags/carbon-strorage/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/talk/wiprachtiger-2019-dgaw/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -499,6 +504,11 @@
   
   <url>
     <loc>https://nheeren.github.io/talk/hertwich-isie-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/retrofit/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -938,12 +948,22 @@
   </url>
   
   <url>
+    <loc>https://nheeren.github.io/tags/lighting/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/authors/michiel-jansen/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://nheeren.github.io/authors/prageeth-jayathissa/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/pv/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1168,11 +1188,6 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/retrofit/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/authors/stephan-pfister/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -1299,11 +1314,6 @@
   
   <url>
     <loc>https://nheeren.github.io/authors/kensuke-fukushi/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/lighting/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
