@@ -5,7 +5,7 @@
     <link>https://nheeren.github.io/authors/</link>
       <atom:link href="https://nheeren.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,25 +13,81 @@
     </image>
     
     <item>
+      <title>Edgar G. Hertwich</title>
+      <link>https://nheeren.github.io/authors/edgar-g.-hertwich/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/authors/edgar-g.-hertwich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Niko Heeren</title>
       <link>https://nheeren.github.io/authors/niko-heeren/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/niko-heeren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Wolfram</title>
+      <link>https://nheeren.github.io/authors/paul-wolfram/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/authors/paul-wolfram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Berrill</title>
+      <link>https://nheeren.github.io/authors/peter-berrill/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/authors/peter-berrill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qingshi Tu</title>
+      <link>https://nheeren.github.io/authors/qingshi-tu/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/authors/qingshi-tu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reid Lifset</title>
+      <link>https://nheeren.github.io/authors/reid-lifset/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/authors/reid-lifset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saleem H. Ali</title>
+      <link>https://nheeren.github.io/authors/saleem-h.-ali/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/authors/saleem-h.-ali/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stefan Pauliuk</title>
       <link>https://nheeren.github.io/authors/stefan-pauliuk/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/stefan-pauliuk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomer Fishman</title>
+      <link>https://nheeren.github.io/authors/tomer-fishman/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/authors/tomer-fishman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andreas Froemelt</title>
       <link>https://nheeren.github.io/authors/andreas-froemelt/</link>
-      <pubDate>Fri, 13 Sep 2019 12:13:57 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/andreas-froemelt/</guid>
       <description></description>
     </item>
@@ -39,7 +95,7 @@
     <item>
       <title>Martin Raubal</title>
       <link>https://nheeren.github.io/authors/martin-raubal/</link>
-      <pubDate>Fri, 13 Sep 2019 12:13:57 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/martin-raubal/</guid>
       <description></description>
     </item>
@@ -47,7 +103,7 @@
     <item>
       <title>René Buffat</title>
       <link>https://nheeren.github.io/authors/rene-buffat/</link>
-      <pubDate>Fri, 13 Sep 2019 12:13:57 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/rene-buffat/</guid>
       <description></description>
     </item>
@@ -133,34 +189,10 @@
     </item>
     
     <item>
-      <title>Paul Wolfram</title>
-      <link>https://nheeren.github.io/authors/paul-wolfram/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/authors/paul-wolfram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qingshi Tu</title>
-      <link>https://nheeren.github.io/authors/qingshi-tu/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/authors/qingshi-tu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Saleem Ali</title>
       <link>https://nheeren.github.io/authors/saleem-ali/</link>
       <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/saleem-ali/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tomer Fishman</title>
-      <link>https://nheeren.github.io/authors/tomer-fishman/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/authors/tomer-fishman/</guid>
       <description></description>
     </item>
     
@@ -325,14 +357,6 @@
     </item>
     
     <item>
-      <title>Peter Berrill</title>
-      <link>https://nheeren.github.io/authors/peter-berrill/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/authors/peter-berrill/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ramin Roshandel</title>
       <link>https://nheeren.github.io/authors/ramin-roshandel/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -409,14 +433,6 @@
       <link>https://nheeren.github.io/authors/konstantin-stadler/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/konstantin-stadler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reid Lifset</title>
-      <link>https://nheeren.github.io/authors/reid-lifset/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/authors/reid-lifset/</guid>
       <description></description>
     </item>
     
