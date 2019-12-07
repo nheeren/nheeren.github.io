@@ -13,34 +13,788 @@
     </image>
     
     <item>
-      <title>Publications</title>
-      <link>https://nheeren.github.io/publication/</link>
+      <title>A framework for sustainable and circular system design: development and application on thermal insulation materials</title>
+      <link>https://nheeren.github.io/publication/wipraechtiger-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/</guid>
+      <guid>https://nheeren.github.io/publication/wipraechtiger-2020/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Just accepted. To be updated soon.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bridging the gap: enhancing material efficiency in residential buildings and cars</title>
+      <link>https://nheeren.github.io/publication/egr-chapter/</link>
+      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/egr-chapter/</guid>
+      <description>&lt;p&gt;Chapter 7 of the &lt;a href=&#34;https://www.unenvironment.org/resources/emissions-gap-report-2019&#34;&gt;UN Emissions Gap Report 2019&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;figures&#34;&gt;Figures&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;fig7.1.png&#34; alt=&#34;GHG emissions in GtCO2e associated with materials production by material (left) and by the first use of materials in subsequent production processes or final consumption (right)&#34;&gt;&lt;em&gt;Figure 7.1. GHG emissions in GtCO2e associated with materials production by material (left) and by the first use of materials in subsequent production processes or final consumption (right)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fig7.2.png&#34; alt=&#34;Annual emissions from the construction and operations of buildings in the G7 and in China and India, in a scenario that follows Shared Socioeconomic Pathway SSP1 to mitigate emissions to below 2°C Sector&#34;&gt;
+&lt;em&gt;Figure 7.2. Annual emissions from the construction and operations of buildings in the G7 and in China and India, in a scenario that follows Shared Socioeconomic Pathway SSP1 to mitigate emissions to below 2°C Sector&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ODYM – An Open Software Framework for Studying Dynamic Material Systems. Principles, Implementation, and Data Structures</title>
+      <link>https://nheeren.github.io/publication/pauliuk-2019-odym/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/pauliuk-2019-odym/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://nheeren.github.io/project/</link>
+      <title>Resource Efficiency &amp; Climate Change</title>
+      <link>https://nheeren.github.io/project/recc/</link>
       <pubDate>Thu, 12 Sep 2019 23:13:18 +0200</pubDate>
-      <guid>https://nheeren.github.io/project/</guid>
+      <guid>https://nheeren.github.io/project/recc/</guid>
+      <description>&lt;p&gt;Mandated by the G7 and United Nations International Resource Panel (UNEP-IRP) , we are investigating the potential benefits of Resource Efficiency for future greenhouse gas emissions.&lt;/p&gt;
+&lt;p&gt;Project website: &lt;a href=&#34;https://cie.research.yale.edu/project_main/resource-efficiency-climate-change&#34;&gt;https://cie.research.yale.edu/project_main/resource-efficiency-climate-change&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Project is ongoing.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Find related content and publications &lt;a href=&#34;https://nheeren.github.io/tags/recc-project/&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Swiss National Science Foundation NRP 66 Resource Wood</title>
+      <link>https://nheeren.github.io/project/nrp66/</link>
+      <pubDate>Sun, 01 Sep 2019 11:12:32 +0200</pubDate>
+      <guid>https://nheeren.github.io/project/nrp66/</guid>
+      <description>&lt;p&gt;In 2010 the Swiss National Science Foundation launched athe &lt;a href=&#34;http://www.nfp66.ch/en&#34;&gt;National Research Programme 66&lt;/a&gt; to investigate the potentials of wood as a national resource. The team led by &lt;a href=&#34;https://esd.ifu.ethz.ch&#34;&gt;Prof. Hellweg&lt;/a&gt; investigated the &lt;a href=&#34;http://www.nfp66.ch/en/projects/dialogue-field-4-provisioning-and-sustainable-use-wood/project-hellweg&#34;&gt;ecological implications of wood use&lt;/a&gt;. The project had a budget of 1 million Swiss Francs and brought forward three PhDs.&lt;/p&gt;
+&lt;p&gt;I was lucky enough to be one of those PhD students and &lt;a href=&#34;https://nheeren.github.io/publication/heeren-phd/&#34;&gt;my project&lt;/a&gt; looked into the ecological potentials of wood use in buildings.&lt;/p&gt;
+&lt;p&gt;Project finished.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Find related content and publications &lt;a href=&#34;https://nheeren.github.io/tags/nrp66-project/&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of CH2018 Climate Change Scenarios for Switzerland on today&#39;s Swiss building stock</title>
+      <link>https://nheeren.github.io/publication/buffat-cisbat-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/buffat-cisbat-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://nheeren.github.io/talk/</link>
+      <title>Monte Carlo approach to integrated chemical, physical, and life cycle impact assessments of cement related materials</title>
+      <link>https://nheeren.github.io/publication/heeren-iccc/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-iccc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A general data model for socioeconomic metabolism and its implementation in an industrial ecology data commons prototype</title>
+      <link>https://nheeren.github.io/publication/pauliuk-iedc-2019/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/talk/</guid>
+      <guid>https://nheeren.github.io/publication/pauliuk-iedc-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://nheeren.github.io/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/post/</guid>
+      <title>Upcoming IRP G7 report `GHG mitigation through material efficiency in residential buildings and light-duty vehicles&#39;</title>
+      <link>https://nheeren.github.io/talk/g-7-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/g-7-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material efficiency strategies to reducing greenhouse gas emissions associated with buildings, vehicles, and electronics – A review</title>
+      <link>https://nheeren.github.io/publication/hertwich-recc-review/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/hertwich-recc-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Database Seed for a Community-driven Material Intensity Research Platform</title>
+      <link>https://nheeren.github.io/publication/heeren-mi/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-mi/</guid>
+      <description>&lt;p&gt;Ever wondered how much material is in a building? This publication presents a comprehensive database  that contains 300 datasets for material intensity. Please consider &lt;a href=&#34;https://github.com/nheeren/material_intensity_db&#34;&gt;contributing&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A comparative study on the environmental impact of greenhouses: a probabilistic approach</title>
+      <link>https://nheeren.github.io/publication/golzar-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/golzar-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A geospatial and prospective building stock model for Switzerland</title>
+      <link>https://nheeren.github.io/talk/voet-isie-2019-talk/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/voet-isie-2019-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building a research community for the built environment’s material stocks</title>
+      <link>https://nheeren.github.io/talk/miatto-isie-2019-chair/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/miatto-isie-2019-chair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building material use and associated environmental impacts in China 2000--2015</title>
+      <link>https://nheeren.github.io/talk/huang-isie-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/huang-isie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circular System Design -- Fallbeispiel Isolationsmaterialien Schweiz</title>
+      <link>https://nheeren.github.io/talk/wiprachtiger-2019-dgaw/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/wiprachtiger-2019-dgaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circular System Design: A case study on insulation material in Switzerland</title>
+      <link>https://nheeren.github.io/talk/wiprachtiger-isie-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/wiprachtiger-isie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development pathways of building stocks</title>
+      <link>https://nheeren.github.io/talk/heeren-isie-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-isie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future Pathways for scenario modelling in Industrial Ecology</title>
+      <link>https://nheeren.github.io/talk/scenarios-isie-2019-chair/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/scenarios-isie-2019-chair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material efficiency and its contribution to climate change mitigation in Germany -- A scenario analysis until 2050</title>
+      <link>https://nheeren.github.io/talk/pauliuk-isie-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/pauliuk-isie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progress on Open Science in Industrial Ecology</title>
+      <link>https://nheeren.github.io/talk/openscience-isie-2019-chair/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/openscience-isie-2019-chair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource Efficiency for Climate Change Mitigation in Housing Buildings and Light-Duty Vehicles</title>
+      <link>https://nheeren.github.io/talk/hertwich-isie-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/hertwich-isie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrofit as a carbon sink: The carbon storage potentials of the EU housing stock</title>
+      <link>https://nheeren.github.io/publication/pittau-jcl/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/pittau-jcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special Session on Urban stocks and Urban mining</title>
+      <link>https://nheeren.github.io/talk/voet-isie-2019-chair/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/voet-isie-2019-chair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The community-driven material intensity platform for IE open science</title>
+      <link>https://nheeren.github.io/talk/heeren-openscience-isie-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-openscience-isie-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The future in and of criticality assessments</title>
+      <link>https://nheeren.github.io/publication/ioannidou-jie/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/ioannidou-jie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building material use and associated environmental impacts in China 2000-2015</title>
+      <link>https://nheeren.github.io/publication/huang-2018/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/huang-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource Efficiency and Climate Change</title>
+      <link>https://nheeren.github.io/talk/heeren-agci/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-agci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Environmental Impacts of Socio-Economic Systems</title>
+      <link>https://nheeren.github.io/talk/heeren-herus/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-herus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Industrial Ecology Open Science Project</title>
+      <link>https://nheeren.github.io/talk/stadler-di-4-r/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/stadler-di-4-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circular System Design – A Case Study on Insulation Material in Switzerland</title>
+      <link>https://nheeren.github.io/talk/wipraechtiger-tu-vienna-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/wipraechtiger-tu-vienna-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental Impacts of Buildings – Energy, Material, and Dynamics</title>
+      <link>https://nheeren.github.io/talk/heeren-boston/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-boston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circular System Design – A Case Study on Insulation Material in Switzerland</title>
+      <link>https://nheeren.github.io/talk/wipraechtiger-grc-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/wipraechtiger-grc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introducing ODYM -- An Open Dynamic Material Systems Model</title>
+      <link>https://nheeren.github.io/talk/pauliuk-grc-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/pauliuk-grc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource Efficiency &amp; Climate Change -- A Comprehensive Modelling Framework for the Socio-Economic System</title>
+      <link>https://nheeren.github.io/talk/heeren-grc-2018/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-grc-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deriving material inventories using big data methods</title>
+      <link>https://nheeren.github.io/talk/heeren-iea/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-iea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking Construction Material over Space and Time: Prospective and Geo-referenced Modeling of Building Stocks and Construction Material Flows</title>
+      <link>https://nheeren.github.io/publication/heeren-2018-jie/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2018-jie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking construction material over space &amp; time</title>
+      <link>https://nheeren.github.io/talk/heeren-epa/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-epa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A novel integrated framework to evaluate greenhouse energy demand and crop yield production</title>
+      <link>https://nheeren.github.io/publication/golzar-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/golzar-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing environmental impacts of individual households: A large-scale bottom-up LCA-model for Switzerland</title>
+      <link>https://nheeren.github.io/talk/froemelt-2018-setac/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/froemelt-2018-setac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Inventory and Refurbishment Scenario Database Development for Switzerland</title>
+      <link>https://nheeren.github.io/publication/ostermeyer-2016/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/ostermeyer-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industrial Ecology Data Commons (IEDC) Database</title>
+      <link>https://nheeren.github.io/talk/pauliuk-iedc-code/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/pauliuk-iedc-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is a net life cycle balance for energy and materials achievable for a zero emission single-family building in Norway?</title>
+      <link>https://nheeren.github.io/publication/kristjansdottir-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/kristjansdottir-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nullius in Verba1: Advancing Data Transparency in Industrial Ecology</title>
+      <link>https://nheeren.github.io/publication/hertwich-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/hertwich-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nullius in verba -- A guideline proposal for data accessibility and transparency in industrial ecology research</title>
+      <link>https://nheeren.github.io/publication/hertwich-dttf/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/hertwich-dttf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative emission analysis of low-energy and zero-emission buildings</title>
+      <link>https://nheeren.github.io/publication/kristjansdottir-2017-a/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/kristjansdottir-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A look on the bright side of material stocks: formation of a global material stock database of the built environment using nighttime satellite imagery</title>
+      <link>https://nheeren.github.io/talk/fishman-isie-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/fishman-isie-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Virtual Platform to Evaluate Policy Scenarios Targeting Environmental Impacts from Household Consumption</title>
+      <link>https://nheeren.github.io/talk/froemelt-isie-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/froemelt-isie-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEEF: Building stock Energy EFficiency model for Switzerland</title>
+      <link>https://nheeren.github.io/talk/buffat-isie-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/buffat-isie-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big data GIS analysis for novel approaches in building stock modelling</title>
+      <link>https://nheeren.github.io/publication/buffat-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/buffat-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Criticality methodology for resources: how to apply to construction in the future?</title>
+      <link>https://nheeren.github.io/talk/ioannidou-lcm-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/ioannidou-lcm-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data transparency in Industrial Ecology</title>
+      <link>https://nheeren.github.io/talk/hertwich-isie-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/hertwich-isie-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIS-based Decision Support System for Building Retrofit</title>
+      <link>https://nheeren.github.io/publication/buffat-cisbat-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/buffat-cisbat-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitigation potentials for environmental impacts of construction material flows</title>
+      <link>https://nheeren.github.io/talk/heeren-isie-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-isie-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling environmental impacts of buildings – energy, material, and dynamics</title>
+      <link>https://nheeren.github.io/publication/heeren-phd/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-phd/</guid>
+      <description>&lt;p&gt;My PhD thesis 😸.&lt;/p&gt;
+&lt;p&gt;Learn more about the National Research Programme &lt;a href=&#34;https://nheeren.github.io/project/nrp66/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prospective and regional modelling of construction material flows</title>
+      <link>https://nheeren.github.io/talk/heeren-lcm-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-lcm-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Special session on the built environment&#39;s stocks and flows</title>
+      <link>https://nheeren.github.io/talk/fishman-isie-2017-ss/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/fishman-isie-2017-ss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life cycle assessment of dynamic building integrated photovoltaics</title>
+      <link>https://nheeren.github.io/publication/jayathissa-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/jayathissa-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools for shaping the future of energy and building systems</title>
+      <link>https://nheeren.github.io/talk/heeren-epfl/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-epfl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bottom-up model of energy &amp; material flows in the Swiss building stock</title>
+      <link>https://nheeren.github.io/talk/heeren-grc-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-grc-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bottom-up model of energy &amp; material flows in the Swiss building stock</title>
+      <link>https://nheeren.github.io/talk/heeren-grs-2016/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-grs-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welches sind die ökologischsten Holzverwendungen?</title>
+      <link>https://nheeren.github.io/publication/steubing-2015/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/steubing-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A bottom-up model for material-energy coupled environmental assessment of the Swiss building stock</title>
+      <link>https://nheeren.github.io/talk/heeren-isie-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-isie-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A tool for LCA and LCC of heat supply systems</title>
+      <link>https://nheeren.github.io/talk/knecht-lcm-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/knecht-lcm-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environmental Impact of Buildings---What Matters?</title>
+      <link>https://nheeren.github.io/publication/heeren-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LCA of innovative wood products and wood energy systems</title>
+      <link>https://nheeren.github.io/talk/heeren-df-60-chair/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-df-60-chair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of wood for the Swiss building stock</title>
+      <link>https://nheeren.github.io/talk/heeren-df-60/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-df-60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Energy Efficiency for Massive market Uptake BEEM-UP Energetic Refurbishment Replication Strategy for Eastern European Countries</title>
+      <link>https://nheeren.github.io/publication/wunderlich-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/wunderlich-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energetic and comfort benefits of composite buildings : Learning from vernacular techniques</title>
+      <link>https://nheeren.github.io/publication/szkordilisz-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/szkordilisz-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of construction material choice and design parameters on greenhouse gas emissions of buildings</title>
+      <link>https://nheeren.github.io/publication/heeren-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konzept Energieversorgung 2050</title>
+      <link>https://nheeren.github.io/publication/jakob-2014-b/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/jakob-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling housing energy demand and optimizing energy supply</title>
+      <link>https://nheeren.github.io/talk/saner-lca-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/saner-lca-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing the Life Cycle of Wood</title>
+      <link>https://nheeren.github.io/talk/hellweg-grc-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/hellweg-grc-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pathways towards an Energetic Refurbishment Replication Strategy for Eastern European Countries - Findings from the EU project BEEM-UP</title>
+      <link>https://nheeren.github.io/publication/dineva-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/dineva-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The environmental significance of construction: the case of wood buildings</title>
+      <link>https://nheeren.github.io/talk/heeren-df-57/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-df-57/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Housing and mobility demands of individual households and their life cycle assessment.</title>
+      <link>https://nheeren.github.io/publication/saner-2013-a/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/saner-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A component based bottom-up building stock model for comprehensive environmental impact assessment and target control</title>
+      <link>https://nheeren.github.io/publication/heeren-2013-a/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2013-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological use of wood resources in Switzerland: an overview from the Swiss National Research Program (NRP) 66</title>
+      <link>https://nheeren.github.io/publication/steubing-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/steubing-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining MFA and LCA to identify environmental strategies for a sustainable management of wood resources in Switzerland</title>
+      <link>https://nheeren.github.io/talk/hellweg-grc-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/hellweg-grc-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Component-based building stock model for testing the targets of the Swiss 2000 Watt society</title>
+      <link>https://nheeren.github.io/talk/heeren-tabula/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-tabula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIAL&#43;Suite: A new suite of tools to optimize the global energy performance of room design</title>
+      <link>https://nheeren.github.io/publication/paule-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/paule-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energiekonzept 2050 für die Stadt Zürich - Auf dem Weg zur 2000 Watt tauglichen Wärme-Versorgung mit einem räumlich differenzierten Gebäudeparkmodell</title>
+      <link>https://nheeren.github.io/publication/jakob-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/jakob-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovation for sustainability: toward a sustainable urban future in industrialized cities</title>
+      <link>https://nheeren.github.io/publication/han-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/han-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a 2000 Watt society – assessing building-specific saving potentials of the Swiss residential building stock</title>
+      <link>https://nheeren.github.io/publication/heeren-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecological potentials of load management in buildings</title>
+      <link>https://nheeren.github.io/publication/heeren-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2011/</guid>
+      <description>&lt;p&gt;MSc thesis&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2000-Watt-Gesellschafts-taugliches Energiekonzept für die Stadt Zürich</title>
+      <link>https://nheeren.github.io/publication/jakob-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/jakob-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a 2000 Watt society – assessing building - specific saving potentials of the Swiss residential building stock</title>
+      <link>https://nheeren.github.io/publication/heeren-2011-a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4500 W zu viel</title>
+      <link>https://nheeren.github.io/publication/heeren-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building stock modeling -– a systematic approach to govern cities in a sustainable way</title>
+      <link>https://nheeren.github.io/talk/heeren-icss-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/talk/heeren-icss-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gebäudeparkmodell Vorstudie zur Erreichbarkeit der 2000-Watt-Ziele für Wohn-, Büro- und Schulgebäude in der Stadt Zürich Anhang zum Schlussbericht: Graue Energie und Umweltbelastungspunkte</title>
+      <link>https://nheeren.github.io/publication/heeren-2000/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/heeren-2000/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gebäudeparkmodell Zürich – 7-Meilenschritte – Wirkungsanalyse anhand des Gebäudeparkmodells Stadt Zürich</title>
+      <link>https://nheeren.github.io/publication/wallbaum-2010-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/wallbaum-2010-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gebäudeparkmodell Zürich – Büro-, Schul- und Wohngebäude – Vorstudie zur Erreichbarkeit der Ziele der 2000-Watt-Gesellschaft für den Gebäudepark der Stadt Zürich</title>
+      <link>https://nheeren.github.io/publication/wallbaum-2010-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/wallbaum-2010-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lebensdauerkosten von Schwellenmaterialien unter Einbezug ökologischer Aspekte</title>
+      <link>https://nheeren.github.io/publication/hoeppner/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/hoeppner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Überprüfung der Ziele der 2000-Watt-Gesellschaft mittels des Gebäudeparkmodells (GPM) Schweiz und Stadt Zürich</title>
+      <link>https://nheeren.github.io/publication/wallbaum-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/wallbaum-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gebäudeparkmodell Schweiz – SIA Effizienzpfad Energie, Dienstleistungs- und Wohngebäude</title>
+      <link>https://nheeren.github.io/publication/wallbaum-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/wallbaum-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lebensdauerkosten von Oberbautypen mit verschiednen Schwellenmaterialien unter Einbezug ökologischer Aspekte</title>
+      <link>https://nheeren.github.io/publication/weidmann-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/weidmann-2009/</guid>
       <description></description>
     </item>
     
