@@ -5,12 +5,52 @@
     <link>https://nheeren.github.io/tags/</link>
       <atom:link href="https://nheeren.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://nheeren.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Circular Economy</title>
+      <link>https://nheeren.github.io/tags/circular-economy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/circular-economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LCA</title>
+      <link>https://nheeren.github.io/tags/lca/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/lca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material</title>
+      <link>https://nheeren.github.io/tags/material/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MFA</title>
+      <link>https://nheeren.github.io/tags/mfa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/mfa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NRP 73 project</title>
+      <link>https://nheeren.github.io/tags/nrp-73-project/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/nrp-73-project/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Carbon budget</title>
@@ -81,22 +121,6 @@
       <link>https://nheeren.github.io/tags/code/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Material</title>
-      <link>https://nheeren.github.io/tags/material/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/material/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MFA</title>
-      <link>https://nheeren.github.io/tags/mfa/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/mfa/</guid>
       <description></description>
     </item>
     
@@ -185,14 +209,6 @@
       <link>https://nheeren.github.io/tags/gis/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/tags/gis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LCA</title>
-      <link>https://nheeren.github.io/tags/lca/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/tags/lca/</guid>
       <description></description>
     </item>
     
@@ -425,6 +441,14 @@
       <link>https://nheeren.github.io/tags/transport/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/tags/transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infrastructure</title>
+      <link>https://nheeren.github.io/tags/infrastructure/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/tags/infrastructure/</guid>
       <description></description>
     </item>
     
