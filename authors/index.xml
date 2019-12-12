@@ -55,8 +55,24 @@
     <item>
       <title>Edgar Hertwich</title>
       <link>https://nheeren.github.io/authors/edgar-hertwich/</link>
-      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Dec 2019 23:34:35 +0100</pubDate>
       <guid>https://nheeren.github.io/authors/edgar-hertwich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reid Lifset</title>
+      <link>https://nheeren.github.io/authors/reid-lifset/</link>
+      <pubDate>Thu, 12 Dec 2019 23:34:35 +0100</pubDate>
+      <guid>https://nheeren.github.io/authors/reid-lifset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Pauliuk</title>
+      <link>https://nheeren.github.io/authors/stefan-pauliuk/</link>
+      <pubDate>Thu, 12 Dec 2019 23:34:35 +0100</pubDate>
+      <guid>https://nheeren.github.io/authors/stefan-pauliuk/</guid>
       <description></description>
     </item>
     
@@ -85,26 +101,10 @@
     </item>
     
     <item>
-      <title>Reid Lifset</title>
-      <link>https://nheeren.github.io/authors/reid-lifset/</link>
-      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/authors/reid-lifset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Saleem Ali</title>
       <link>https://nheeren.github.io/authors/saleem-ali/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/saleem-ali/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stefan Pauliuk</title>
-      <link>https://nheeren.github.io/authors/stefan-pauliuk/</link>
-      <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/authors/stefan-pauliuk/</guid>
       <description></description>
     </item>
     
@@ -141,7 +141,7 @@
     </item>
     
     <item>
-      <title>Rupert J. Myers</title>
+      <title>Rupert J. Myers*</title>
       <link>https://nheeren.github.io/authors/rupert-j.-myers/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/authors/rupert-j.-myers/</guid>
