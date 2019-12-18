@@ -93,6 +93,36 @@
   </url>
   
   <url>
+    <loc>https://nheeren.github.io/tags/data/</loc>
+    <lastmod>2019-12-18T21:05:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/post/191218_iedc-update/</loc>
+    <lastmod>2019-12-18T21:05:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/industrial-ecology/</loc>
+    <lastmod>2019-12-18T21:05:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/open-access/</loc>
+    <lastmod>2019-12-18T21:05:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/post/</loc>
+    <lastmod>2019-12-18T21:05:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/stefan-pauliuk/</loc>
+    <lastmod>2019-12-18T21:05:04+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/publication_types/4/</loc>
     <lastmod>2019-12-12T23:34:35+01:00</lastmod>
   </url>
@@ -148,11 +178,6 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/authors/stefan-pauliuk/</loc>
-    <lastmod>2019-12-12T23:34:35+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/tags/united-nations/</loc>
     <lastmod>2019-12-12T23:34:35+01:00</lastmod>
   </url>
@@ -204,11 +229,6 @@
   
   <url>
     <loc>https://nheeren.github.io/publication/pauliuk-2019-odym/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/open-access/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -329,11 +349,6 @@
   
   <url>
     <loc>https://nheeren.github.io/authors/daniel-b.-muller/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/data/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1513,10 +1528,6 @@
   
   <url>
     <loc>https://nheeren.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/post/</loc>
   </url>
   
 </urlset>
