@@ -5,21 +5,12 @@
     <link>https://nheeren.github.io/tags/open-access/</link>
       <atom:link href="https://nheeren.github.io/tags/open-access/index.xml" rel="self" type="application/rss+xml" />
     <description>Open Access</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/img/icon-192.png</url>
       <title>Open Access</title>
       <link>https://nheeren.github.io/tags/open-access/</link>
     </image>
-    
-    <item>
-      <title>A framework for sustainable and circular system design: development and application on thermal insulation materials</title>
-      <link>https://nheeren.github.io/publication/wipraechtiger-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/wipraechtiger-2020/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Just accepted. More information soon.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>ODYM – An Open Software Framework for Studying Dynamic Material Systems. Principles, Implementation, and Data Structures</title>

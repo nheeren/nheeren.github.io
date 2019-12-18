@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Material | BuildENVIRONMENT</title>
-    <link>https://nheeren.github.io/tags/material/</link>
-      <atom:link href="https://nheeren.github.io/tags/material/index.xml" rel="self" type="application/rss+xml" />
-    <description>Material</description>
+    <title>Recycling | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/tags/recycling/</link>
+      <atom:link href="https://nheeren.github.io/tags/recycling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recycling</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/img/icon-192.png</url>
-      <title>Material</title>
-      <link>https://nheeren.github.io/tags/material/</link>
+      <title>Recycling</title>
+      <link>https://nheeren.github.io/tags/recycling/</link>
     </image>
     
     <item>
@@ -19,31 +19,6 @@
       <guid>https://nheeren.github.io/publication/wipraechtiger-2020/</guid>
       <description>&lt;p&gt;Circular economy is increasingly  promoted as a solution to decouple economic growth and environmental  impacts. To design a circular and sustainable system, a structured  approach is needed. In this study, we suggest to follow a 3-step  approach. First, the status quo is evaluated using environmental  assessment methods. We determine current circularity (share of assessed  product and material retained and further used in the system),  environmental impacts, the most impactful products and processes, and  assess contaminants and impurities. Second, scenarios favoring  circularity strategies are developed and their environmental impacts  evaluated. Third, the scenarios are compared and measures for  environmental impact mitigation derived.&lt;/p&gt;
 &lt;p&gt;The  suggested approach was applied to the case study of thermal insulation  in residential buildings in Switzerland. Coupling dynamic, prospective  material flow analysis with life cycle impact assessment enabled to  determine current and future environmental impacts. Current material  circularity is low due to lacking incentives for recycling and legally  required incineration of flame retardant containing oil-based materials. The most impact-intensive processes were the production of insulation  materials and the incineration of oil-based materials including their  adhering residues. The investigated scenarios include (i) increased  recycling, (ii) augmented use of biogenic materials, and (iii) a  combination thereof. All scenarios lead to reduced climate change and  human toxicity impacts. The second and third scenario showed increased  impacts for land use, ozone depletion, and ecotoxicity. Taking into  consideration end-of-life already in the design process, phasing out  toxic materials, and increasing usage of renewable materials are crucial for sustainable, circular system design.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ODYM – An Open Software Framework for Studying Dynamic Material Systems. Principles, Implementation, and Data Structures</title>
-      <link>https://nheeren.github.io/publication/pauliuk-2019-odym/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/pauliuk-2019-odym/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monte Carlo approach to integrated chemical, physical, and life cycle impact assessments of cement related materials</title>
-      <link>https://nheeren.github.io/publication/heeren-iccc/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/heeren-iccc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Database Seed for a Community-driven Material Intensity Research Platform</title>
-      <link>https://nheeren.github.io/publication/heeren-mi/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/heeren-mi/</guid>
-      <description>&lt;p&gt;Ever wondered how much material is in a building? This publication presents a comprehensive database  that contains 300 datasets for material intensity. Please consider &lt;a href=&#34;https://github.com/nheeren/material_intensity_db&#34;&gt;contributing&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
@@ -64,22 +39,6 @@
     </item>
     
     <item>
-      <title>The future in and of criticality assessments</title>
-      <link>https://nheeren.github.io/publication/ioannidou-jie/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/ioannidou-jie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Building material use and associated environmental impacts in China 2000-2015</title>
-      <link>https://nheeren.github.io/publication/huang-2018/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/huang-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Circular System Design – A Case Study on Insulation Material in Switzerland</title>
       <link>https://nheeren.github.io/talk/wipraechtiger-tu-vienna-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
@@ -92,30 +51,6 @@
       <link>https://nheeren.github.io/talk/wipraechtiger-grc-2018/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/talk/wipraechtiger-grc-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tracking Construction Material over Space and Time: Prospective and Geo-referenced Modeling of Building Stocks and Construction Material Flows</title>
-      <link>https://nheeren.github.io/publication/heeren-2018-jie/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/heeren-2018-jie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Building Inventory and Refurbishment Scenario Database Development for Switzerland</title>
-      <link>https://nheeren.github.io/publication/ostermeyer-2016/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/ostermeyer-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Influence of construction material choice and design parameters on greenhouse gas emissions of buildings</title>
-      <link>https://nheeren.github.io/publication/heeren-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/heeren-2014/</guid>
       <description></description>
     </item>
     
