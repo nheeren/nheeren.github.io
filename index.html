@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.6.3">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
 
@@ -44,11 +44,14 @@
 
   
   
+
+  
+  
   
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -60,8 +63,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
@@ -70,6 +73,118 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
     
 
   
@@ -100,13 +215,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +233,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -135,11 +252,12 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://nheeren.github.io/">
 
+  
   
   
   
@@ -156,10 +274,10 @@
   <meta property="og:site_name" content="BuildENVIRONMENT">
   <meta property="og:url" content="https://nheeren.github.io/">
   <meta property="og:title" content="BuildENVIRONMENT">
-  <meta property="og:description" content="Niko Heeren [BuildENVIRONMENT]"><meta property="og:image" content="https://nheeren.github.io/img/icon-192.png">
-  <meta property="twitter:image" content="https://nheeren.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Niko Heeren [BuildENVIRONMENT]"><meta property="og:image" content="https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-01-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-03-15T08:00:31&#43;02:00">
   
 
   
@@ -229,6 +347,12 @@
 
 
   
+
+
+
+
+
+
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -448,8 +572,21 @@
       
 
       
-      <li class="nav-item">
-        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
       </li>
       
 
@@ -478,10 +615,11 @@
 
 
 
+
   
-
-
-
+  
+  
+  
 
 
 
@@ -592,13 +730,14 @@
 
 
 
+
 <div class="row">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
       
       
-      <img class="portrait" src="/authors/admin/avatar_hu3e0a617a3c7c357c958f8d44eea8a95b_266477_250x250_fill_q100_lanczos_center.jpg" alt="Avatar">
+      <img class="avatar avatar-circle" src="/authors/admin/avatar_hu3e0a617a3c7c357c958f8d44eea8a95b_266477_270x270_fill_q100_lanczos_center.jpg" alt="Dr. Niko Heeren">
       
 
       <div class="portrait-title">
@@ -747,7 +886,8 @@
     
     <h1>About</h1>
 
-    <p>I am a PostDoctoral researcher and lecturer at ETH Zurich, Switzerland. Furthermore, I am an Associate Editor for Data at the <a href="https://jie.yale.edu/">Journal of Industrial Ecology</a>.</p>
+    <p>I am a PostDoctoral researcher and lecturer at ETH Zurich, Switzerland. Furthermore, I am an Associate Editor for Data at the 
+<a href="https://jie.yale.edu/" target="_blank" rel="noopener">Journal of Industrial Ecology</a>.</p>
 <p>My research focuses on the analysis and forecast of environmental impacts of socio-economic systems, such as building stocks. In my work I often combine methods and tools from the environmental and computational science disciplines to develop, for instance, probabilistic approaches for big data analysis.</p>
 
 
@@ -1302,6 +1442,7 @@
 
 
 
+
   
 
 
@@ -1347,7 +1488,8 @@
 
     
     <div class="article-style">
-      Yes – data science is hard, especially in the Industrial Ecology domain. Therefore, we launched the Industrial Ecology Data Commons …
+      Yes – data science is hard, especially in the Industrial Ecology domain. Therefore, we launched the Industrial Ecology Data Commons (IEDC) earlier this year. It allows researcher to quickly download data from important Industrial Ecology research papers.
+In a final update for this year, we uploaded another 10+ datasets to the Industrial Ecology Data Commons (IEDC) server. With that update, the database now holds approximately 1.1 million data points from more than 180 datasets.
     </div>
     
 
@@ -1368,11 +1510,8 @@
   <div>
     
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>
-
   </div>
   
   
@@ -1523,7 +1662,9 @@
       <h4><a href="https://www.resourcepanel.org/reports/resource-efficiency-and-climate-change" target="_blank" rel="noopener">Resource Efficiency &amp; Climate Change</a></h4>
       
       <div class="article-style">
-        <p><p>Mandated by the G7 and United Nations International Resource Panel (UNEP-IRP) , we are investigating the potential benefits of Resource …</p></p>
+        <p>Mandated by the G7 and United Nations International Resource Panel (UNEP-IRP) , we are investigating the potential benefits of Resource Efficiency for future greenhouse gas emissions.
+Project ends 2019.
+Find related content and publications here.</p>
       </div>
       
     </div>
@@ -1561,7 +1702,8 @@
       <h4><a href="/project/nrp66/" >Swiss National Science Foundation NRP 66 Resource Wood</a></h4>
       
       <div class="article-style">
-        <p>In 2010 the Swiss National Science Foundation launched athe National Research Programme 66 to investigate the potentials of wood as a …</p>
+        <p>In 2010 the Swiss National Science Foundation launched athe National Research Programme 66 to investigate the potentials of wood as a national resource. The team led by Prof. Hellweg investigated the ecological implications of wood use. The project had a budget of 1 million Swiss Francs and brought forward three PhDs.
+I was lucky enough to be one of those PhD students and my project looked into the ecological potentials of wood use in buildings.</p>
       </div>
       
     </div>
@@ -1635,6 +1777,14 @@
 
 
 
+
+
+
+
+
+  
+
+
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
     <h1>Featured Publications</h1>
@@ -1642,10 +1792,114 @@
   </div>
   <div class="col-12 col-lg-8">
 
-    <p><em>Browse all publications <a href="https://nheeren.github.io/publication/">here</a></em> 🔍</p>
-<!-- raw HTML omitted -->
+    <p><em>Browse all publications 
+<a href="https://nheeren.github.io/publication/">here</a></em> 🔍</p>
+<br/>
 
 
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/rissman-2019/" >Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Fully decarbonizing global industry is essential to achieving climate stabilization, and reaching net zero greenhouse gas emissions by …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  
+  <span><a href="/authors/jeffrey-rissman/">Jeffrey Rissman</a></span>, <span><a href="/authors/chris-bataille/">Chris Bataille</a></span>, <span><a href="/authors/eric-masanet/">Eric Masanet</a></span>, <span><a href="/authors/nate-aden/">Nate Aden</a></span>, <span><a href="/authors/william-r-morrow/">William R Morrow</a></span>, <span><a href="/authors/and-nan-zhou/">and Nan Zhou</a></span>, <span><a href="/authors/neal-elliott/">Neal Elliott</a></span>, <span><a href="/authors/rebecca-dell/">Rebecca Dell</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/brigitta-huckestein/">Brigitta Huckestein</a></span>, <span><a href="/authors/joe-cresko/">Joe Cresko</a></span>, <span><a href="/authors/sabbie-miller/">Sabbie Miller</a></span>, <span><a href="/authors/joyashree-roy-and-paul-fennell/">Joyashree Roy and Paul Fennell</a></span>, <span><a href="/authors/betty-cremmins/">Betty Cremmins</a></span>, <span><a href="/authors/thomas-koch-blank/">Thomas Koch Blank</a></span>, <span><a href="/authors/david-hone/">David Hone</a></span>, <span><a href="/authors/ellen-d.-williams/">Ellen D. Williams</a></span>, <span><a href="/authors/stephane-de-la-rue-du-can/">Stephane de la Rue du Can</a></span>, <span><a href="/authors/bill-sisson/">Bill Sisson</a></span>, <span><a href="/authors/mike-williams-john-katzenberger/">Mike Williams John Katzenberger</a></span>, <span><a href="/authors/dallas-burtraw/">Dallas Burtraw</a></span>, <span><a href="/authors/girish-sethi/">Girish Sethi</a></span>, <span><a href="/authors/he-ping/">He Ping</a></span>, <span><a href="/authors/david-danielson/">David Danielson</a></span>, <span><a href="/authors/hongyou-lu/">Hongyou Lu</a></span>, <span><a href="/authors/tom-lorber/">Tom Lorber</a></span>, <span><a href="/authors/jens-dinkel/">Jens Dinkel</a></span>, <span><a href="/authors/jonas-helseth/">Jonas Helseth</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/rissman-2019/rissman-2019.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.apenergy.2020.11484" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/rissman-2019/" >
+      <img src="/publication/rissman-2019/featured_hu2a54a5d83d752466885ef0a425613c7a_343031_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
     
       
         
@@ -1677,7 +1931,7 @@
     
     <div class="article-style">
       Full report and more details follow soon.
-This report was developed by the IRP in response to a request by leaders of the Group of 7 …
+This report was developed by the IRP in response to a request by leaders of the Group of 7 nations in the context of efforts to promote resource efficiency as a core element of sustainable development. It conducts a rigorous assessment of the contribution of material efficiency to GHG abatement strategies. More concretely, it assesses the reduction potential of GHG emissions from material efficiency strategies applied in residential buildings and light duty vehicles, and reviews policies that address these strategies.
     </div>
     
 
@@ -1689,11 +1943,8 @@ This report was developed by the IRP in response to a request by leaders of the 
       <div>
         
 
-
-
   
   <span><a href="/authors/edgar-hertwich/">Edgar Hertwich</a></span>, <span><a href="/authors/reid-lifset/">Reid Lifset</a></span>, <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>
-
       </div>
       
     </div>
@@ -1807,11 +2058,8 @@ This report was developed by the IRP in response to a request by leaders of the 
       <div>
         
 
-
-
   
   <span><a href="/authors/edgar-hertwich/">Edgar Hertwich</a></span>, <span><a href="/authors/reid-lifset/">Reid Lifset</a></span>, <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/saleem-ali/">Saleem Ali</a></span>, <span><a href="/authors/peter-berrill/">Peter Berrill</a></span>, <span><a href="/authors/tomer-fishman/">Tomer Fishman</a></span>, <span><a href="/authors/qingshi-tu/">Qingshi Tu</a></span>, <span><a href="/authors/paul-wolfram/">Paul Wolfram</a></span>
-
       </div>
       
     </div>
@@ -1909,11 +2157,8 @@ This report was developed by the IRP in response to a request by leaders of the 
       <div>
         
 
-
-
   
   <span><a href="/authors/edgar-hertwich/">Edgar Hertwich</a></span>, <span><a href="/authors/saleem-ali/">Saleem Ali</a></span>, <span><a href="/authors/luca-ciacci/">Luca Ciacci</a></span>, <span><a href="/authors/tomer-fishman/">Tomer Fishman</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/eric-masanet/">Eric Masanet</a></span>, <span><a href="/authors/farnaz-nojavan-asghari/">Farnaz Nojavan Asghari</a></span>, <span><a href="/authors/elsa-olivetti/">Elsa Olivetti</a></span>, <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/qingshi-tu/">Qingshi Tu</a></span>, <span><a href="/authors/paul-wolfram/">Paul Wolfram</a></span>
-
       </div>
       
     </div>
@@ -2015,11 +2260,8 @@ This report was developed by the IRP in response to a request by leaders of the 
       <div>
         
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/tomer-fishman/">Tomer Fishman</a></span>
-
       </div>
       
     </div>
@@ -2129,11 +2371,8 @@ This report was developed by the IRP in response to a request by leaders of the 
       <div>
         
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>
-
       </div>
       
     </div>
@@ -2194,6 +2433,8 @@ This report was developed by the IRP in response to a request by leaders of the 
 
       
     
+
+  
 
   </div>
 </div>
@@ -2266,6 +2507,7 @@ This report was developed by the IRP in response to a request by leaders of the 
       
       
       
+      
 
       <div class="tag-cloud">
         
@@ -2277,12 +2519,12 @@ This report was developed by the IRP in response to a request by leaders of the 
           
           
           
-          <a href="/tags/beem-up-project/" style="font-size:0.85rem">BEEM-UP project</a>
+          <a href="/tags/beem-up-project/" style="font-size:0.614601483711009rem">BEEM-UP project</a>
         
           
           
           
-          <a href="/tags/big-data/" style="font-size:1.0254887502163468rem">Big data</a>
+          <a href="/tags/big-data/" style="font-size:0.6523909291728978rem">Big data</a>
         
           
           
@@ -2297,12 +2539,12 @@ This report was developed by the IRP in response to a request by leaders of the 
           
           
           
-          <a href="/tags/building-physics/" style="font-size:0.85rem">Building physics</a>
+          <a href="/tags/building-physics/" style="font-size:0.614601483711009rem">Building physics</a>
         
           
           
           
-          <a href="/tags/building-stock/" style="font-size:1.925488750216347rem">Building stock</a>
+          <a href="/tags/building-stock/" style="font-size:0.8461953803059247rem">Building stock</a>
         
           
           
@@ -2327,12 +2569,12 @@ This report was developed by the IRP in response to a request by leaders of the 
           
           
           
-          <a href="/tags/circular-economy/" style="font-size:1.2465784284662087rem">Circular Economy</a>
+          <a href="/tags/circular-economy/" style="font-size:0.7rem">Circular Economy</a>
         
           
           
           
-          <a href="/tags/code/" style="font-size:0.85rem">Code</a>
+          <a href="/tags/code/" style="font-size:0.614601483711009rem">Code</a>
         
           
           
@@ -2347,7 +2589,7 @@ This report was developed by the IRP in response to a request by leaders of the 
           
           
           
-          <a href="/tags/data/" style="font-size:1.3254887502163468rem">Data</a>
+          <a href="/tags/data/" style="font-size:0.7169924128839068rem">Data</a>
         
           
           
@@ -2362,37 +2604,37 @@ This report was developed by the IRP in response to a request by leaders of the 
           
           
           
-          <a href="/tags/energy/" style="font-size:1.867695226833628rem">Energy</a>
+          <a href="/tags/energy/" style="font-size:0.833750222441223rem">Energy</a>
         
           
           
           
-          <a href="/tags/europe/" style="font-size:1.0254887502163468rem">Europe</a>
+          <a href="/tags/europe/" style="font-size:0.6523909291728978rem">Europe</a>
         
           
           
           
-          <a href="/tags/food/" style="font-size:0.85rem">Food</a>
+          <a href="/tags/food/" style="font-size:0.614601483711009rem">Food</a>
         
           
           
           
-          <a href="/tags/german/" style="font-size:1.6254887502163469rem">German</a>
+          <a href="/tags/german/" style="font-size:0.7815938965949157rem">German</a>
         
           
           
           
-          <a href="/tags/ghg/" style="font-size:0.85rem">GHG</a>
+          <a href="/tags/ghg/" style="font-size:0.614601483711009rem">GHG</a>
         
           
           
           
-          <a href="/tags/gis/" style="font-size:1.392206476617281rem">GIS</a>
+          <a href="/tags/gis/" style="font-size:0.7313592932683252rem">GIS</a>
         
           
           
           
-          <a href="/tags/greenhouse/" style="font-size:0.85rem">Greenhouse</a>
+          <a href="/tags/greenhouse/" style="font-size:0.614601483711009rem">Greenhouse</a>
         
           
           
@@ -2407,57 +2649,62 @@ This report was developed by the IRP in response to a request by leaders of the 
           
           
           
+          <a href="/tags/industry/" style="font-size:0.55rem">Industry</a>
+        
+          
+          
+          
           <a href="/tags/infrastructure/" style="font-size:0.55rem">Infrastructure</a>
         
           
           
           
-          <a href="/tags/lca/" style="font-size:1.867695226833628rem">LCA</a>
+          <a href="/tags/lca/" style="font-size:0.833750222441223rem">LCA</a>
         
           
           
           
-          <a href="/tags/lighting/" style="font-size:0.85rem">Lighting</a>
+          <a href="/tags/lighting/" style="font-size:0.614601483711009rem">Lighting</a>
         
           
           
           
-          <a href="/tags/material/" style="font-size:1.6601319154423275rem">Material</a>
+          <a href="/tags/material/" style="font-size:0.7959607769793341rem">Material</a>
         
           
           
           
-          <a href="/tags/material-energy-nexus/" style="font-size:1.392206476617281rem">Material-Energy Nexus</a>
+          <a href="/tags/material-energy-nexus/" style="font-size:0.7313592932683252rem">Material-Energy Nexus</a>
         
           
           
           
-          <a href="/tags/mfa/" style="font-size:1.392206476617281rem">MFA</a>
+          <a href="/tags/mfa/" style="font-size:0.7313592932683252rem">MFA</a>
         
           
           
           
-          <a href="/tags/model/" style="font-size:0.85rem">Model</a>
+          <a href="/tags/model/" style="font-size:0.614601483711009rem">Model</a>
         
           
           
           
-          <a href="/tags/nrp-73-project/" style="font-size:1.2465784284662087rem">NRP 73 project</a>
+          <a href="/tags/nrp-73-project/" style="font-size:0.7rem">NRP 73 project</a>
         
           
           
           
-          <a href="/tags/nrp66-project/" style="font-size:1.4499999999999997rem">NRP66 project</a>
+          <a href="/tags/nrp66-project/" style="font-size:0.7438044511330268rem">NRP66 project</a>
         
           
           
           
-          <a href="/tags/open-access/" style="font-size:1.5878294855911892rem">Open access</a>
+          <a href="/tags/open-access/" style="font-size:0.7734844153607467rem">Open Access</a>
         
           
           
           
-          <a href="/tags/open-science/" style="font-size:1.3254887502163468rem">Open Science</a>
+          <a href="/tags/open-science/" style="font-size:0.7313592932683252rem">Open Science</a>
         
           
           
@@ -2467,12 +2714,12 @@ This report was developed by the IRP in response to a request by leaders of the 
           
           
           
-          <a href="/tags/probabilistic/" style="font-size:1.392206476617281rem">Probabilistic</a>
+          <a href="/tags/probabilistic/" style="font-size:0.7313592932683252rem">Probabilistic</a>
         
           
           
           
-          <a href="/tags/prospective/" style="font-size:1.7762388523751018rem">Prospective</a>
+          <a href="/tags/prospective/" style="font-size:0.8140561641583882rem">Prospective</a>
         
           
           
@@ -2487,12 +2734,12 @@ This report was developed by the IRP in response to a request by leaders of the 
           
           
           
-          <a href="/tags/recc-project/" style="font-size:1.3254887502163468rem">RECC project</a>
+          <a href="/tags/recc-project/" style="font-size:0.7169924128839068rem">RECC project</a>
         
           
           
           
-          <a href="/tags/recycling/" style="font-size:1.2465784284662087rem">Recycling</a>
+          <a href="/tags/recycling/" style="font-size:0.7rem">Recycling</a>
         
           
           
@@ -2502,32 +2749,32 @@ This report was developed by the IRP in response to a request by leaders of the 
           
           
           
-          <a href="/tags/report/" style="font-size:0.85rem">Report</a>
+          <a href="/tags/report/" style="font-size:0.614601483711009rem">Report</a>
         
           
           
           
-          <a href="/tags/resource-efficiency/" style="font-size:1.15rem">Resource Efficiency</a>
+          <a href="/tags/resource-efficiency/" style="font-size:0.7rem">Resource Efficiency</a>
         
           
           
           
-          <a href="/tags/retrofit/" style="font-size:0.85rem">Retrofit</a>
+          <a href="/tags/retrofit/" style="font-size:0.614601483711009rem">Retrofit</a>
         
           
           
           
-          <a href="/tags/review/" style="font-size:1.0254887502163468rem">Review</a>
+          <a href="/tags/review/" style="font-size:0.6792029674220179rem">Review</a>
         
           
           
           
-          <a href="/tags/simulation/" style="font-size:1.5878294855911892rem">Simulation</a>
+          <a href="/tags/simulation/" style="font-size:0.7734844153607467rem">Simulation</a>
         
           
           
           
-          <a href="/tags/software/" style="font-size:1.0254887502163468rem">Software</a>
+          <a href="/tags/software/" style="font-size:0.6523909291728978rem">Software</a>
         
           
           
@@ -2537,22 +2784,22 @@ This report was developed by the IRP in response to a request by leaders of the 
           
           
           
-          <a href="/tags/transport/" style="font-size:0.85rem">Transport</a>
+          <a href="/tags/transport/" style="font-size:0.614601483711009rem">Transport</a>
         
           
           
           
-          <a href="/tags/united-nations/" style="font-size:0.85rem">United Nations</a>
+          <a href="/tags/united-nations/" style="font-size:0.614601483711009rem">United Nations</a>
         
           
           
           
-          <a href="/tags/wood/" style="font-size:1.392206476617281rem">Wood</a>
+          <a href="/tags/wood/" style="font-size:0.7313592932683252rem">Wood</a>
         
           
           
           
-          <a href="/tags/zeb/" style="font-size:0.85rem">ZEB</a>
+          <a href="/tags/zeb/" style="font-size:0.614601483711009rem">ZEB</a>
         
       </div>
     
@@ -2569,9 +2816,6 @@ This report was developed by the IRP in response to a request by leaders of the 
 
     
     
-
-    
-    
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
@@ -2582,14 +2826,12 @@ This report was developed by the IRP in response to a request by leaders of the 
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
         
       
 
-      
-      
     
 
     
@@ -2600,6 +2842,11 @@ This report was developed by the IRP in response to a request by leaders of the 
     
     
     <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
     
 
     
@@ -2664,7 +2911,7 @@ This report was developed by the IRP in response to a request by leaders of the 
     
     
     
-    <script src="/js/academic.min.600a2e440c16093e23e26e90951c4d4b.js"></script>
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 
@@ -2680,7 +2927,7 @@ This report was developed by the IRP in response to a request by leaders of the 
   
 
   <p class="powered-by">
-    Niko Heeren 2019 &middot; 
+    Niko Heeren 2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

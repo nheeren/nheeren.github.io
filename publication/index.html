@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.6.3">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
 
@@ -44,11 +44,14 @@
 
   
   
+
+  
+  
   
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -60,8 +63,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
@@ -70,6 +73,118 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
     
 
   
@@ -100,13 +215,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +233,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -135,11 +252,12 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://nheeren.github.io/publication/">
 
+  
   
   
   
@@ -156,10 +274,10 @@
   <meta property="og:site_name" content="BuildENVIRONMENT">
   <meta property="og:url" content="https://nheeren.github.io/publication/">
   <meta property="og:title" content="Publications | BuildENVIRONMENT">
-  <meta property="og:description" content="Niko Heeren [BuildENVIRONMENT]"><meta property="og:image" content="https://nheeren.github.io/img/icon-192.png">
-  <meta property="twitter:image" content="https://nheeren.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Niko Heeren [BuildENVIRONMENT]"><meta property="og:image" content="https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-01-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-03-15T08:00:31&#43;02:00">
   
 
   
@@ -215,6 +333,12 @@
 
 
   
+
+
+
+
+
+
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -434,8 +558,21 @@
       
 
       
-      <li class="nav-item">
-        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
       </li>
       
 
@@ -484,6 +621,9 @@
       
 
       
+      
+        
+        
       
         
         
@@ -739,6 +879,91 @@
           
         
 
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-0 year-2020">
+          
+            
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="/publication/rissman-2019/" >Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070</a>
+
+  
+
+  
+  <div class="article-metadata">
+    
+
+  
+  <span><a href="/authors/jeffrey-rissman/">Jeffrey Rissman</a></span>, <span><a href="/authors/chris-bataille/">Chris Bataille</a></span>, <span><a href="/authors/eric-masanet/">Eric Masanet</a></span>, <span><a href="/authors/nate-aden/">Nate Aden</a></span>, <span><a href="/authors/william-r-morrow/">William R Morrow</a></span>, <span><a href="/authors/and-nan-zhou/">and Nan Zhou</a></span>, <span><a href="/authors/neal-elliott/">Neal Elliott</a></span>, <span><a href="/authors/rebecca-dell/">Rebecca Dell</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/brigitta-huckestein/">Brigitta Huckestein</a></span>, <span><a href="/authors/joe-cresko/">Joe Cresko</a></span>, <span><a href="/authors/sabbie-miller/">Sabbie Miller</a></span>, <span><a href="/authors/joyashree-roy-and-paul-fennell/">Joyashree Roy and Paul Fennell</a></span>, <span><a href="/authors/betty-cremmins/">Betty Cremmins</a></span>, <span><a href="/authors/thomas-koch-blank/">Thomas Koch Blank</a></span>, <span><a href="/authors/david-hone/">David Hone</a></span>, <span><a href="/authors/ellen-d.-williams/">Ellen D. Williams</a></span>, <span><a href="/authors/stephane-de-la-rue-du-can/">Stephane de la Rue du Can</a></span>, <span><a href="/authors/bill-sisson/">Bill Sisson</a></span>, <span><a href="/authors/mike-williams-john-katzenberger/">Mike Williams John Katzenberger</a></span>, <span><a href="/authors/dallas-burtraw/">Dallas Burtraw</a></span>, <span><a href="/authors/girish-sethi/">Girish Sethi</a></span>, <span><a href="/authors/he-ping/">He Ping</a></span>, <span><a href="/authors/david-danielson/">David Danielson</a></span>, <span><a href="/authors/hongyou-lu/">Hongyou Lu</a></span>, <span><a href="/authors/tom-lorber/">Tom Lorber</a></span>, <span><a href="/authors/jens-dinkel/">Jens Dinkel</a></span>, <span><a href="/authors/jonas-helseth/">Jonas Helseth</a></span>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/rissman-2019/rissman-2019.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.apenergy.2020.11484" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2020">
           
             
@@ -766,11 +991,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span>Maja Wiprächtiger</span>, <span><a href="/authors/melanie-haupt/">Melanie Haupt</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/eliane-waser/">Eliane Waser</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>
-
+  <span><a href="/authors/maja-wiprachtiger/">Maja Wiprächtiger</a></span>, <span><a href="/authors/melanie-haupt/">Melanie Haupt</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/eliane-waser/">Eliane Waser</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>
   </div>
   
 
@@ -850,11 +1072,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/edgar-hertwich/">Edgar Hertwich</a></span>, <span><a href="/authors/reid-lifset/">Reid Lifset</a></span>, <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>
-
   </div>
   
 
@@ -950,11 +1169,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/edgar-hertwich/">Edgar Hertwich</a></span>, <span><a href="/authors/reid-lifset/">Reid Lifset</a></span>, <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/saleem-ali/">Saleem Ali</a></span>, <span><a href="/authors/peter-berrill/">Peter Berrill</a></span>, <span><a href="/authors/tomer-fishman/">Tomer Fishman</a></span>, <span><a href="/authors/qingshi-tu/">Qingshi Tu</a></span>, <span><a href="/authors/paul-wolfram/">Paul Wolfram</a></span>
-
   </div>
   
 
@@ -1034,11 +1250,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>
-
   </div>
   
 
@@ -1124,11 +1337,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span>Rupert J. Myers*</span>
-
+  <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/rupert-j.-myers/">Rupert J. Myers*</a></span>
   </div>
   
 
@@ -1210,11 +1420,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span>René Buffat</span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/andreas-froemelt/">Andreas Froemelt</a></span>, <span><a href="/authors/martin-raubal/">Martin Raubal</a></span>
-
+  <span><a href="/authors/rene-buffat/">René Buffat</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/andreas-froemelt/">Andreas Froemelt</a></span>, <span><a href="/authors/martin-raubal/">Martin Raubal</a></span>
   </div>
   
 
@@ -1298,11 +1505,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/mohammad-mahadi-hasan/">Mohammad Mahadi Hasan</a></span>, <span>Daniel B. Müller</span>
-
+  <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/mohammad-mahadi-hasan/">Mohammad Mahadi Hasan</a></span>, <span><a href="/authors/daniel-b.-muller/">Daniel B. Müller</a></span>
   </div>
   
 
@@ -1386,11 +1590,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/edgar-hertwich/">Edgar Hertwich</a></span>, <span><a href="/authors/saleem-ali/">Saleem Ali</a></span>, <span><a href="/authors/luca-ciacci/">Luca Ciacci</a></span>, <span><a href="/authors/tomer-fishman/">Tomer Fishman</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/eric-masanet/">Eric Masanet</a></span>, <span><a href="/authors/farnaz-nojavan-asghari/">Farnaz Nojavan Asghari</a></span>, <span><a href="/authors/elsa-olivetti/">Elsa Olivetti</a></span>, <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/qingshi-tu/">Qingshi Tu</a></span>, <span><a href="/authors/paul-wolfram/">Paul Wolfram</a></span>
-
   </div>
   
 
@@ -1474,11 +1675,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/tomer-fishman/">Tomer Fishman</a></span>
-
   </div>
   
 
@@ -1570,11 +1768,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/dimitra-ioannidou/">Dimitra Ioannidou</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/guido-sonnemann/">Guido Sonnemann</a></span>, <span><a href="/authors/guillaume-habert/">Guillaume Habert</a></span>
-
   </div>
   
 
@@ -1654,11 +1849,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/francesco-pittau/">Francesco Pittau</a></span>, <span><a href="/authors/gabriele-lumia/">Gabriele Lumia</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/giuliana-iannaccone/">Giuliana Iannaccone</a></span>, <span><a href="/authors/guillaume-habert/">Guillaume Habert</a></span>
-
   </div>
   
 
@@ -1744,11 +1936,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/farzin-golzar/">Farzin Golzar</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>, <span><a href="/authors/ramin-roshandel/">Ramin Roshandel</a></span>
-
   </div>
   
 
@@ -1828,11 +2017,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/beijia-huang/">Beijia Huang</a></span>, <span><a href="/authors/feng-zhao/">Feng Zhao</a></span>, <span><a href="/authors/tomer-fishman/">Tomer Fishman</a></span>, <span><a href="/authors/wei-qiang-chen/">Wei-Qiang Chen</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/edgar-g-hertwich/">Edgar G Hertwich</a></span>
-
   </div>
   
 
@@ -1918,11 +2104,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>
-
   </div>
   
 
@@ -2006,11 +2189,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span><a href="/authors/edgar-hertwich/">Edgar Hertwich</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/brandon-kuczenski/">Brandon Kuczenski</a></span>, <span><a href="/authors/guillaume-majeau-bettez/">Guillaume Majeau-Bettez</a></span>, <span>Rupert J. Myers</span>, <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/konstantin-stadler/">Konstantin Stadler</a></span>, <span><a href="/authors/reid-lifset/">Reid Lifset</a></span>
-
+  <span><a href="/authors/edgar-hertwich/">Edgar Hertwich</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/brandon-kuczenski/">Brandon Kuczenski</a></span>, <span><a href="/authors/guillaume-majeau-bettez/">Guillaume Majeau-Bettez</a></span>, <span><a href="/authors/rupert-j.-myers/">Rupert J. Myers</a></span>, <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/konstantin-stadler/">Konstantin Stadler</a></span>, <span><a href="/authors/reid-lifset/">Reid Lifset</a></span>
   </div>
   
 
@@ -2094,11 +2274,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span><a href="/authors/torhildur-fjola-kristjansdottir/">Torhildur Fjola Kristjansdottir</a></span>, <span><a href="/authors/aoife-houlihan-wiberg/">Aoife Houlihan-Wiberg</a></span>, <span><a href="/authors/inger-andresen/">Inger Andresen</a></span>, <span><a href="/authors/laurent-georges/">Laurent Georges</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/clara-stina-good/">Clara Stina Good</a></span>, <span><a href="/authors/helge-bratteb%C3%B8/">Helge Brattebø</a></span>
-
+  <span><a href="/authors/torhildur-fjola-kristjansdottir/">Torhildur Fjola Kristjansdottir</a></span>, <span><a href="/authors/aoife-houlihan-wiberg/">Aoife Houlihan-Wiberg</a></span>, <span><a href="/authors/inger-andresen/">Inger Andresen</a></span>, <span><a href="/authors/laurent-georges/">Laurent Georges</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/clara-stina-good/">Clara Stina Good</a></span>, <span>Helge Brattebø</span>
   </div>
   
 
@@ -2178,11 +2355,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span><a href="/authors/york-ostermeyer/">York Ostermeyer</a></span>, <span>Claudio Nägeli</span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>
-
+  <span><a href="/authors/york-ostermeyer/">York Ostermeyer</a></span>, <span><a href="/authors/claudio-nageli/">Claudio Nägeli</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>
   </div>
   
 
@@ -2266,11 +2440,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/farzin-golzar/">Farzin Golzar</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>, <span><a href="/authors/ramin-roshandel/">Ramin Roshandel</a></span>
-
   </div>
   
 
@@ -2356,11 +2527,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span><a href="/authors/edgar-hertwich/">Edgar Hertwich</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/brandon-kuczenski/">Brandon Kuczenski</a></span>, <span><a href="/authors/guillaume-majeau-bettez/">Guillaume Majeau-Bettez</a></span>, <span>Rupert J. Myers</span>, <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/konstantin-stadler/">Konstantin Stadler</a></span>, <span><a href="/authors/reid-lifset/">Reid Lifset</a></span>
-
+  <span><a href="/authors/edgar-hertwich/">Edgar Hertwich</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/brandon-kuczenski/">Brandon Kuczenski</a></span>, <span><a href="/authors/guillaume-majeau-bettez/">Guillaume Majeau-Bettez</a></span>, <span><a href="/authors/rupert-j.-myers/">Rupert J. Myers</a></span>, <span><a href="/authors/stefan-pauliuk/">Stefan Pauliuk</a></span>, <span><a href="/authors/konstantin-stadler/">Konstantin Stadler</a></span>, <span><a href="/authors/reid-lifset/">Reid Lifset</a></span>
   </div>
   
 
@@ -2442,11 +2610,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span><a href="/authors/torhildur-fjola-kristjansdottir/">Torhildur Fjola Kristjansdottir</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/inger-andresen/">Inger Andresen</a></span>, <span><a href="/authors/helge-bratteb%C3%B8/">Helge Brattebø</a></span>
-
+  <span><a href="/authors/torhildur-fjola-kristjansdottir/">Torhildur Fjola Kristjansdottir</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/inger-andresen/">Inger Andresen</a></span>, <span>Helge Brattebø</span>
   </div>
   
 
@@ -2526,11 +2691,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>
-
   </div>
   
 
@@ -2616,11 +2778,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span>René Buffat</span>, <span><a href="/authors/lorenz-schmid/">Lorenz Schmid</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/andreas-froemelt/">Andreas Froemelt</a></span>, <span><a href="/authors/martin-raubal/">Martin Raubal</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>
-
+  <span><a href="/authors/rene-buffat/">René Buffat</a></span>, <span><a href="/authors/lorenz-schmid/">Lorenz Schmid</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/andreas-froemelt/">Andreas Froemelt</a></span>, <span><a href="/authors/martin-raubal/">Martin Raubal</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>
   </div>
   
 
@@ -2700,11 +2859,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span>René Buffat</span>, <span><a href="/authors/andreas-froemelt/">Andreas Froemelt</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/martin-raubal/">Martin Raubal</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>
-
+  <span><a href="/authors/rene-buffat/">René Buffat</a></span>, <span><a href="/authors/andreas-froemelt/">Andreas Froemelt</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/martin-raubal/">Martin Raubal</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>
   </div>
   
 
@@ -2784,11 +2940,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/prageeth-jayathissa/">Prageeth Jayathissa</a></span>, <span><a href="/authors/michiel-jansen/">Michiel Jansen</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/zoltan-nagy/">Zoltan Nagy</a></span>, <span><a href="/authors/arno-schlueter/">Arno Schlueter</a></span>
-
   </div>
   
 
@@ -2868,11 +3021,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/bernhard-steubing/">Bernhard Steubing</a></span>, <span><a href="/authors/florian-suter/">Florian Suter</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/abhishek-chaudhary/">Abhishek Chaudhary</a></span>, <span><a href="/authors/york-ostermeyer/">York Ostermeyer</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>
-
   </div>
   
 
@@ -2958,11 +3108,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/christopher-l-mutel/">Christopher L Mutel</a></span>, <span><a href="/authors/bernhard-steubing/">Bernhard Steubing</a></span>, <span><a href="/authors/york-ostermeyer/">York Ostermeyer</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>
-
   </div>
   
 
@@ -3046,11 +3193,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/denitsa-dineva/">Denitsa Dineva</a></span>, <span><a href="/authors/justin-boucher/">Justin Boucher</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum*</a></span>, <span><a href="/authors/alexander-wunderlich/">Alexander Wunderlich</a></span>
-
   </div>
   
 
@@ -3130,11 +3274,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span><a href="/authors/martin-jakob/">Martin Jakob</a></span>, <span><a href="/authors/karin-flury/">Karin Flury</a></span>, <span><a href="/authors/nadja-gross/">Nadja Gross</a></span>, <span><a href="/authors/gregor-martius/">Gregor Martius</a></span>, <span><a href="/authors/benjamin-sunjaro/">Benjamin Sunjaro</a></span>, <span>Beate Grodofzig Fürst</span>, <span>Marc Fürst</span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>
-
+  <span><a href="/authors/martin-jakob/">Martin Jakob</a></span>, <span><a href="/authors/karin-flury/">Karin Flury</a></span>, <span><a href="/authors/nadja-gross/">Nadja Gross</a></span>, <span><a href="/authors/gregor-martius/">Gregor Martius</a></span>, <span><a href="/authors/benjamin-sunjaro/">Benjamin Sunjaro</a></span>, <span><a href="/authors/beate-grodofzig-furst/">Beate Grodofzig Fürst</a></span>, <span><a href="/authors/marc-furst/">Marc Fürst</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>
   </div>
   
 
@@ -3214,11 +3355,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren*</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>
-
   </div>
   
 
@@ -3298,11 +3436,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span>Flóra Szkordilisz*</span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/guillaume-habert/">Guillaume Habert</a></span>
-
+  <span><a href="/authors/flora-szkordilisz/">Flóra Szkordilisz*</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/guillaume-habert/">Guillaume Habert</a></span>
   </div>
   
 
@@ -3382,11 +3517,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/alexander-wunderlich/">Alexander Wunderlich</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum*</a></span>
-
   </div>
   
 
@@ -3466,11 +3598,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span><a href="/authors/dominik-saner/">Dominik Saner</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span>Boris Jäggi</span>, <span><a href="/authors/rashid-a-waraich/">Rashid A Waraich</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>
-
+  <span><a href="/authors/dominik-saner/">Dominik Saner</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/boris-jaggi/">Boris Jäggi</a></span>, <span><a href="/authors/rashid-a-waraich/">Rashid A Waraich</a></span>, <span><a href="/authors/stefanie-hellweg/">Stefanie Hellweg</a></span>
   </div>
   
 
@@ -3550,11 +3679,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/martin-jakob/">Martin Jakob</a></span>, <span><a href="/authors/gregor-martius/">Gregor Martius</a></span>, <span><a href="/authors/nadja-gross/">Nadja Gross</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>
-
   </div>
   
 
@@ -3634,11 +3760,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/bernhard-steubing/">Bernhard Steubing*</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren*</a></span>
-
   </div>
   
 
@@ -3718,11 +3841,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>, <span><a href="/authors/martin-jakob/">Martin Jakob</a></span>
-
   </div>
   
 
@@ -3802,11 +3922,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/ji-han/">Ji Han</a></span>, <span><a href="/authors/psyche-fontanos/">Psyche Fontanos</a></span>, <span><a href="/authors/kensuke-fukushi/">Kensuke Fukushi</a></span>, <span><a href="/authors/srikantha-herath/">Srikantha Herath</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/vincenzo-naso/">Vincenzo Naso</a></span>, <span><a href="/authors/claudio-cecchi/">Claudio Cecchi</a></span>, <span><a href="/authors/peter-edwards/">Peter Edwards</a></span>, <span><a href="/authors/kazuhiko-takeuchi/">Kazuhiko Takeuchi</a></span>
-
   </div>
   
 
@@ -3892,11 +4009,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span><a href="/authors/martin-jakob/">Martin Jakob*</a></span>, <span><a href="/authors/karin-flury/">Karin Flury</a></span>, <span><a href="/authors/nadja-gross/">Nadja Gross</a></span>, <span><a href="/authors/gregor-martius/">Gregor Martius</a></span>, <span><a href="/authors/benjamin-sunarjo/">Benjamin Sunarjo</a></span>, <span>Bruno Bébié</span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>
-
+  <span><a href="/authors/martin-jakob/">Martin Jakob*</a></span>, <span><a href="/authors/karin-flury/">Karin Flury</a></span>, <span><a href="/authors/nadja-gross/">Nadja Gross</a></span>, <span><a href="/authors/gregor-martius/">Gregor Martius</a></span>, <span><a href="/authors/benjamin-sunarjo/">Benjamin Sunarjo</a></span>, <span><a href="/authors/bruno-bebie/">Bruno Bébié</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>
   </div>
   
 
@@ -3976,11 +4090,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/bernard-paule/">Bernard Paule</a></span>, <span><a href="/authors/flourentzos-flourentzou/">Flourentzos Flourentzou</a></span>, <span><a href="/authors/s-pantet/">S Pantet</a></span>, <span><a href="/authors/j-boutillier/">J Boutillier</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren*</a></span>, <span><a href="/authors/a-bassi/">A Bassi</a></span>, <span><a href="/authors/t-voelliger/">T Voelliger</a></span>
-
   </div>
   
 
@@ -4060,11 +4171,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>
-
   </div>
   
 
@@ -4148,11 +4256,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren*</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>, <span><a href="/authors/martin-jakob/">Martin Jakob</a></span>
-
   </div>
   
 
@@ -4228,11 +4333,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/martin-jakob/">Martin Jakob</a></span>, <span><a href="/authors/karin-flury/">Karin Flury</a></span>, <span><a href="/authors/nadja-gross/">Nadja Gross</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>
-
   </div>
   
 
@@ -4308,11 +4410,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/holger-wallbaum/">Holger Wallbaum*</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/martin-jakob/">Martin Jakob</a></span>
-
   </div>
   
 
@@ -4392,11 +4491,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span>Silko Höppner</span>, <span><a href="/authors/ulrich-weidmann/">Ulrich Weidmann</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>
-
+  <span><a href="/authors/silko-hoppner/">Silko Höppner</a></span>, <span><a href="/authors/ulrich-weidmann/">Ulrich Weidmann</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>
   </div>
   
 
@@ -4476,11 +4572,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>, <span><a href="/authors/martin-jakob/">Martin Jakob</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/gregor-martius/">Gregor Martius</a></span>
-
   </div>
   
 
@@ -4560,11 +4653,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>, <span><a href="/authors/martin-jakob/">Martin Jakob</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/charilaos-toloumis/">Charilaos Toloumis</a></span>
-
   </div>
   
 
@@ -4644,11 +4734,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>
-
   </div>
   
 
@@ -4728,11 +4815,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/martin-jakob/">Martin Jakob</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>
-
   </div>
   
 
@@ -4812,11 +4896,8 @@
   <div class="article-metadata">
     
 
-
-
   
-  <span><a href="/authors/ulrich-alois-weidmann/">Ulrich Alois Weidmann</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span>René Zeller</span>
-
+  <span><a href="/authors/ulrich-alois-weidmann/">Ulrich Alois Weidmann</a></span>, <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/rene-zeller/">René Zeller</a></span>
   </div>
   
 
@@ -4892,11 +4973,8 @@
   <div class="article-metadata">
     
 
-
-
   
   <span><a href="/authors/holger-wallbaum/">Holger Wallbaum</a></span>, <span><a href="/authors/martin-jakob/">Martin Jakob</a></span>, <span><a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span><a href="/authors/matthias-gabathuler/">Matthias Gabathuler</a></span>, <span><a href="/authors/gregor-martius/">Gregor Martius</a></span>, <span><a href="/authors/nadja-gross/">Nadja Gross</a></span>
-
   </div>
   
 
@@ -4954,9 +5032,6 @@
 
     
     
-
-    
-    
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
@@ -4967,14 +5042,12 @@
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
         
       
 
-      
-      
     
 
     
@@ -4985,6 +5058,11 @@
     
     
     <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
     
 
     
@@ -5049,7 +5127,7 @@
     
     
     
-    <script src="/js/academic.min.600a2e440c16093e23e26e90951c4d4b.js"></script>
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 
@@ -5065,7 +5143,7 @@
   
 
   <p class="powered-by">
-    Niko Heeren 2019 &middot; 
+    Niko Heeren 2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

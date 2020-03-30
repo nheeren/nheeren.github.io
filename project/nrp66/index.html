@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.6.3">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
 
   
 
@@ -45,11 +45,14 @@ I was lucky enough to be one of those PhD students and my project looked into th
 
   
   
+
+  
+  
   
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -61,8 +64,8 @@ I was lucky enough to be one of those PhD students and my project looked into th
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
@@ -71,6 +74,118 @@ I was lucky enough to be one of those PhD students and my project looked into th
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
     
 
   
@@ -101,13 +216,15 @@ I was lucky enough to be one of those PhD students and my project looked into th
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -117,7 +234,7 @@ I was lucky enough to be one of those PhD students and my project looked into th
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -134,11 +251,12 @@ I was lucky enough to be one of those PhD students and my project looked into th
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://nheeren.github.io/project/nrp66/">
 
+  
   
   
   
@@ -156,8 +274,8 @@ I was lucky enough to be one of those PhD students and my project looked into th
   <meta property="og:url" content="https://nheeren.github.io/project/nrp66/">
   <meta property="og:title" content="Swiss National Science Foundation NRP 66 Resource Wood | BuildENVIRONMENT">
   <meta property="og:description" content="In 2010 the Swiss National Science Foundation launched athe National Research Programme 66 to investigate the potentials of wood as a national resource. The team led by Prof. Hellweg investigated the ecological implications of wood use. The project had a budget of 1 million Swiss Francs and brought forward three PhDs.
-I was lucky enough to be one of those PhD students and my project looked into the ecological potentials of wood use in buildings."><meta property="og:image" content="https://nheeren.github.io/img/icon-192.png">
-  <meta property="twitter:image" content="https://nheeren.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+I was lucky enough to be one of those PhD students and my project looked into the ecological potentials of wood use in buildings."><meta property="og:image" content="https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2019-09-01T11:12:32&#43;02:00">
@@ -169,8 +287,6 @@ I was lucky enough to be one of those PhD students and my project looked into th
 
 
     
-
-
 
 
 
@@ -203,7 +319,7 @@ I was lucky enough to be one of those PhD students and my project looked into th
     "name": "BuildENVIRONMENT",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://nheeren.github.io/img/icon-512.png"
+      "url": "https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "In 2010 the Swiss National Science Foundation launched athe National Research Programme 66 to investigate the potentials of wood as a national resource. The team led by Prof. Hellweg investigated the ecological implications of wood use. The project had a budget of 1 million Swiss Francs and brought forward three PhDs.\nI was lucky enough to be one of those PhD students and my project looked into the ecological potentials of wood use in buildings."
@@ -263,6 +379,12 @@ I was lucky enough to be one of those PhD students and my project looked into th
 
 
   
+
+
+
+
+
+
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -482,8 +604,21 @@ I was lucky enough to be one of those PhD students and my project looked into th
       
 
       
-      <li class="nav-item">
-        <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
       </li>
       
 
@@ -616,10 +751,15 @@ I was lucky enough to be one of those PhD students and my project looked into th
   <div class="article-container">
 
     <div class="article-style">
-      <p>In 2010 the Swiss National Science Foundation launched athe <a href="http://www.nfp66.ch/en">National Research Programme 66</a> to investigate the potentials of wood as a national resource. The team led by <a href="https://esd.ifu.ethz.ch">Prof. Hellweg</a> investigated the <a href="http://www.nfp66.ch/en/projects/dialogue-field-4-provisioning-and-sustainable-use-wood/project-hellweg">ecological implications of wood use</a>. The project had a budget of 1 million Swiss Francs and brought forward three PhDs.</p>
-<p>I was lucky enough to be one of those PhD students and <a href="https://nheeren.github.io/publication/heeren-phd/">my project</a> looked into the ecological potentials of wood use in buildings.</p>
+      <p>In 2010 the Swiss National Science Foundation launched athe 
+<a href="http://www.nfp66.ch/en" target="_blank" rel="noopener">National Research Programme 66</a> to investigate the potentials of wood as a national resource. The team led by 
+<a href="https://esd.ifu.ethz.ch" target="_blank" rel="noopener">Prof. Hellweg</a> investigated the 
+<a href="http://www.nfp66.ch/en/projects/dialogue-field-4-provisioning-and-sustainable-use-wood/project-hellweg" target="_blank" rel="noopener">ecological implications of wood use</a>. The project had a budget of 1 million Swiss Francs and brought forward three PhDs.</p>
+<p>I was lucky enough to be one of those PhD students and 
+<a href="https://nheeren.github.io/publication/heeren-phd/">my project</a> looked into the ecological potentials of wood use in buildings.</p>
 <p>Project finished.</p>
-<p><em>Find related content and publications <a href="https://nheeren.github.io/tags/nrp66-project/">here</a>.</em></p>
+<p><em>Find related content and publications 
+<a href="https://nheeren.github.io/tags/nrp66-project/">here</a>.</em></p>
 
     </div>
 
@@ -651,7 +791,7 @@ I was lucky enough to be one of those PhD students and my project looked into th
 
 
   
-
+  
 
 
 
@@ -661,12 +801,13 @@ I was lucky enough to be one of those PhD students and my project looked into th
   
   
     
+  
   
   
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/admin/avatar_hu3e0a617a3c7c357c958f8d44eea8a95b_266477_250x250_fill_q100_lanczos_center.jpg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu3e0a617a3c7c357c958f8d44eea8a95b_266477_270x270_fill_q100_lanczos_center.jpg" alt="Dr. Niko Heeren">
     
 
     <div class="media-body">
@@ -816,6 +957,9 @@ I was lucky enough to be one of those PhD students and my project looked into th
 
 
 
+
+
+
   
   
 
@@ -844,9 +988,6 @@ I was lucky enough to be one of those PhD students and my project looked into th
 
     
     
-
-    
-    
     
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
@@ -857,14 +998,12 @@ I was lucky enough to be one of those PhD students and my project looked into th
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
         
       
 
-      
-      
     
 
     
@@ -875,6 +1014,11 @@ I was lucky enough to be one of those PhD students and my project looked into th
     
     
     <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
     
 
     
@@ -939,7 +1083,7 @@ I was lucky enough to be one of those PhD students and my project looked into th
     
     
     
-    <script src="/js/academic.min.600a2e440c16093e23e26e90951c4d4b.js"></script>
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 
@@ -955,7 +1099,7 @@ I was lucky enough to be one of those PhD students and my project looked into th
   
 
   <p class="powered-by">
-    Niko Heeren 2019 &middot; 
+    Niko Heeren 2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

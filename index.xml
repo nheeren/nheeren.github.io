@@ -5,12 +5,20 @@
     <link>https://nheeren.github.io/</link>
       <atom:link href="https://nheeren.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>BuildENVIRONMENT</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2019</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2020</copyright><lastBuildDate>Sun, 15 Mar 2020 08:00:31 +0200</lastBuildDate>
     <image>
-      <url>https://nheeren.github.io/img/icon-192.png</url>
+      <url>https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png</url>
       <title>BuildENVIRONMENT</title>
       <link>https://nheeren.github.io/</link>
     </image>
+    
+    <item>
+      <title>Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070</title>
+      <link>https://nheeren.github.io/publication/rissman-2019/</link>
+      <pubDate>Sun, 15 Mar 2020 08:00:31 +0200</pubDate>
+      <guid>https://nheeren.github.io/publication/rissman-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A framework for sustainable and circular system design: development and application on thermal insulation materials</title>
@@ -27,9 +35,14 @@
       <link>https://nheeren.github.io/post/191218_iedc-update/</link>
       <pubDate>Wed, 18 Dec 2019 21:05:04 +0100</pubDate>
       <guid>https://nheeren.github.io/post/191218_iedc-update/</guid>
-      <description>&lt;p&gt;Yes – data science is hard, especially in the Industrial Ecology domain. Therefore, we launched the &lt;a href=&#34;https://nheeren.github.io/publication/pauliuk-iedc-2019/&#34;&gt;Industrial Ecology Data Commons (IEDC)&lt;/a&gt; earlier this year. It allows researcher to quickly &lt;a href=&#34;http://www.database.industrialecology.uni-freiburg.de&#34;&gt;download&lt;/a&gt; data from important Industrial Ecology research papers.&lt;/p&gt;
-&lt;p&gt;In a final update for this year, we uploaded another 10+ datasets to the &lt;a href=&#34;http://www.database.industrialecology.uni-freiburg.de/&#34;&gt;Industrial Ecology Data Commons (IEDC) server&lt;/a&gt;. With that update, the database now holds approximately 1.1 million data points from more than 180 datasets. My &lt;a href=&#34;https://github.com/IndEcol/IEDC_tools&#34;&gt;IEDC_tools&lt;/a&gt; are slowly becoming mature and they are a great help in uploading the datasets to the Freiburg SQL server.&lt;/p&gt;
-&lt;p&gt;Shout-outs &lt;a href=&#34;http://www.blog.industrialecology.uni-freiburg.de/&#34;&gt;Stefan&lt;/a&gt; for the great collaboration!&lt;/p&gt;
+      <description>&lt;p&gt;Yes – data science is hard, especially in the Industrial Ecology domain. Therefore, we launched the 
+&lt;a href=&#34;https://nheeren.github.io/publication/pauliuk-iedc-2019/&#34;&gt;Industrial Ecology Data Commons (IEDC)&lt;/a&gt; earlier this year. It allows researcher to quickly 
+&lt;a href=&#34;http://www.database.industrialecology.uni-freiburg.de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;download&lt;/a&gt; data from important Industrial Ecology research papers.&lt;/p&gt;
+&lt;p&gt;In a final update for this year, we uploaded another 10+ datasets to the 
+&lt;a href=&#34;http://www.database.industrialecology.uni-freiburg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Industrial Ecology Data Commons (IEDC) server&lt;/a&gt;. With that update, the database now holds approximately 1.1 million data points from more than 180 datasets. My 
+&lt;a href=&#34;https://github.com/IndEcol/IEDC_tools&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEDC_tools&lt;/a&gt; are slowly becoming mature and they are a great help in uploading the datasets to the Freiburg SQL server.&lt;/p&gt;
+&lt;p&gt;Shout-outs 
+&lt;a href=&#34;http://www.blog.industrialecology.uni-freiburg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan&lt;/a&gt; for the great collaboration!&lt;/p&gt;
 </description>
     </item>
     
@@ -69,7 +82,8 @@
       <link>https://nheeren.github.io/publication/egr-chapter/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/publication/egr-chapter/</guid>
-      <description>&lt;p&gt;Chapter 7 of the &lt;a href=&#34;https://www.unenvironment.org/resources/emissions-gap-report-2019&#34;&gt;UN Emissions Gap Report 2019&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Chapter 7 of the 
+&lt;a href=&#34;https://www.unenvironment.org/resources/emissions-gap-report-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UN Emissions Gap Report 2019&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;figures&#34;&gt;Figures&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;fig7.1.png&#34; alt=&#34;GHG emissions in GtCO2e associated with materials production by material (left) and by the first use of materials in subsequent production processes or final consumption (right)&#34;&gt;&lt;em&gt;Figure 7.1. GHG emissions in GtCO2e associated with materials production by material (left) and by the first use of materials in subsequent production processes or final consumption (right)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;fig7.2.png&#34; alt=&#34;Annual emissions from the construction and operations of buildings in the G7 and in China and India, in a scenario that follows Shared Socioeconomic Pathway SSP1 to mitigate emissions to below 2°C Sector&#34;&gt;
@@ -92,7 +106,8 @@
       <guid>https://nheeren.github.io/project/recc/</guid>
       <description>&lt;p&gt;Mandated by the G7 and United Nations International Resource Panel (UNEP-IRP) , we are investigating the potential benefits of Resource Efficiency for future greenhouse gas emissions.&lt;/p&gt;
 &lt;p&gt;Project ends 2019.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Find related content and publications &lt;a href=&#34;https://nheeren.github.io/tags/recc-project/&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Find related content and publications 
+&lt;a href=&#34;https://nheeren.github.io/tags/recc-project/&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -101,10 +116,15 @@
       <link>https://nheeren.github.io/project/nrp66/</link>
       <pubDate>Sun, 01 Sep 2019 11:12:32 +0200</pubDate>
       <guid>https://nheeren.github.io/project/nrp66/</guid>
-      <description>&lt;p&gt;In 2010 the Swiss National Science Foundation launched athe &lt;a href=&#34;http://www.nfp66.ch/en&#34;&gt;National Research Programme 66&lt;/a&gt; to investigate the potentials of wood as a national resource. The team led by &lt;a href=&#34;https://esd.ifu.ethz.ch&#34;&gt;Prof. Hellweg&lt;/a&gt; investigated the &lt;a href=&#34;http://www.nfp66.ch/en/projects/dialogue-field-4-provisioning-and-sustainable-use-wood/project-hellweg&#34;&gt;ecological implications of wood use&lt;/a&gt;. The project had a budget of 1 million Swiss Francs and brought forward three PhDs.&lt;/p&gt;
-&lt;p&gt;I was lucky enough to be one of those PhD students and &lt;a href=&#34;https://nheeren.github.io/publication/heeren-phd/&#34;&gt;my project&lt;/a&gt; looked into the ecological potentials of wood use in buildings.&lt;/p&gt;
+      <description>&lt;p&gt;In 2010 the Swiss National Science Foundation launched athe 
+&lt;a href=&#34;http://www.nfp66.ch/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Research Programme 66&lt;/a&gt; to investigate the potentials of wood as a national resource. The team led by 
+&lt;a href=&#34;https://esd.ifu.ethz.ch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Hellweg&lt;/a&gt; investigated the 
+&lt;a href=&#34;http://www.nfp66.ch/en/projects/dialogue-field-4-provisioning-and-sustainable-use-wood/project-hellweg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ecological implications of wood use&lt;/a&gt;. The project had a budget of 1 million Swiss Francs and brought forward three PhDs.&lt;/p&gt;
+&lt;p&gt;I was lucky enough to be one of those PhD students and 
+&lt;a href=&#34;https://nheeren.github.io/publication/heeren-phd/&#34;&gt;my project&lt;/a&gt; looked into the ecological potentials of wood use in buildings.&lt;/p&gt;
 &lt;p&gt;Project finished.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Find related content and publications &lt;a href=&#34;https://nheeren.github.io/tags/nrp66-project/&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Find related content and publications 
+&lt;a href=&#34;https://nheeren.github.io/tags/nrp66-project/&#34;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -153,7 +173,8 @@
       <link>https://nheeren.github.io/publication/heeren-mi/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/publication/heeren-mi/</guid>
-      <description>&lt;p&gt;Ever wondered how much material is in a building? This publication presents a comprehensive database  that contains 300 datasets for material intensity. Please consider &lt;a href=&#34;https://github.com/nheeren/material_intensity_db&#34;&gt;contributing&lt;/a&gt;!&lt;/p&gt;
+      <description>&lt;p&gt;Ever wondered how much material is in a building? This publication presents a comprehensive database  that contains 300 datasets for material intensity. Please consider 
+&lt;a href=&#34;https://github.com/nheeren/material_intensity_db&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contributing&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     
@@ -507,7 +528,8 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/publication/heeren-phd/</guid>
       <description>&lt;p&gt;My PhD thesis 😸.&lt;/p&gt;
-&lt;p&gt;Learn more about the National Research Programme &lt;a href=&#34;https://nheeren.github.io/project/nrp66/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Learn more about the National Research Programme 
+&lt;a href=&#34;https://nheeren.github.io/project/nrp66/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
