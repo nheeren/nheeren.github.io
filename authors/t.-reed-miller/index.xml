@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Reed Miller | BuildENVIRONMENT</title>
+    <link>https://nheeren.github.io/authors/t.-reed-miller/</link>
+      <atom:link href="https://nheeren.github.io/authors/t.-reed-miller/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Reed Miller</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Niko Heeren 2020</copyright><lastBuildDate>Sat, 01 Aug 2020 09:03:37 +0200</lastBuildDate>
+    <image>
+      <url>https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png</url>
+      <title>T. Reed Miller</title>
+      <link>https://nheeren.github.io/authors/t.-reed-miller/</link>
+    </image>
+    
+    <item>
+      <title>The Systems Science of Industrial Ecology</title>
+      <link>https://nheeren.github.io/publication/chertow-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 09:03:37 +0200</pubDate>
+      <guid>https://nheeren.github.io/publication/chertow-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

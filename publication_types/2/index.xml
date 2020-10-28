@@ -5,12 +5,44 @@
     <link>https://nheeren.github.io/publication_types/2/</link>
       <atom:link href="https://nheeren.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Niko Heeren 2020</copyright><lastBuildDate>Tue, 06 Oct 2020 08:00:31 +0200</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://nheeren.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>A combined GIS-archetype approach to model residential space heating energy: A case study for the Netherlands including validation</title>
+      <link>https://nheeren.github.io/publication/yang-2020/</link>
+      <pubDate>Tue, 06 Oct 2020 08:00:31 +0200</pubDate>
+      <guid>https://nheeren.github.io/publication/yang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material efficiency and climate change mitigation of passenger vehicles</title>
+      <link>https://nheeren.github.io/publication/wolfram-2020/</link>
+      <pubDate>Thu, 17 Sep 2020 08:00:31 +0200</pubDate>
+      <guid>https://nheeren.github.io/publication/wolfram-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking service provision to material cycles: A new framework for studying the resource efficiency–climate change (RECC) nexus</title>
+      <link>https://nheeren.github.io/publication/recc-framework-2020/</link>
+      <pubDate>Fri, 19 Jun 2020 12:13:57 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/recc-framework-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070</title>
+      <link>https://nheeren.github.io/publication/rissman-2019/</link>
+      <pubDate>Sun, 15 Mar 2020 08:00:31 +0200</pubDate>
+      <guid>https://nheeren.github.io/publication/rissman-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A framework for sustainable and circular system design: development and application on thermal insulation materials</title>
@@ -59,8 +91,7 @@
       <link>https://nheeren.github.io/publication/heeren-mi/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/publication/heeren-mi/</guid>
-      <description>&lt;p&gt;Ever wondered how much material is in a building? This publication presents a comprehensive database  that contains 300 datasets for material intensity. Please consider 
-&lt;a href=&#34;https://github.com/nheeren/material_intensity_db&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contributing&lt;/a&gt;!&lt;/p&gt;
+      <description>&lt;p&gt;Ever wondered how much material is in a building? This publication presents a comprehensive database  that contains 300 datasets for material intensity. Please consider &lt;a href=&#34;https://github.com/nheeren/material_intensity_db&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;contributing&lt;/a&gt;!&lt;/p&gt;
 </description>
     </item>
     

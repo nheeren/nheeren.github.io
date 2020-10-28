@@ -3,8 +3,218 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nheeren.github.io/publication_types/2/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/publication/yang-2020/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/arnold-tukker/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nheeren.github.io/authors/</loc>
-    <lastmod>2020-03-30T08:00:31+02:00</lastmod>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/bernhard-steubing/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/building-stock/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/chunbo-zhanga/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/energy/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/gis/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/mingming-hua/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/niko-heeren/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/publication_types/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/publication/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/simulation/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/teun-verhagen/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/xining-yang/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/cars/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/edgar-hertwich/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/publication/wolfram-2020/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/material-energy-nexus/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/open-science/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/paul-wolfram/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/qingshi-tu/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/recc-project/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/resource-efficiency/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/stefan-pauliuk/</loc>
+    <lastmod>2020-10-28T08:00:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/publication_types/6/</loc>
+    <lastmod>2020-08-01T09:03:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/collaboration/</loc>
+    <lastmod>2020-08-01T09:03:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/industrial-ecology/</loc>
+    <lastmod>2020-08-01T09:03:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/koichi-kanaoka/</loc>
+    <lastmod>2020-08-01T09:03:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/marian-chertow/</loc>
+    <lastmod>2020-08-01T09:03:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/peter-berrill/</loc>
+    <lastmod>2020-08-01T09:03:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/review/</loc>
+    <lastmod>2020-08-01T09:03:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/t.-reed-miller/</loc>
+    <lastmod>2020-08-01T09:03:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/publication/chertow-2020/</loc>
+    <lastmod>2020-08-01T09:03:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/tomer-fishman/</loc>
+    <lastmod>2020-08-01T09:03:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/publication/recc-framework-2020/</loc>
+    <lastmod>2020-06-19T12:13:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/material/</loc>
+    <lastmod>2020-06-19T12:13:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/mfa/</loc>
+    <lastmod>2020-06-19T12:13:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/tags/open-access/</loc>
+    <lastmod>2020-06-19T12:13:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nheeren.github.io/authors/peter-berrill-qingshi-tu/</loc>
+    <lastmod>2020-06-19T12:13:57+00:00</lastmod>
   </url>
   
   <url>
@@ -19,11 +229,6 @@
   
   <url>
     <loc>https://nheeren.github.io/authors/brigitta-huckestein/</loc>
-    <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
   </url>
   
@@ -103,11 +308,6 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/material/</loc>
-    <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/authors/mike-williams-john-katzenberger/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
   </url>
@@ -128,37 +328,12 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/authors/niko-heeren/</loc>
-    <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/open-access/</loc>
-    <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/authors/paul-fennell/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/publication/</loc>
-    <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/authors/rebecca-dell/</loc>
-    <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/resource-efficiency/</loc>
-    <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/review/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
   </url>
   
@@ -169,11 +344,6 @@
   
   <url>
     <loc>https://nheeren.github.io/authors/stephane-de-la-rue-du-can/</loc>
-    <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
   </url>
   
@@ -198,32 +368,12 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/publication_types/6/</loc>
-    <lastmod>2020-03-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/authors/anna-pagani/</loc>
     <lastmod>2020-03-01T09:03:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/building-stock/</loc>
-    <lastmod>2020-03-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/authors/claudia-r.-binder/</loc>
-    <lastmod>2020-03-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/collaboration/</loc>
-    <lastmod>2020-03-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/publication_types/</loc>
     <lastmod>2020-03-01T09:03:37+02:00</lastmod>
   </url>
   
@@ -245,11 +395,6 @@
   <url>
     <loc>https://nheeren.github.io/tags/urban/</loc>
     <lastmod>2020-03-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/publication_types/2/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -283,11 +428,6 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/mfa/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/tags/nrp-73-project/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -308,32 +448,12 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/industrial-ecology/</loc>
-    <lastmod>2019-12-18T21:05:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/open-science/</loc>
-    <lastmod>2019-12-18T21:05:04+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/post/</loc>
     <lastmod>2019-12-18T21:05:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/authors/stefan-pauliuk/</loc>
-    <lastmod>2019-12-18T21:05:04+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/publication_types/4/</loc>
-    <lastmod>2019-12-12T23:34:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/edgar-hertwich/</loc>
     <lastmod>2019-12-12T23:34:35+01:00</lastmod>
   </url>
   
@@ -349,11 +469,6 @@
   
   <url>
     <loc>https://nheeren.github.io/tags/prospective/</loc>
-    <lastmod>2019-12-12T23:34:35+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/recc-project/</loc>
     <lastmod>2019-12-12T23:34:35+01:00</lastmod>
   </url>
   
@@ -388,27 +503,7 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/authors/paul-wolfram/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/peter-berrill/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/qingshi-tu/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/authors/saleem-ali/</loc>
-    <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/tomer-fishman/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -473,16 +568,6 @@
   </url>
   
   <url>
-    <loc>https://nheeren.github.io/tags/energy/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/gis/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nheeren.github.io/publication/buffat-cisbat-2019/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -509,11 +594,6 @@
   
   <url>
     <loc>https://nheeren.github.io/authors/rupert-j.-myers/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/simulation/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -744,11 +824,6 @@
   
   <url>
     <loc>https://nheeren.github.io/talk/pauliuk-isie-2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/material-energy-nexus/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1239,11 +1314,6 @@
   
   <url>
     <loc>https://nheeren.github.io/authors/abhishek-chaudhary/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/bernhard-steubing/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
   </url>
   

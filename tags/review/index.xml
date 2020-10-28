@@ -5,12 +5,20 @@
     <link>https://nheeren.github.io/tags/review/</link>
       <atom:link href="https://nheeren.github.io/tags/review/index.xml" rel="self" type="application/rss+xml" />
     <description>Review</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2020</copyright><lastBuildDate>Sun, 15 Mar 2020 08:00:31 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Niko Heeren 2020</copyright><lastBuildDate>Sat, 01 Aug 2020 09:03:37 +0200</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png</url>
       <title>Review</title>
       <link>https://nheeren.github.io/tags/review/</link>
     </image>
+    
+    <item>
+      <title>The Systems Science of Industrial Ecology</title>
+      <link>https://nheeren.github.io/publication/chertow-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 09:03:37 +0200</pubDate>
+      <guid>https://nheeren.github.io/publication/chertow-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070</title>

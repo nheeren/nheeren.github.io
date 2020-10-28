@@ -5,7 +5,7 @@
     <link>https://nheeren.github.io/authors/qingshi-tu/</link>
       <atom:link href="https://nheeren.github.io/authors/qingshi-tu/index.xml" rel="self" type="application/rss+xml" />
     <description>Qingshi Tu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Niko Heeren 2020</copyright><lastBuildDate>Tue, 26 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Niko Heeren 2020</copyright><lastBuildDate>Thu, 17 Sep 2020 08:00:31 +0200</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png</url>
       <title>Qingshi Tu</title>
@@ -13,12 +13,19 @@
     </image>
     
     <item>
+      <title>Material efficiency and climate change mitigation of passenger vehicles</title>
+      <link>https://nheeren.github.io/publication/wolfram-2020/</link>
+      <pubDate>Thu, 17 Sep 2020 08:00:31 +0200</pubDate>
+      <guid>https://nheeren.github.io/publication/wolfram-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bridging the gap: enhancing material efficiency in residential buildings and cars</title>
       <link>https://nheeren.github.io/publication/egr-chapter/</link>
       <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://nheeren.github.io/publication/egr-chapter/</guid>
-      <description>&lt;p&gt;Chapter 7 of the 
-&lt;a href=&#34;https://www.unenvironment.org/resources/emissions-gap-report-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UN Emissions Gap Report 2019&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Chapter 7 of the &lt;a href=&#34;https://www.unenvironment.org/resources/emissions-gap-report-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UN Emissions Gap Report 2019&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;figures&#34;&gt;Figures&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;fig7.1.png&#34; alt=&#34;GHG emissions in GtCO2e associated with materials production by material (left) and by the first use of materials in subsequent production processes or final consumption (right)&#34;&gt;&lt;em&gt;Figure 7.1. GHG emissions in GtCO2e associated with materials production by material (left) and by the first use of materials in subsequent production processes or final consumption (right)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;fig7.2.png&#34; alt=&#34;Annual emissions from the construction and operations of buildings in the G7 and in China and India, in a scenario that follows Shared Socioeconomic Pathway SSP1 to mitigate emissions to below 2°C Sector&#34;&gt;
