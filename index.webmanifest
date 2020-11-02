@@ -2,8 +2,8 @@
   "name": "BuildENVIRONMENT",
   "short_name": "BuildENVIRONMENT",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#4caf50",
+  "background_color": "#4caf50",
   "icons": [{
     "src": "/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
