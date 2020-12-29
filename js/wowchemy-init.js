@@ -1,5 +1,6 @@
 (() => {
-  // ns-hugo:/var/folders/g5/8jjx06ds6vd4jd4bhk1p5zd40000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy@v0.0.0-20201208221717-1d5456668842/assets/js/wowchemy-theming.js
+  // ns-hugo:/var/folders/g5/8jjx06ds6vd4jd4bhk1p5zd40000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy@v0.0.0-20201228231801-219b05cbd2c4/assets/js/wowchemy-theming.js
+  var body = document.body;
   function getThemeMode() {
     return parseInt(localStorage.getItem("wcTheme") || 2);
   }
@@ -8,7 +9,10 @@
   }
   function initThemeVariation() {
     if (!canChangeTheme()) {
-      return;
+      return {
+        isDarkTheme: window.wc.isSiteThemeDark,
+        themeMode: window.wc.isSiteThemeDark ? 1 : 0
+      };
     }
     let currentThemeMode = getThemeMode();
     let isDarkTheme;
@@ -29,11 +33,17 @@
         }
         break;
     }
-    if (isDarkTheme) {
+    if (isDarkTheme && !body.classList.contains("dark")) {
+      console.debug("Applying Wowchemy dark theme");
       document.body.classList.add("dark");
-    } else {
+    } else if (body.classList.contains("dark")) {
+      console.debug("Applying Wowchemy light theme");
       document.body.classList.remove("dark");
     }
+    return {
+      isDarkTheme,
+      themeMode: currentThemeMode
+    };
   }
 
   // ns-params:@params
