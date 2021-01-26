@@ -8,7 +8,7 @@
   
   
   
-  <meta name="generator" content="Wowchemy 5.0.0-beta.1 for Hugo">
+  <meta name="generator" content="Wowchemy 5.0.0-beta.2 for Hugo">
   
 
   
@@ -75,7 +75,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -86,14 +86,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -231,8 +231,8 @@
   
     
       
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -240,7 +240,8 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.min.ab2c94fdae1fe31f479136e9ef082dbd.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.3647048f78bc961fb4db699177e18f8d.css">
 
   
 
@@ -297,9 +298,12 @@
   <link rel="alternate" href="/talk/index.xml" type="application/rss+xml" title="BuildENVIRONMENT!">
   
 
+  
   <link rel="manifest" href="/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_192x192_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_180x180_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://nheeren.github.io/talk/">
 
@@ -354,9 +358,14 @@
   
   
   
-  <script src="/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/js/wowchemy-init.min.d876f1a6b98701f9238f2313b512a26f.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -365,16 +374,22 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
+      
+
+      
 
     </section>
     <section class="section-search-results">
@@ -386,6 +401,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -403,7 +419,7 @@
 
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
+  <div class="container-xl">
 
     
     <div class="d-none d-lg-inline-flex">
@@ -727,12 +743,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/g-7-2019/" >Upcoming IRP G7 report `GHG mitigation through material efficiency in residential buildings and light-duty vehicles&#39;</a>
-    </h3>
+    </div>
 
     
 
@@ -791,6 +808,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://g7environnement-evenements-societe-civile.fr" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -816,12 +871,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-openscience-isie-2019/" >The community-driven material intensity platform for IE open science</a>
-    </h3>
+    </div>
 
     
 
@@ -879,6 +935,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie2019.env.tsinghua.edu.cn" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -904,12 +998,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/voet-isie-2019-chair/" >Special Session on Urban stocks and Urban mining</a>
-    </h3>
+    </div>
 
     
 
@@ -971,6 +1066,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie2019.env.tsinghua.edu.cn" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -996,12 +1129,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/hertwich-isie-2019/" >Resource Efficiency for Climate Change Mitigation in Housing Buildings and Light-Duty Vehicles</a>
-    </h3>
+    </div>
 
     
 
@@ -1065,6 +1199,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie2019.env.tsinghua.edu.cn" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -1090,12 +1262,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/openscience-isie-2019-chair/" >Progress on Open Science in Industrial Ecology</a>
-    </h3>
+    </div>
 
     
 
@@ -1154,6 +1327,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie2019.env.tsinghua.edu.cn" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -1179,12 +1390,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/pauliuk-isie-2019/" >Material efficiency and its contribution to climate change mitigation in Germany -- A scenario analysis until 2050</a>
-    </h3>
+    </div>
 
     
 
@@ -1243,6 +1455,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie2019.env.tsinghua.edu.cn" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -1268,12 +1518,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/scenarios-isie-2019-chair/" >Future Pathways for scenario modelling in Industrial Ecology</a>
-    </h3>
+    </div>
 
     
 
@@ -1332,6 +1583,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie2019.env.tsinghua.edu.cn" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -1357,12 +1646,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-isie-2019/" >Development pathways of building stocks</a>
-    </h3>
+    </div>
 
     
 
@@ -1422,6 +1712,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie2019.env.tsinghua.edu.cn" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -1447,12 +1775,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/wiprachtiger-isie-2019/" >Circular System Design: A case study on insulation material in Switzerland</a>
-    </h3>
+    </div>
 
     
 
@@ -1512,6 +1841,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie2019.env.tsinghua.edu.cn" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -1537,12 +1904,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/wiprachtiger-2019-dgaw/" >Circular System Design -- Fallbeispiel Isolationsmaterialien Schweiz</a>
-    </h3>
+    </div>
 
     
 
@@ -1602,6 +1970,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.dgaw.de/aktivitaeten/wissenschaftskongress/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -1627,12 +2033,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/huang-isie-2019/" >Building material use and associated environmental impacts in China 2000--2015</a>
-    </h3>
+    </div>
 
     
 
@@ -1692,6 +2099,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie2019.env.tsinghua.edu.cn" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -1717,12 +2162,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/miatto-isie-2019-chair/" >Building a research community for the built environment’s material stocks</a>
-    </h3>
+    </div>
 
     
 
@@ -1785,6 +2231,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie2019.env.tsinghua.edu.cn" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -1810,12 +2294,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/voet-isie-2019-talk/" >A geospatial and prospective building stock model for Switzerland</a>
-    </h3>
+    </div>
 
     
 
@@ -1872,6 +2357,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie2019.env.tsinghua.edu.cn" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -1908,12 +2431,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-agci/" >Resource Efficiency and Climate Change</a>
-    </h3>
+    </div>
 
     
 
@@ -1969,6 +2493,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.agci.org/event/18s5" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -1994,12 +2556,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/stadler-di-4-r/" >The Industrial Ecology Open Science Project</a>
-    </h3>
+    </div>
 
     
 
@@ -2063,6 +2626,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/www.digitalinfrastructures.eu" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -2088,12 +2689,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-herus/" >Quantifying Environmental Impacts of Socio-Economic Systems</a>
-    </h3>
+    </div>
 
     
 
@@ -2174,12 +2776,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/wipraechtiger-tu-vienna-2018/" >Circular System Design – A Case Study on Insulation Material in Switzerland</a>
-    </h3>
+    </div>
 
     
 
@@ -2264,12 +2867,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-boston/" >Environmental Impacts of Buildings – Energy, Material, and Dynamics</a>
-    </h3>
+    </div>
 
     
 
@@ -2350,12 +2954,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-grc-2018/" >Resource Efficiency &amp; Climate Change -- A Comprehensive Modelling Framework for the Socio-Economic System</a>
-    </h3>
+    </div>
 
     
 
@@ -2414,6 +3019,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.1443159" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -2439,12 +3082,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/pauliuk-grc-2018/" >Introducing ODYM -- An Open Dynamic Material Systems Model</a>
-    </h3>
+    </div>
 
     
 
@@ -2526,12 +3170,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/wipraechtiger-grc-2018/" >Circular System Design – A Case Study on Insulation Material in Switzerland</a>
-    </h3>
+    </div>
 
     
 
@@ -2620,12 +3265,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-iea/" >Deriving material inventories using big data methods</a>
-    </h3>
+    </div>
 
     
 
@@ -2706,12 +3352,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-epa/" >Tracking construction material over space &amp; time</a>
-    </h3>
+    </div>
 
     
 
@@ -2792,12 +3439,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/pauliuk-iedc-code/" >Industrial Ecology Data Commons (IEDC) Database</a>
-    </h3>
+    </div>
 
     
 
@@ -2856,6 +3504,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/IndEcol/IE_data_commons" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -2881,12 +3567,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/froemelt-2018-setac/" >Assessing environmental impacts of individual households: A large-scale bottom-up LCA-model for Switzerland</a>
-    </h3>
+    </div>
 
     
 
@@ -2981,12 +3668,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/fishman-isie-2017-ss/" >Special session on the built environment&#39;s stocks and flows</a>
-    </h3>
+    </div>
 
     
 
@@ -3049,6 +3737,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie-issst2017.uic.edu/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -3074,12 +3800,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-lcm-17/" >Prospective and regional modelling of construction material flows</a>
-    </h3>
+    </div>
 
     
 
@@ -3136,6 +3863,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://lcm2017.org/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -3161,12 +3926,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-isie-2017/" >Mitigation potentials for environmental impacts of construction material flows</a>
-    </h3>
+    </div>
 
     
 
@@ -3223,6 +3989,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie-issst2017.uic.edu/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -3248,12 +4052,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/hertwich-isie-2017/" >Data transparency in Industrial Ecology</a>
-    </h3>
+    </div>
 
     
 
@@ -3316,6 +4121,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie-issst2017.uic.edu/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -3341,12 +4184,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/ioannidou-lcm-17/" >Criticality methodology for resources: how to apply to construction in the future?</a>
-    </h3>
+    </div>
 
     
 
@@ -3408,6 +4252,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://lcm2017.org/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -3433,12 +4315,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/buffat-isie-2017/" >BEEF: Building stock Energy EFficiency model for Switzerland</a>
-    </h3>
+    </div>
 
     
 
@@ -3498,6 +4381,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie-issst2017.uic.edu/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -3523,12 +4444,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/froemelt-isie-2017/" >A Virtual Platform to Evaluate Policy Scenarios Targeting Environmental Impacts from Household Consumption</a>
-    </h3>
+    </div>
 
     
 
@@ -3587,6 +4509,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie-issst2017.uic.edu/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -3612,12 +4572,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/fishman-isie-2017/" >A look on the bright side of material stocks: formation of a global material stock database of the built environment using nighttime satellite imagery</a>
-    </h3>
+    </div>
 
     
 
@@ -3678,6 +4639,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://isie-issst2017.uic.edu/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -3714,12 +4713,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-epfl/" >Tools for shaping the future of energy and building systems</a>
-    </h3>
+    </div>
 
     
 
@@ -3800,12 +4800,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-grs-2016/" >Bottom-up model of energy &amp; material flows in the Swiss building stock</a>
-    </h3>
+    </div>
 
     
 
@@ -3887,12 +4888,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-grc-2016/" >Bottom-up model of energy &amp; material flows in the Swiss building stock</a>
-    </h3>
+    </div>
 
     
 
@@ -3985,12 +4987,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-df-60/" >The role of wood for the Swiss building stock</a>
-    </h3>
+    </div>
 
     
 
@@ -4047,6 +5050,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.lcaforum.ch/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -4072,12 +5113,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-df-60-chair/" >LCA of innovative wood products and wood energy systems</a>
-    </h3>
+    </div>
 
     
 
@@ -4133,6 +5175,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.lcaforum.ch/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -4158,12 +5238,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/knecht-lcm-15/" >A tool for LCA and LCC of heat supply systems</a>
-    </h3>
+    </div>
 
     
 
@@ -4222,6 +5303,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://lcm-conferences.org/lcm-2015/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -4247,12 +5366,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-isie-2015/" >A bottom-up model for material-energy coupled environmental assessment of the Swiss building stock</a>
-    </h3>
+    </div>
 
     
 
@@ -4309,6 +5429,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.surrey.ac.uk/ces/news/key_events/isie_conference/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -4345,12 +5503,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-df-57/" >The environmental significance of construction: the case of wood buildings</a>
-    </h3>
+    </div>
 
     
 
@@ -4407,6 +5566,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.lcaforum.ch/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -4432,12 +5629,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/hellweg-grc-2014/" >Optimizing the Life Cycle of Wood</a>
-    </h3>
+    </div>
 
     
 
@@ -4503,6 +5701,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.grc.org" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -4528,12 +5764,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/saner-lca-2014/" >Modeling housing energy demand and optimizing energy supply</a>
-    </h3>
+    </div>
 
     
 
@@ -4630,12 +5867,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-tabula/" >Component-based building stock model for testing the targets of the Swiss 2000 Watt society</a>
-    </h3>
+    </div>
 
     
 
@@ -4693,6 +5931,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://episcope.eu/communication/networking/tabula-expert-workshop-2012/" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -4718,12 +5994,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/hellweg-grc-2012/" >Combining MFA and LCA to identify environmental strategies for a sustainable management of wood resources in Switzerland</a>
-    </h3>
+    </div>
 
     
 
@@ -4791,6 +6068,44 @@
     </div>
 
     
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.grc.org" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
 
   </div>
   <div class="ml-3">
@@ -4827,12 +6142,13 @@
 
 
 
+
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/talk/heeren-icss-2010/" >Building stock modeling -– a systematic approach to govern cities in a sustainable way</a>
-    </h3>
+    </div>
 
     
 
@@ -4889,6 +6205,44 @@
       
     </div>
 
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://icss2010.net" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
     
 
   </div>
@@ -5007,42 +6361,18 @@
 
     
     
-    <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'event' : "Events",
-        'slides' : "Slides"
-        };
-    </script>
-    
-
-    
-    
 
     
     
     <script id="search-hit-fuse-template" type="text/x-template">
       <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
+        <div class="search-hit-content">
+          <div class="search-hit-name">
+            <a href="{{relpermalink}}">{{title}}</a>
+            <div class="article-metadata search-hit-type">{{type}}</div>
+            <p class="search-hit-description">{{snippet}}</p>
+          </div>
         </div>
-      </div>
       </div>
     </script>
     
@@ -5055,15 +6385,27 @@
 
     
     
-
-    
-    
     
 
     
     
+    
 
     
+    
+
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
     
 
     
@@ -5077,11 +6419,10 @@
     
     
       
+      
     
     
-    
-    
-    <script src="/js/wowchemy.min.d0d321ad6c45c08297f04e4ff03367d3.js"></script>
+    <script src="/en/js/wowchemy.min.06e52bf0665167274d459a9300d0fab2.js"></script>
 
     
 

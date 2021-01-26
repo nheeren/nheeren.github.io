@@ -8,7 +8,7 @@
   
   
   
-  <meta name="generator" content="Wowchemy 5.0.0-beta.1 for Hugo">
+  <meta name="generator" content="Wowchemy 5.0.0-beta.2 for Hugo">
   
 
   
@@ -75,7 +75,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -86,14 +86,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -231,8 +231,8 @@
   
     
       
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -240,7 +240,8 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.min.ab2c94fdae1fe31f479136e9ef082dbd.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.3647048f78bc961fb4db699177e18f8d.css">
 
   
 
@@ -297,9 +298,12 @@
   <link rel="alternate" href="/index.xml" type="application/rss+xml" title="BuildENVIRONMENT!">
   
 
+  
   <link rel="manifest" href="/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_192x192_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_180x180_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://nheeren.github.io/">
 
@@ -368,9 +372,14 @@
   
   
   
-  <script src="/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/js/wowchemy-init.min.d876f1a6b98701f9238f2313b512a26f.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -379,16 +388,22 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
+      
+
+      
 
     </section>
     <section class="section-search-results">
@@ -400,6 +415,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -417,7 +433,7 @@
 
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
+  <div class="container-xl">
 
     
     <div class="d-none d-lg-inline-flex">
@@ -723,6 +739,8 @@
   
 
   
+
+  
   
 
   
@@ -791,6 +809,8 @@
   
   
   
+  
+
   
 
   
@@ -1022,7 +1042,7 @@
 
       
       <div class="col-md-7">
-        <h3>Education</h3>
+        <div class="section-subheading">Education</div>
         <ul class="ul-edu fa-ul">
           
           <li>
@@ -1074,6 +1094,8 @@
   
   
   
+  
+
   
 
   
@@ -1143,7 +1165,7 @@
     
     <div class="featurette-icon"><i class="fas fa-city"></i></div>
     
-    <h3>Building &amp; Building stocks Analysis</h3>
+    <div class="section-subheading">Building &amp; Building stocks Analysis</div>
     <p>Thermal simulation, BIM, certification, etc.</p>
   </div>
   
@@ -1156,7 +1178,7 @@
     
     <div class="featurette-icon"><i class="fab fa-envira"></i></div>
     
-    <h3>Open Sustainability Science</h3>
+    <div class="section-subheading">Open Sustainability Science</div>
     <p>Research &amp; Teaching in Industrial Ecology, LCA, MFA, etc.</p>
   </div>
   
@@ -1169,7 +1191,7 @@
     
     <div class="featurette-icon"><i class="fas fa-server"></i></div>
     
-    <h3>Computer modelling</h3>
+    <div class="section-subheading">Computer modelling</div>
     <p>Python, SQL, GIS, Big data, etc.</p>
   </div>
   
@@ -1184,6 +1206,8 @@
   
   
   
+  
+
   
 
   
@@ -1270,8 +1294,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Adjunct Professor for Industrial Ecology</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="https://www.ntnu.edu/employees/niko.heeren" target="_blank" rel="noopener">Norwegian University of Science &amp; Technology NTNU</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Adjunct Professor for Industrial Ecology</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.ntnu.edu/employees/niko.heeren" target="_blank" rel="noopener">Norwegian University of Science &amp; Technology NTNU</a></div>
           <div class="text-muted exp-meta">
             Jan 2020 –
             
@@ -1307,8 +1331,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Project Manager Sustainable Construction</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="https://www.stadt-zuerich.ch/nachhaltigesbauen" target="_blank" rel="noopener">City of Zurich</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Project Manager Sustainable Construction</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.stadt-zuerich.ch/nachhaltigesbauen" target="_blank" rel="noopener">City of Zurich</a></div>
           <div class="text-muted exp-meta">
             Jan 2020 –
             
@@ -1344,8 +1368,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Postdoctoral Associate</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="http://cie.research.yale.edu" target="_blank" rel="noopener">Yale University, Center for Industrial Ecology</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Postdoctoral Associate</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="http://cie.research.yale.edu" target="_blank" rel="noopener">Yale University, Center for Industrial Ecology</a></div>
           <div class="text-muted exp-meta">
             Jan 2018 –
             
@@ -1381,8 +1405,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Lecturer</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="http://www.vvz.ethz.ch/Vorlesungsverzeichnis/dozent.view?dozide=10051746&amp;ansicht=1&amp;semkez=2019S&amp;lang=en" target="_blank" rel="noopener">ETH Zurich</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Lecturer</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="http://www.vvz.ethz.ch/Vorlesungsverzeichnis/dozent.view?dozide=10051746&amp;ansicht=1&amp;semkez=2019S&amp;lang=en" target="_blank" rel="noopener">ETH Zurich</a></div>
           <div class="text-muted exp-meta">
             Jan 2017 –
             
@@ -1418,8 +1442,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Postdoctoral Researcher</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="https://baug.ethz.ch/en/" target="_blank" rel="noopener">ETH Zurich</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Postdoctoral Researcher</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://baug.ethz.ch/en/" target="_blank" rel="noopener">ETH Zurich</a></div>
           <div class="text-muted exp-meta">
             Jan 2017 –
             
@@ -1455,8 +1479,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">PhD Student</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="https://esd.ifu.ethz.ch" target="_blank" rel="noopener">ETH Zurich, Chair of Ecological System Design, Institute of Environmental Engineering</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">PhD Student</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://esd.ifu.ethz.ch" target="_blank" rel="noopener">ETH Zurich, Chair of Ecological System Design, Institute of Environmental Engineering</a></div>
           <div class="text-muted exp-meta">
             Mar 2012 –
             
@@ -1492,8 +1516,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Teacher &amp; Consultant in Building Simulation and Certification</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="http://www.lesosai.com" target="_blank" rel="noopener">E4tech Software Ltd. (Lesosai)</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Teacher &amp; Consultant in Building Simulation and Certification</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="http://www.lesosai.com" target="_blank" rel="noopener">E4tech Software Ltd. (Lesosai)</a></div>
           <div class="text-muted exp-meta">
             Jan 2010 –
             
@@ -1529,8 +1553,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Assistant</h4>
-          <h4 class="card-title exp-company text-muted my-0">ETH Zurich, Chair of Sustainable Construction, Institute of Construction &amp; Infrastructure Management</h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Research Assistant</div>
+          <div class="section-subheading card-title exp-company text-muted my-0">ETH Zurich, Chair of Sustainable Construction, Institute of Construction &amp; Infrastructure Management</div>
           <div class="text-muted exp-meta">
             Mar 2008 –
             
@@ -1566,8 +1590,8 @@
     <div class="col py-2">
       <div class="card">
         <div class="card-body">
-          <h4 class="card-title exp-title text-muted mt-0 mb-1">Guest Lecturer</h4>
-          <h4 class="card-title exp-company text-muted my-0"><a href="https://www.strasbourg.archi.fr" target="_blank" rel="noopener">École Nationale Supérieure d’Architecture de Strasbourg</a></h4>
+          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Guest Lecturer</div>
+          <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.strasbourg.archi.fr" target="_blank" rel="noopener">École Nationale Supérieure d’Architecture de Strasbourg</a></div>
           <div class="text-muted exp-meta">
             Mar 2008 –
             
@@ -1598,6 +1622,8 @@
   
   
   
+  
+
   
 
   
@@ -1672,6 +1698,12 @@
   
 
   <div class="isotope projects-container js-layout-masonry ">
+
+    
+    
+      
+    
+
     
 
       
@@ -1702,12 +1734,15 @@
     
     <div class="card-text">
       <h4><a href="https://www.resourcepanel.org/reports/resource-efficiency-and-climate-change" target="_blank" rel="noopener">Resource Efficiency &amp; Climate Change</a></h4>
+
       
       <div class="article-style">
         <p>Mandated by the G7 and United Nations International Resource Panel (UNEP-IRP) , we are investigating the potential benefits of Resource Efficiency for future greenhouse gas emissions.
 Project ends 2019.
 Find related content and publications here.</p>
       </div>
+      
+
       
     </div>
   </div>
@@ -1742,10 +1777,53 @@ Find related content and publications here.</p>
     
     <div class="card-text">
       <h4><a href="/project/nrp66/" >Swiss National Science Foundation NRP 66 Resource Wood</a></h4>
+
       
       <div class="article-style">
         <p>In 2010 the Swiss National Science Foundation launched athe National Research Programme 66 to investigate the potentials of wood as a national resource. The team led by Prof. Hellweg investigated the ecological implications of wood use. The project had a budget of 1 million Swiss Francs and brought forward three PhDs.
 I was lucky enough to be one of those PhD students and my project looked into the ecological potentials of wood use in buildings.</p>
+      </div>
+      
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.nfp66.ch/en" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       </div>
       
     </div>
@@ -1769,6 +1847,8 @@ I was lucky enough to be one of those PhD students and my project looked into th
   
   
   
+  
+
   
 
   
@@ -1878,9 +1958,9 @@ I was lucky enough to be one of those PhD students and my project looked into th
 
 
 
+  
 
-  
-  
+
 
 
 
@@ -1892,9 +1972,9 @@ I was lucky enough to be one of those PhD students and my project looked into th
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/rissman-2019/" >Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/rissman-2019/"  class="summary-link">
@@ -1962,7 +2042,7 @@ I was lucky enough to be one of those PhD students and my project looked into th
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/rissman-2019/rissman-2019.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/rissman-2019/rissman-2019.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1980,7 +2060,7 @@ I was lucky enough to be one of those PhD students and my project looked into th
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.apenergy.2020.114848" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.apenergy.2020.114848" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2014,9 +2094,9 @@ I was lucky enough to be one of those PhD students and my project looked into th
 
 
 
+  
 
-  
-  
+
 
 
 
@@ -2028,9 +2108,9 @@ I was lucky enough to be one of those PhD students and my project looked into th
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/irp-2019/" >Resource Efficiency and Climate Change: Material Efficiency Strategies for a Low-Carbon Future</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/irp-2019/"  class="summary-link">
@@ -2073,7 +2153,7 @@ This report was developed by the IRP in response to a request by leaders of the 
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/irp-2019/IRP-2019.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/irp-2019/IRP-2019.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2084,14 +2164,14 @@ This report was developed by the IRP in response to a request by leaders of the 
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/YaleCIE/RECC-ODYM" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/YaleCIE/RECC-ODYM" target="_blank" rel="noopener">
   Code
 </a>
 
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.resourcepanel.org/reports/resource-efficiency-and-climate-change" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.resourcepanel.org/reports/resource-efficiency-and-climate-change" target="_blank" rel="noopener">
   Project
 </a>
 
@@ -2103,7 +2183,7 @@ This report was developed by the IRP in response to a request by leaders of the 
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.3542680" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.3542680" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2137,9 +2217,9 @@ This report was developed by the IRP in response to a request by leaders of the 
 
 
 
+  
 
-  
-  
+
 
 
 
@@ -2151,9 +2231,9 @@ This report was developed by the IRP in response to a request by leaders of the 
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/egr-chapter/" >Bridging the gap: enhancing material efficiency in residential buildings and cars</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/egr-chapter/"  class="summary-link">
@@ -2206,7 +2286,7 @@ This report was developed by the IRP in response to a request by leaders of the 
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.unenvironment.org/resources/emissions-gap-report-2019" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.unenvironment.org/resources/emissions-gap-report-2019" target="_blank" rel="noopener">
   Project
 </a>
 
@@ -2248,9 +2328,9 @@ This report was developed by the IRP in response to a request by leaders of the 
 
 
 
+  
 
-  
-  
+
 
 
 
@@ -2262,9 +2342,9 @@ This report was developed by the IRP in response to a request by leaders of the 
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/heeren-mi/" >A Database Seed for a Community-driven Material Intensity Research Platform</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/heeren-mi/"  class="summary-link">
@@ -2304,7 +2384,7 @@ This report was developed by the IRP in response to a request by leaders of the 
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/heeren-mi/heeren-mi.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/heeren-mi/heeren-mi.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2315,7 +2395,7 @@ This report was developed by the IRP in response to a request by leaders of the 
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/nheeren/material_intensity_db" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/nheeren/material_intensity_db" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -2330,7 +2410,7 @@ This report was developed by the IRP in response to a request by leaders of the 
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/s41597-019-0021-x" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/s41597-019-0021-x" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2364,9 +2444,9 @@ This report was developed by the IRP in response to a request by leaders of the 
 
 
 
+  
 
-  
-  
+
 
 
 
@@ -2378,9 +2458,9 @@ This report was developed by the IRP in response to a request by leaders of the 
 <div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0">
+    <div class="section-subheading article-title mb-0 mt-0">
       <a href="/publication/heeren-2018-jie/" >Tracking Construction Material over Space and Time: Prospective and Geo-referenced Modeling of Building Stocks and Construction Material Flows</a>
-    </h3>
+    </div>
 
     
     <a href="/publication/heeren-2018-jie/"  class="summary-link">
@@ -2420,7 +2500,7 @@ This report was developed by the IRP in response to a request by leaders of the 
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/heeren-2018-jie/heeren-2018-jie.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/heeren-2018-jie/heeren-2018-jie.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2438,7 +2518,7 @@ This report was developed by the IRP in response to a request by leaders of the 
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/jiec.12739" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/jiec.12739" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2481,6 +2561,8 @@ This report was developed by the IRP in response to a request by leaders of the 
   
   
   
+  
+
   
 
   
@@ -2722,7 +2804,7 @@ This report was developed by the IRP in response to a request by leaders of the 
         
         
         
-        <a href="/tags/lca/" style="font-size:1.3409695625349387rem">LCA</a>
+        <a href="/tags/lca/" style="font-size:1.3537824462300858rem">LCA</a>
       
         
         
@@ -2732,7 +2814,7 @@ This report was developed by the IRP in response to a request by leaders of the 
         
         
         
-        <a href="/tags/material/" style="font-size:1.2666522756681458rem">Material</a>
+        <a href="/tags/material/" style="font-size:1.2831277552976281rem">Material</a>
       
         
         
@@ -2762,7 +2844,7 @@ This report was developed by the IRP in response to a request by leaders of the 
         
         
         
-        <a href="/tags/open-access/" style="font-size:1.2106882758654118rem">Open Access</a>
+        <a href="/tags/open-access/" style="font-size:1.2305749482273436rem">Open Access</a>
       
         
         
@@ -2822,7 +2904,7 @@ This report was developed by the IRP in response to a request by leaders of the 
         
         
         
-        <a href="/tags/resource-efficiency/" style="font-size:1.1411751405706438rem">Resource Efficiency</a>
+        <a href="/tags/resource-efficiency/" style="font-size:1.1662555105952563rem">Resource Efficiency</a>
       
         
         
@@ -2867,7 +2949,7 @@ This report was developed by the IRP in response to a request by leaders of the 
         
         
         
-        <a href="/tags/wood/" style="font-size:1.010893853901117rem">Wood</a>
+        <a href="/tags/wood/" style="font-size:1.0493832658928846rem">Wood</a>
       
         
         
@@ -2987,42 +3069,18 @@ This report was developed by the IRP in response to a request by leaders of the 
 
     
     
-    <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'event' : "Events",
-        'slides' : "Slides"
-        };
-    </script>
-    
-
-    
-    
 
     
     
     <script id="search-hit-fuse-template" type="text/x-template">
       <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
+        <div class="search-hit-content">
+          <div class="search-hit-name">
+            <a href="{{relpermalink}}">{{title}}</a>
+            <div class="article-metadata search-hit-type">{{type}}</div>
+            <p class="search-hit-description">{{snippet}}</p>
+          </div>
         </div>
-      </div>
       </div>
     </script>
     
@@ -3035,15 +3093,27 @@ This report was developed by the IRP in response to a request by leaders of the 
 
     
     
-
-    
-    
     
 
     
     
+    
 
     
+    
+
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
     
 
     
@@ -3057,11 +3127,10 @@ This report was developed by the IRP in response to a request by leaders of the 
     
     
       
+      
     
     
-    
-    
-    <script src="/js/wowchemy.min.d0d321ad6c45c08297f04e4ff03367d3.js"></script>
+    <script src="/en/js/wowchemy.min.06e52bf0665167274d459a9300d0fab2.js"></script>
 
     
 

@@ -8,7 +8,7 @@
   
   
   
-  <meta name="generator" content="Wowchemy 5.0.0-beta.1 for Hugo">
+  <meta name="generator" content="Wowchemy 5.0.0-beta.2 for Hugo">
   
 
   
@@ -75,7 +75,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
 
     
     
@@ -86,14 +86,14 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
         
       
     
 
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -231,8 +231,8 @@
   
     
       
-      
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
     
   
 
@@ -240,7 +240,8 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.min.ab2c94fdae1fe31f479136e9ef082dbd.css">
+  
+  <link rel="stylesheet" href="/css/wowchemy.3647048f78bc961fb4db699177e18f8d.css">
 
   
 
@@ -297,9 +298,12 @@
   <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="BuildENVIRONMENT!">
   
 
+  
   <link rel="manifest" href="/index.webmanifest">
+  
+
   <link rel="icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_192x192_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_180x180_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://nheeren.github.io/publication/">
 
@@ -354,9 +358,14 @@
   
   
   
-  <script src="/js/wowchemy-init.js"></script>
+  
+  
+  
+  <script src="/js/wowchemy-init.min.d876f1a6b98701f9238f2313b512a26f.js"></script>
 
-  <aside class="search-results" id="search">
+  
+
+<aside class="search-modal" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -365,16 +374,22 @@
           <h1>Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
 
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
         
       </div>
+
+      
+      
+
+      
 
     </section>
     <section class="section-search-results">
@@ -386,6 +401,7 @@
     </section>
   </div>
 </aside>
+
 
 
   <div class="page-header">
@@ -403,7 +419,7 @@
 
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-  <div class="container">
+  <div class="container-xl">
 
     
     <div class="d-none d-lg-inline-flex">
@@ -883,6 +899,9 @@
         
         
       
+        
+        
+      
 
       <div class="form-row mb-4">
         <div class="col-auto">
@@ -1002,9 +1021,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -1052,7 +1071,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/jiec.13091" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/jiec.13091" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1084,9 +1103,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -1136,7 +1155,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.biosystemseng.2020.11.012" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.biosystemseng.2020.11.012" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1168,9 +1187,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -1224,7 +1243,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.21203/rs.3.rs-93217/v1" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.21203/rs.3.rs-93217/v1" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1256,9 +1275,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -1311,7 +1330,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.apenergy.2020.115953" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.apenergy.2020.115953" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1343,9 +1362,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -1396,7 +1415,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/jiec.13067" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/jiec.13067" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1428,9 +1447,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -1483,7 +1502,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/oso/9780190949501.003.0008" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1093/oso/9780190949501.003.0008" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1515,9 +1534,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -1569,7 +1588,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/jiec.13023" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/jiec.13023" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1601,9 +1620,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -1665,7 +1684,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/rissman-2019/rissman-2019.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/rissman-2019/rissman-2019.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1683,7 +1702,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.apenergy.2020.114848" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.apenergy.2020.114848" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1715,9 +1734,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -1756,7 +1775,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.cambridge.org/core/product/identifier/9781108574334%23CN-bp-16/type/book_part" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.cambridge.org/core/product/identifier/9781108574334%23CN-bp-16/type/book_part" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1774,7 +1793,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1017/9781108574334.018" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1017/9781108574334.018" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1806,9 +1825,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -1861,7 +1880,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.31235/osf.io/tqsc3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.31235/osf.io/tqsc3" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1893,9 +1912,96 @@
 
 
 
+  
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+  <a href="/publication/leyder-2021/" >Investigations on the Sustainable Resource Use of Swiss Timber</a>
 
   
+
   
+  <div class="article-metadata">
+    
+
+  <span >
+      <a href="/authors/claude-leyder/">Claude Leyder</a></span>, <span >
+      <a href="/authors/michael-klippel/">Michael Klippel</a></span>, <span >
+      <a href="/authors/olin-bartlome/">Olin Bartlomé</a></span>, <span >
+      <a href="/authors/niko-heeren/">Niko Heeren</a></span>, <span >
+      <a href="/authors/sarah-kissling/">Sarah Kissling</a></span>, <span >
+      <a href="/authors/yutaka-goto/">Yutaka Goto</a></span>, <span >
+      <a href="/authors/andrea-frangi/">Andrea Frangi</a></span>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3390/su13031237" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+  </div>
+  
+
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2020">
+          
+            
+
+
+
+
+
+
+
+
+
+  
+
+
 
 
 <div class="view-list-item">
@@ -1946,7 +2052,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.resconrec.2019.104631" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.resconrec.2019.104631" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1978,9 +2084,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -2016,7 +2122,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/irp-2019/IRP-2019.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/irp-2019/IRP-2019.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2027,14 +2133,14 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/YaleCIE/RECC-ODYM" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/YaleCIE/RECC-ODYM" target="_blank" rel="noopener">
   Code
 </a>
 
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.resourcepanel.org/reports/resource-efficiency-and-climate-change" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.resourcepanel.org/reports/resource-efficiency-and-climate-change" target="_blank" rel="noopener">
   Project
 </a>
 
@@ -2046,7 +2152,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.3542680" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.3542680" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2078,9 +2184,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -2127,7 +2233,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.unenvironment.org/resources/emissions-gap-report-2019" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.unenvironment.org/resources/emissions-gap-report-2019" target="_blank" rel="noopener">
   Project
 </a>
 
@@ -2167,9 +2273,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -2205,7 +2311,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.12952" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jiec.12952" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2223,7 +2329,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/jiec.12952" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/jiec.12952" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2255,9 +2361,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -2293,7 +2399,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://www.iccc2019.org" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.iccc2019.org" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2339,9 +2445,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -2377,7 +2483,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/buffat-cisbat-2019/buffat-cisbat-2019.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/buffat-cisbat-2019/buffat-cisbat-2019.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2395,7 +2501,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1088/1742-6596/1343/1/012004" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1088/1742-6596/1343/1/012004" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2427,9 +2533,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -2465,7 +2571,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/pauliuk-iedc-2019/pauliuk-iedc-2019.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/pauliuk-iedc-2019/pauliuk-iedc-2019.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2483,7 +2589,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/jiec.12890" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/jiec.12890" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2515,9 +2621,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -2560,7 +2666,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/hertwich-recc-review/hertwich-recc-review.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/hertwich-recc-review/hertwich-recc-review.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2578,7 +2684,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1088/1748-9326/ab0fe3" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1088/1748-9326/ab0fe3" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2610,9 +2716,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -2646,7 +2752,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/heeren-mi/heeren-mi.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/heeren-mi/heeren-mi.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2657,7 +2763,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/nheeren/material_intensity_db" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/nheeren/material_intensity_db" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -2672,7 +2778,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/s41597-019-0021-x" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/s41597-019-0021-x" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2704,9 +2810,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -2756,7 +2862,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/jiec.12834" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/jiec.12834" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2788,9 +2894,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -2829,7 +2935,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://linkinghub.elsevier.com/retrieve/pii/S0959652618340356" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://linkinghub.elsevier.com/retrieve/pii/S0959652618340356" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2847,7 +2953,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.jclepro.2018.12.304" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.jclepro.2018.12.304" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2879,9 +2985,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -2931,7 +3037,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.scitotenv.2019.04.092" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.scitotenv.2019.04.092" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2963,9 +3069,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -3005,7 +3111,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://pubs.acs.org/doi/10.1021/acs.est.8b04104" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://pubs.acs.org/doi/10.1021/acs.est.8b04104" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -3023,7 +3129,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1021/acs.est.8b04104" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acs.est.8b04104" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3055,9 +3161,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -3091,7 +3197,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/heeren-2018-jie/heeren-2018-jie.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/heeren-2018-jie/heeren-2018-jie.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -3109,7 +3215,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/jiec.12739" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/jiec.12739" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3141,9 +3247,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -3183,7 +3289,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/hertwich-2018/hertwich-2018.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/hertwich-2018/hertwich-2018.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -3201,7 +3307,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/jiec.12738" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/jiec.12738" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3233,9 +3339,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -3288,7 +3394,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.enbuild.2018.02.046" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.enbuild.2018.02.046" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3320,9 +3426,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -3358,7 +3464,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/ostermeyer-2016/ostermeyer-2016.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/ostermeyer-2016/ostermeyer-2016.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -3376,7 +3482,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/jiec.12616" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/jiec.12616" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3408,9 +3514,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -3448,7 +3554,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/science/article/pii/S1364032118304829" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.sciencedirect.com/science/article/pii/S1364032118304829" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -3466,7 +3572,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.rser.2018.06.046" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.rser.2018.06.046" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3498,9 +3604,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -3542,7 +3648,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://is4ie.org/opendata" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://is4ie.org/opendata" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -3588,9 +3694,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -3640,7 +3746,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1080/09613218.2017.1305690" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1080/09613218.2017.1305690" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3672,9 +3778,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -3709,7 +3815,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.3929/ethz-a-010853498" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3929/ethz-a-010853498" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -3727,7 +3833,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.3929/ethz-a-010853498" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3929/ethz-a-010853498" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3759,9 +3865,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -3813,7 +3919,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.egypro.2017.07.433" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.egypro.2017.07.433" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3845,9 +3951,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -3898,7 +4004,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.apenergy.2017.10.041" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.apenergy.2017.10.041" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -3930,9 +4036,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -3983,7 +4089,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.solmat.2016.04.017" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.solmat.2016.04.017" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -4015,9 +4121,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -4057,7 +4163,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://szf-jfs.org/doi/10.3188/szf.2015.0335" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://szf-jfs.org/doi/10.3188/szf.2015.0335" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -4075,7 +4181,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.3188/szf.2015.0335" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3188/szf.2015.0335" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -4107,9 +4213,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -4147,7 +4253,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/heeren-2015/heeren-2015.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/heeren-2015/heeren-2015.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -4165,7 +4271,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1021/acs.est.5b01735" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/acs.est.5b01735" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -4197,9 +4303,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -4236,7 +4342,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/dineva-2014/dineva-2014.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/dineva-2014/dineva-2014.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -4282,9 +4388,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -4325,7 +4431,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/jakob-2014-b/jakob-2014-b.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/jakob-2014-b/jakob-2014-b.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -4371,9 +4477,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -4407,7 +4513,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/heeren-2014/heeren-2014.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/heeren-2014/heeren-2014.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -4453,9 +4559,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -4490,7 +4596,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/szkordilisz-2014/szkordilisz-2014.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/szkordilisz-2014/szkordilisz-2014.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -4536,9 +4642,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -4573,7 +4679,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/wunderlich-2014/wunderlich-2014.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/wunderlich-2014/wunderlich-2014.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -4619,9 +4725,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -4672,7 +4778,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1021/es304084p" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1021/es304084p" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -4704,9 +4810,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -4757,7 +4863,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.rser.2012.11.064" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.rser.2012.11.064" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -4789,9 +4895,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -4825,7 +4931,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/steubing-2013/steubing-2013.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/steubing-2013/steubing-2013.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -4871,9 +4977,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -4922,7 +5028,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1080/2093761X.2012.673917" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1080/2093761X.2012.673917" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -4954,9 +5060,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -4999,7 +5105,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://link.springer.com/10.1007/s11625-011-0152-2" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="http://link.springer.com/10.1007/s11625-011-0152-2" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -5017,7 +5123,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/s11625-011-0152-2" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s11625-011-0152-2" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -5049,9 +5155,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -5091,7 +5197,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/jakob-2012/jakob-2012.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/jakob-2012/jakob-2012.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -5137,9 +5243,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -5178,7 +5284,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/paule-2012/paule-2012.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/paule-2012/paule-2012.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -5224,9 +5330,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -5259,7 +5365,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/heeren-2011/heeren-2011.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/heeren-2011/heeren-2011.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -5277,7 +5383,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5281/zenodo.3547236" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5281/zenodo.3547236" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -5309,9 +5415,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -5331,38 +5437,6 @@
   </div>
   
 
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
   
 
 </div>
@@ -5388,9 +5462,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -5412,38 +5486,6 @@
   </div>
   
 
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
   
 
 </div>
@@ -5469,9 +5511,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -5506,7 +5548,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/wallbaum-2010/wallbaum-2010.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/wallbaum-2010/wallbaum-2010.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -5552,9 +5594,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -5590,7 +5632,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/hoeppner/hoeppner.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/hoeppner/hoeppner.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -5636,9 +5678,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -5674,7 +5716,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/wallbaum-2010-a/wallbaum-2010-a.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/wallbaum-2010-a/wallbaum-2010-a.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -5720,9 +5762,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -5758,7 +5800,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/wallbaum-2010-b/wallbaum-2010-b.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/wallbaum-2010-b/wallbaum-2010-b.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -5804,9 +5846,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -5840,7 +5882,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/heeren-2000/heeren-2000.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/heeren-2000/heeren-2000.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -5886,9 +5928,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -5923,7 +5965,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/heeren-2010-a/heeren-2010-a.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/heeren-2010-a/heeren-2010-a.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -5969,9 +6011,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -5992,38 +6034,6 @@
   </div>
   
 
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
   
 
 </div>
@@ -6049,9 +6059,9 @@
 
 
 
+  
 
-  
-  
+
 
 
 <div class="view-list-item">
@@ -6089,7 +6099,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/wallbaum-2009/wallbaum-2009.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/wallbaum-2009/wallbaum-2009.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -6221,42 +6231,18 @@
 
     
     
-    <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'event' : "Events",
-        'slides' : "Slides"
-        };
-    </script>
-    
-
-    
-    
 
     
     
     <script id="search-hit-fuse-template" type="text/x-template">
       <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
+        <div class="search-hit-content">
+          <div class="search-hit-name">
+            <a href="{{relpermalink}}">{{title}}</a>
+            <div class="article-metadata search-hit-type">{{type}}</div>
+            <p class="search-hit-description">{{snippet}}</p>
+          </div>
         </div>
-      </div>
       </div>
     </script>
     
@@ -6269,15 +6255,27 @@
 
     
     
-
-    
-    
     
 
     
     
+    
 
     
+    
+
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
     
 
     
@@ -6291,11 +6289,10 @@
     
     
       
+      
     
     
-    
-    
-    <script src="/js/wowchemy.min.d0d321ad6c45c08297f04e4ff03367d3.js"></script>
+    <script src="/en/js/wowchemy.min.06e52bf0665167274d459a9300d0fab2.js"></script>
 
     
 
