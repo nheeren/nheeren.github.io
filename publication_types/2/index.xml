@@ -5,12 +5,20 @@
     <link>https://nheeren.github.io/publication_types/2/</link>
       <atom:link href="https://nheeren.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Niko Heeren 2020</copyright><lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Niko Heeren 2020</copyright><lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://nheeren.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Investigations on the Sustainable Resource Use of Swiss Timber</title>
+      <link>https://nheeren.github.io/publication/leyder-2021/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://nheeren.github.io/publication/leyder-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Material efficiency and its contribution to climate change mitigation in Germany: A deep decarbonization scenario analysis until 2060</title>
@@ -57,14 +65,6 @@
       <link>https://nheeren.github.io/publication/rissman-2019/</link>
       <pubDate>Sun, 15 Mar 2020 08:00:31 +0200</pubDate>
       <guid>https://nheeren.github.io/publication/rissman-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigations on the Sustainable Resource Use of Swiss Timber</title>
-      <link>https://nheeren.github.io/publication/leyder-2021/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://nheeren.github.io/publication/leyder-2021/</guid>
       <description></description>
     </item>
     
