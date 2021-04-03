@@ -1,1843 +1,1110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://nheeren.github.io/publication_types/2/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/andrea-frangi/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/claude-leyder/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/publication/leyder-2021/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/lca/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/material/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/michael-klippel/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/niko-heeren/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/olin-bartlome/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/open-access/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/publication_types/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/publication/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/resource-efficiency/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/sarah-kissling/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/wood/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/yutaka-goto/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/publication/pauliuk-recc-de-2020/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/mfa/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/open-science/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/recc-project/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/stefan-pauliuk/</loc>
-    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/energy/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/farzin-golzar/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/food/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/greenhouse/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/material-energy-nexus/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/optimisation/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/publication/golzar-2020/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/ramin-roshandel/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/review/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/simulation/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/stefanie-hellweg/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://nheeren.github.io/publication_types/3/</loc>
-    <lastmod>2020-10-28T12:13:57+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/publication/fishman-2021/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/collaboration/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/edgar-hertwich/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/industrial-ecology/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/niko-heeren/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/paul-wolfram/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/peter-berrill/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/publication_types/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/publication/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/qingshi-tu/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/resource-efficiency/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/review/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/scenarios/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/stefan-pauliuk/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/tomer-fishman/</loc>
+    <lastmod>2021-03-31T09:03:37+02:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/publication_types/2/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/andrea-frangi/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/claude-leyder/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/publication/leyder-2021/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/lca/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/material/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/michael-klippel/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/olin-bartlome/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/open-access/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/sarah-kissling/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/wood/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/yutaka-goto/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/publication/pauliuk-recc-de-2020/</loc>
+    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/mfa/</loc>
+    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/open-science/</loc>
+    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/recc-project/</loc>
+    <lastmod>2020-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/energy/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/farzin-golzar/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/food/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/greenhouse/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/material-energy-nexus/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/optimisation/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/publication/golzar-2020/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/ramin-roshandel/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/tags/simulation/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/authors/stefanie-hellweg/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nheeren.github.io/authors/andrea-nistad/</loc>
     <lastmod>2020-10-28T12:13:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/edgar-hertwich/</loc>
-    <lastmod>2020-10-28T12:13:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/recc-global-2020/</loc>
     <lastmod>2020-10-28T12:13:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/paul-wolfram/</loc>
-    <lastmod>2020-10-28T12:13:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/peter-berrill/</loc>
-    <lastmod>2020-10-28T12:13:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/qingshi-tu/</loc>
-    <lastmod>2020-10-28T12:13:57+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/authors/tomer-fishman/</loc>
-    <lastmod>2020-10-28T12:13:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/yang-2020/</loc>
     <lastmod>2020-10-28T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/arnold-tukker/</loc>
     <lastmod>2020-10-28T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/bernhard-steubing/</loc>
     <lastmod>2020-10-28T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/building-stock/</loc>
     <lastmod>2020-10-28T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/chunbo-zhang/</loc>
     <lastmod>2020-10-28T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/gis/</loc>
     <lastmod>2020-10-28T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/mingming-hu/</loc>
     <lastmod>2020-10-28T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/teun-verhagen/</loc>
     <lastmod>2020-10-28T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/xining-yang/</loc>
     <lastmod>2020-10-28T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/cars/</loc>
     <lastmod>2020-10-28T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/wolfram-2020/</loc>
     <lastmod>2020-10-28T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication_types/6/</loc>
     <lastmod>2020-08-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/collaboration/</loc>
-    <lastmod>2020-08-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/tags/industrial-ecology/</loc>
-    <lastmod>2020-08-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/koichi-kanaoka/</loc>
     <lastmod>2020-08-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/marian-chertow/</loc>
     <lastmod>2020-08-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/t.-reed-miller/</loc>
     <lastmod>2020-08-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/chertow-2020/</loc>
     <lastmod>2020-08-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/recc-framework-2020/</loc>
     <lastmod>2020-06-19T12:13:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/peter-berrill-qingshi-tu/</loc>
     <lastmod>2020-06-19T12:13:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/betty-cremmins/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/bill-sisson/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/brigitta-huckestein/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/chris-bataille/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/dallas-burtraw/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/david-danielson/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/david-hone/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/ellen-d.-williams/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/eric-masanet/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/girish-sethi/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/he-ping/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/hongyou-lu/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/industry/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/jeffrey-rissman/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/jens-dinkel/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/joe-cresko/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/john-katzenberger/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/jonas-helseth/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/joyashree-roy/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/mike-williams/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/nan-zhou/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/nate-aden/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/neal-elliott/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/paul-fennell/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/rebecca-dell/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/sabbie-miller/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/stephane-de-la-rue-du-can/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/rissman-2019/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/thomas-koch-blank/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/tom-lorber/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/william-r-morrow/</loc>
     <lastmod>2020-03-30T08:00:31+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/anna-pagani/</loc>
     <lastmod>2020-03-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/claudia-r.-binder/</loc>
     <lastmod>2020-03-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/rafael-laurenti/</loc>
     <lastmod>2020-03-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/binder-urban-2020/binder-urban-2020/</loc>
     <lastmod>2020-03-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/urban/</loc>
     <lastmod>2020-03-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nheeren.github.io/publication/fishman-2020-preprint/</loc>
-    <lastmod>2020-02-01T09:03:37+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/wipraechtiger-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/circular-economy/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/eliane-waser/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/maja-wiprachtiger/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/melanie-haupt/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/nrp-73-project/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/recycling/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/data/</loc>
     <lastmod>2019-12-18T21:05:04+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/post/191218_iedc-update/</loc>
     <lastmod>2019-12-18T21:05:04+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/post/</loc>
     <lastmod>2019-12-18T21:05:04+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication_types/4/</loc>
     <lastmod>2019-12-12T23:34:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/ghg/</loc>
     <lastmod>2019-12-12T23:34:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/model/</loc>
     <lastmod>2019-12-12T23:34:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/prospective/</loc>
     <lastmod>2019-12-12T23:34:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/reid-lifset/</loc>
     <lastmod>2019-12-12T23:34:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/report/</loc>
     <lastmod>2019-12-12T23:34:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/irp-2019/</loc>
     <lastmod>2019-12-12T23:34:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/united-nations/</loc>
     <lastmod>2019-12-12T23:34:35+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/egr-chapter/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/carbon-budget/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/saleem-ali/</loc>
     <lastmod>2019-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/code/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/pauliuk-2019-odym/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/software/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/project/</loc>
     <lastmod>2019-09-12T23:13:18+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/project/recc/</loc>
     <lastmod>2019-09-12T23:13:18+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/nrp66-project/</loc>
     <lastmod>2019-09-01T11:12:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/project/nrp66/</loc>
     <lastmod>2019-09-01T11:12:32+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication_types/1/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/andreas-froemelt/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/big-data/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/cement/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/buffat-cisbat-2019/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/martin-raubal/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/heeren-iccc/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/probabilistic/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/rene-buffat/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/rupert-j.-myers/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/pauliuk-iedc-2019/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/daniel-b.-muller/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/data-science/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/janez-potocnik/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/julia-okatz/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/mohammad-mahadi-hasan/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/g-7-2019/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/elsa-olivetti/</loc>
     <lastmod>2019-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/farnaz-nojavan-asghari/</loc>
     <lastmod>2019-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/luca-ciacci/</loc>
     <lastmod>2019-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/hertwich-recc-review/</loc>
     <lastmod>2019-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/heeren-mi/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/golzar-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/voet-isie-2019-talk/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/alessio-miatto/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/beija-huang/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/beijia-huang/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/benjamin-sprecher/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/biomass/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/miatto-isie-2019-chair/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/huang-isie-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/carbon-strorage/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/wiprachtiger-2019-dgaw/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/wiprachtiger-isie-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/criticality/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-isie-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/dimitra-ioannidou/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/ester-van-der-voet/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/europe/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/francesco-pittau/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/scenarios-isie-2019-chair/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/gabriele-lumia/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/gang-liu/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/giuliana-iannaccone/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/guido-sonnemann/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/guillaume-habert/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/hiroki-tanikawa/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/jaco-huisman/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/jing-guo/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/laura-scherer/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/pauliuk-isie-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/openscience-isie-2019-chair/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/hertwich-isie-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/retrofit/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/pittau-jcl/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/rupert-myers/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/voet-isie-2019-chair/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-openscience-isie-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/ioannidou-jie/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/wei-qiang-chen/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/weiqiang-chen/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/huang-2018/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/china/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/edgar-g-hertwich/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/feng-zhao/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-agci/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/brandon-kuczenski/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/guillaume-majeaubettez/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/konstantin-stadler/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-herus/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/rick-lupton/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/stadler-di-4-r/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/wipraechtiger-tu-vienna-2018/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-boston/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/catharina-bening/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/wipraechtiger-grc-2018/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/hendrik-clausdeinken/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/pauliuk-grc-2018/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/jakob-pru%C3%9F/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/nicola-blum/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-grc-2018/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/volker-hoffman/</loc>
     <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-iea/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/dynamics/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/switzerland/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/heeren-2018-jie/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-epa/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication_types/0/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/golzar-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/aoife-houlihan-wiberg/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/froemelt-2018-setac/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/ostermeyer-2016/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/clara-stina-good/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/claudio-nageli/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/daniel-muller/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/guillaume-majeau-bettez/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/helge-bratteb%C3%B8/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/holger-wallbaum/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/pauliuk-iedc-code/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/inger-andresen/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/kristjansdottir-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/laurent-georges/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/mahadi-hasan/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/hertwich-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/publishing/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/torhildur-fjola-kristjansdottir/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/york-ostermeyer/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/zeb/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/hertwich-dttf/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/kristjansdottir-2017-a/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication_types/7/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/fishman-isie-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/froemelt-isie-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/aristide-athanassiadis/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/buffat-isie-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/buffat-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/ioannidou-lcm-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/hertwich-isie-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/dominik-wiedenhofer/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/georgios-zinas/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/buffat-cisbat-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/gregoire-meylan/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/keijiro-okuoka/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/kenji-sugimoto/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/lorenz-schmid/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/luis-felipe-vasquez-correa/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/matteo-daldini/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-isie-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/heeren-phd/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/paul-hoekman/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/phd/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-lcm-17/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/fishman-isie-2017-ss/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/thomas-graedel/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/arno-schlueter/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/bipv/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/building-physics/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/jayathissa-2016/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/lighting/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/michiel-jansen/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/prageeth-jayathissa/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/pv/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/renewable-energy/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/zoltan-nagy/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-epfl/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-grc-2016/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-grs-2016/</loc>
     <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/abhishek-chaudhary/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/florian-suter/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/german/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/steubing-2015/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-isie-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/knecht-lcm-15/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/christopher-l-mutel/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/heeren-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/kevin-knecht/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-df-60-chair/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/rafael-burri/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-df-60/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/a.-chaudary/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/alexander-wunderlich/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/architecture/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/beate-grodofzig-furst/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/beem-up-project/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/benjamin-sunjaro/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/wunderlich-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/carl-vadenbo/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/denitsa-dineva/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/dominik-saner/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/szkordilisz-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/flora-szkordilisz/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/gregor-martius/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/heeren-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/justin-boucher/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/karin-flury/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/jakob-2014-b/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/m.-boesch/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/m.-caduff/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/marc-furst/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/martin-jakob/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/saner-lca-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/nadja-gross/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/hellweg-grc-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/dineva-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/peter-hofer/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/stephan-pfister/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-df-57/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/boris-jaggi/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/household/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/saner-2013-a/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/rashid-a-waraich/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/transport/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/heeren-2013-a/</loc>
     <lastmod>2013-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/steubing-2013/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/a-bassi/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/a.-de-schryver/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/benjamin-sunarjo/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/bernard-paule/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/bruno-bebie/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/christopher-mutel/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/claudio-cecchi/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/hellweg-grc-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-tabula/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/paule-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/jakob-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/flourentzos-flourentzou/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/han-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/j-boutillier/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/ji-han/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/kazuhiko-takeuchi/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/kensuke-fukushi/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/peter-edwards/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/psyche-fontanos/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/s-pantet/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/srikantha-herath/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/t-voelliger/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/heeren-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/vincenzo-naso/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/heeren-2011/</loc>
     <lastmod>2011-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/jakob-2011/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/heeren-2011-a/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/heeren-2010-a/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/talk/heeren-icss-2010/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/charilaos-toloumis/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/heeren-2000/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/wallbaum-2010-b/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/wallbaum-2010-a/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/hoeppner/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/silko-hoppner/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/ulrich-weidmann/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/wallbaum-2010/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/wallbaum-2009/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/tags/infrastructure/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/publication/weidmann-2009/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/matthias-gabathuler/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/rene-zeller/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/ulrich-alois-weidmann/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nheeren.github.io/categories/</loc>
   </url>
-  
 </urlset>
