@@ -7,7 +7,7 @@
     <description>BuildENVIRONMENT!</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Niko Heeren 2020</copyright><lastBuildDate>Wed, 31 Mar 2021 09:03:37 +0200</lastBuildDate>
     <image>
-      <url>https://nheeren.github.io/images/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png</url>
+      <url>https://nheeren.github.io/media/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png</url>
       <title>BuildENVIRONMENT!</title>
       <link>https://nheeren.github.io/</link>
     </image>
@@ -135,16 +135,14 @@
 
 
 
-
-
-
-
-
   
 
 
-&lt;video autoplay loop &gt;
-  &lt;source src=&#34;RECC%20Social%20media%20video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+
+
+
+&lt;video autoplay loop  &gt;
+  &lt;source src=&#34;https://nheeren.github.io/publication/irp-2019/RECC%20Social%20media%20video.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;p&gt;&lt;em&gt;Full report and more details follow soon.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This report was developed by the IRP in response to a request by  leaders of the Group of 7 nations in the context of efforts to promote  resource efficiency as a core element of sustainable development. It  conducts a rigorous assessment of the contribution of material  efficiency to GHG abatement strategies. More concretely, it assesses the reduction potential of GHG emissions from material efficiency  strategies applied in residential buildings and light duty vehicles, and reviews policies that address these strategies.&lt;/p&gt;

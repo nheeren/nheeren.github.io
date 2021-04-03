@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nheeren.github.io/publication_types/3/</loc>
+    <loc>https://nheeren.github.io/publication_types/2/</loc>
     <lastmod>2021-03-31T09:03:37+02:00</lastmod>
   </url><url>
     <loc>https://nheeren.github.io/publication/fishman-2021/</loc>
@@ -58,9 +58,6 @@
   </url><url>
     <loc>https://nheeren.github.io/authors/tomer-fishman/</loc>
     <lastmod>2021-03-31T09:03:37+02:00</lastmod>
-  </url><url>
-    <loc>https://nheeren.github.io/publication_types/2/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nheeren.github.io/authors/andrea-frangi/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
@@ -136,6 +133,9 @@
   </url><url>
     <loc>https://nheeren.github.io/authors/stefanie-hellweg/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nheeren.github.io/publication_types/3/</loc>
+    <lastmod>2020-10-28T12:13:57+00:00</lastmod>
   </url><url>
     <loc>https://nheeren.github.io/authors/andrea-nistad/</loc>
     <lastmod>2020-10-28T12:13:57+00:00</lastmod>
