@@ -5,12 +5,20 @@
     <link>https://nheeren.github.io/authors/niko-heeren/</link>
       <atom:link href="https://nheeren.github.io/authors/niko-heeren/index.xml" rel="self" type="application/rss+xml" />
     <description>Niko Heeren</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Niko Heeren 2020</copyright><lastBuildDate>Wed, 31 Mar 2021 09:03:37 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Niko Heeren 2020</copyright><lastBuildDate>Thu, 22 Apr 2021 08:00:31 +0200</lastBuildDate>
     <image>
       <url>https://nheeren.github.io/media/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png</url>
       <title>Niko Heeren</title>
       <link>https://nheeren.github.io/authors/niko-heeren/</link>
     </image>
+    
+    <item>
+      <title>A combined GIS-archetype approach to model residential space heating energy: A case study for the Netherlands including validation</title>
+      <link>https://nheeren.github.io/publication/special_issue_me-2021/</link>
+      <pubDate>Thu, 22 Apr 2021 08:00:31 +0200</pubDate>
+      <guid>https://nheeren.github.io/publication/special_issue_me-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A comprehensive set of global scenarios of housing, mobility, and material efficiency for material cycles and energy systems modelling</title>
