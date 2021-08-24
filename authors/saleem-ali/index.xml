@@ -19,8 +19,62 @@
       <guid>https://nheeren.github.io/publication/egr-chapter/</guid>
       <description>&lt;p&gt;Chapter 7 of the &lt;a href=&#34;https://www.unenvironment.org/resources/emissions-gap-report-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UN Emissions Gap Report 2019&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;figures&#34;&gt;Figures&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;fig7.1.png&#34; alt=&#34;GHG emissions in GtCO2e associated with materials production by material (left) and by the first use of materials in subsequent production processes or final consumption (right)&#34;&gt;&lt;em&gt;Figure 7.1. GHG emissions in GtCO2e associated with materials production by material (left) and by the first use of materials in subsequent production processes or final consumption (right)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;fig7.2.png&#34; alt=&#34;Annual emissions from the construction and operations of buildings in the G7 and in China and India, in a scenario that follows Shared Socioeconomic Pathway SSP1 to mitigate emissions to below 2°C Sector&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;GHG emissions in GtCO2e associated with materials production by material (left) and by the first use of materials in subsequent production processes or final consumption (right)&#34; srcset=&#34;
+               /publication/egr-chapter/fig7.1_hu06c814f98254eb1a2a5aa464343d9bfa_217614_1479f5e5b79982d90f3cb433dcda191c.png 400w,
+               /publication/egr-chapter/fig7.1_hu06c814f98254eb1a2a5aa464343d9bfa_217614_d676b6167aed99c6b8e72533b0cca7f1.png 760w,
+               /publication/egr-chapter/fig7.1_hu06c814f98254eb1a2a5aa464343d9bfa_217614_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://nheeren.github.io/publication/egr-chapter/fig7.1_hu06c814f98254eb1a2a5aa464343d9bfa_217614_1479f5e5b79982d90f3cb433dcda191c.png&#34;
+               width=&#34;760&#34;
+               height=&#34;405&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;em&gt;Figure 7.1. GHG emissions in GtCO2e associated with materials production by material (left) and by the first use of materials in subsequent production processes or final consumption (right)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Annual emissions from the construction and operations of buildings in the G7 and in China and India, in a scenario that follows Shared Socioeconomic Pathway SSP1 to mitigate emissions to below 2°C Sector&#34; srcset=&#34;
+               /publication/egr-chapter/fig7.2_huff614f263487cb584f3b456346516397_286146_604afcdb7cb6deff894b4acb10e5c902.png 400w,
+               /publication/egr-chapter/fig7.2_huff614f263487cb584f3b456346516397_286146_ec1a71b97de5e668fec863bb54dfa528.png 760w,
+               /publication/egr-chapter/fig7.2_huff614f263487cb584f3b456346516397_286146_1200x1200_fit_lanczos_2.png 1200w&#34;
+               src=&#34;https://nheeren.github.io/publication/egr-chapter/fig7.2_huff614f263487cb584f3b456346516397_286146_604afcdb7cb6deff894b4acb10e5c902.png&#34;
+               width=&#34;760&#34;
+               height=&#34;688&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
 &lt;em&gt;Figure 7.2. Annual emissions from the construction and operations of buildings in the G7 and in China and India, in a scenario that follows Shared Socioeconomic Pathway SSP1 to mitigate emissions to below 2°C Sector&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
