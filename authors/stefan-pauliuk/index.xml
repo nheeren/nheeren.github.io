@@ -7,7 +7,7 @@
     <description>Stefan Pauliuk</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Niko Heeren 2021</copyright><lastBuildDate>Tue, 24 Aug 2021 11:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nheeren.github.io/media/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_2.png</url>
+      <url>https://nheeren.github.io/media/icon_huc789a8a7510c924dc77e79ade1e0c129_549_512x512_fill_lanczos_center_3.png</url>
       <title>Stefan Pauliuk</title>
       <link>https://nheeren.github.io/authors/stefan-pauliuk/</link>
     </image>
@@ -131,10 +131,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;GHG emissions in GtCO2e associated with materials production by material (left) and by the first use of materials in subsequent production processes or final consumption (right)&#34; srcset=&#34;
-               /publication/egr-chapter/fig7.1_hu06c814f98254eb1a2a5aa464343d9bfa_217614_1479f5e5b79982d90f3cb433dcda191c.png 400w,
-               /publication/egr-chapter/fig7.1_hu06c814f98254eb1a2a5aa464343d9bfa_217614_d676b6167aed99c6b8e72533b0cca7f1.png 760w,
-               /publication/egr-chapter/fig7.1_hu06c814f98254eb1a2a5aa464343d9bfa_217614_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;https://nheeren.github.io/publication/egr-chapter/fig7.1_hu06c814f98254eb1a2a5aa464343d9bfa_217614_1479f5e5b79982d90f3cb433dcda191c.png&#34;
+               /publication/egr-chapter/fig7.1_hu06c814f98254eb1a2a5aa464343d9bfa_217614_ee51267d0d3a7c82badee99ab28f45d8.png 400w,
+               /publication/egr-chapter/fig7.1_hu06c814f98254eb1a2a5aa464343d9bfa_217614_4aeba262d3c5f48e1a60f0540c08e773.png 760w,
+               /publication/egr-chapter/fig7.1_hu06c814f98254eb1a2a5aa464343d9bfa_217614_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://nheeren.github.io/publication/egr-chapter/fig7.1_hu06c814f98254eb1a2a5aa464343d9bfa_217614_ee51267d0d3a7c82badee99ab28f45d8.png&#34;
                width=&#34;760&#34;
                height=&#34;405&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -159,10 +159,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Annual emissions from the construction and operations of buildings in the G7 and in China and India, in a scenario that follows Shared Socioeconomic Pathway SSP1 to mitigate emissions to below 2°C Sector&#34; srcset=&#34;
-               /publication/egr-chapter/fig7.2_huff614f263487cb584f3b456346516397_286146_604afcdb7cb6deff894b4acb10e5c902.png 400w,
-               /publication/egr-chapter/fig7.2_huff614f263487cb584f3b456346516397_286146_ec1a71b97de5e668fec863bb54dfa528.png 760w,
-               /publication/egr-chapter/fig7.2_huff614f263487cb584f3b456346516397_286146_1200x1200_fit_lanczos_2.png 1200w&#34;
-               src=&#34;https://nheeren.github.io/publication/egr-chapter/fig7.2_huff614f263487cb584f3b456346516397_286146_604afcdb7cb6deff894b4acb10e5c902.png&#34;
+               /publication/egr-chapter/fig7.2_huff614f263487cb584f3b456346516397_286146_5d546760795b120e8c0cb170f5ba67ea.png 400w,
+               /publication/egr-chapter/fig7.2_huff614f263487cb584f3b456346516397_286146_45f242c0673c467d6b7471965f9df0aa.png 760w,
+               /publication/egr-chapter/fig7.2_huff614f263487cb584f3b456346516397_286146_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://nheeren.github.io/publication/egr-chapter/fig7.2_huff614f263487cb584f3b456346516397_286146_5d546760795b120e8c0cb170f5ba67ea.png&#34;
                width=&#34;760&#34;
                height=&#34;688&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
