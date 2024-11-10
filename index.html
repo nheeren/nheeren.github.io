@@ -394,19 +394,73 @@
 }
 </script>
 
-
-  
-
-  
-
-  
-
-
-
+  <style>
+    .info-box {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.7);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+    }
+    .info-content {
+        background-color: white;
+        padding: 2rem;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        max-width: 600px;
+        width: 90%;
+    }
+    .info-content h2 {
+        color: #2c3e50;
+        margin-bottom: 1rem;
+    }
+    .info-content p {
+        color: #34495e;
+        margin-bottom: 1rem;
+    }
+    .info-content a {
+        color: #3498db;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+    .info-content a:hover {
+        color: #2980b9;
+        text-decoration: underline;
+    }
+    #close-info {
+        background-color: #3498db;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+    #close-info:hover {
+        background-color: #2980b9;
+    }
+</style>
 
 
   <title>BuildENVIRONMENT!</title>
 </head>
+
+<style type="text/css">.medium-zoom-overlay{position:fixed;top:0;right:0;bottom:0;left:0;opacity:0;transition:opacity .3s;will-change:opacity}.medium-zoom--opened .medium-zoom-overlay{cursor:pointer;cursor:zoom-out;opacity:1}.medium-zoom-image{cursor:pointer;cursor:zoom-in;transition:transform .3s cubic-bezier(.2,0,.2,1)!important}.medium-zoom-image--hidden{visibility:hidden}.medium-zoom-image--opened{position:relative;cursor:pointer;cursor:zoom-out;will-change:transform}</style></head>  
+<div id="info-box" class="info-box">
+  <div class="info-content">
+      <h2>Website Under Maintenance</h2>
+      <p>Thank you for visiting. This website is outdated and under maintenance (Nov 2024).</p>
+      <p>Please find my latest CV here:</p>
+      <p><a href="https://example.com/your-cv.pdf" target="_blank">Download My CV</a></p>
+      <button id="close-info" class="close-button">Close</button>
+  </div>
+</div>
 
 
 <body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper   "  >
@@ -3884,6 +3938,11 @@ In a final update for this year, we uploaded another 10+ datasets to the Industr
 
 
 
+<script>
+    document.getElementById('close-info').addEventListener('click', function() {
+        document.getElementById('info-box').style.display = 'none';
+    });
+</script>
 
 </body>
 </html>
